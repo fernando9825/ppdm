@@ -1,0 +1,3131 @@
+[
+    {
+        "id_producto": "1",
+        "barcode": "6933237801789",
+        "descripcion": "BATERIAS AAA",
+        "porcentaje_utilidad1": "25",
+        "imagen": "img\/productos\/15b798ff8e6a2686a1b5d80f546eec97.jpg"
+    },
+    {
+        "id_producto": "2",
+        "barcode": "7404005960780",
+        "descripcion": "LAMPARA RECARGABLE SUSAN 4 LED SULI004",
+        "porcentaje_utilidad1": "0",
+        "imagen": "img\/productos\/0b2b55df43c1fd04f70965a99321254b.jpg"
+    },
+    {
+        "id_producto": "3",
+        "barcode": "6932512159713",
+        "descripcion": "LAMPARA DE FRENTE JINLIDA 1597",
+        "porcentaje_utilidad1": "25",
+        "imagen": "img\/productos\/a026d517821cd8530602cf479a3ba706.jpg"
+    },
+    {
+        "id_producto": "4",
+        "barcode": "6485741785975",
+        "descripcion": "LAMPARA DE MANO VARIOS FOCOS JA-1958",
+        "porcentaje_utilidad1": "29.87",
+        "imagen": "img\/productos\/78244442260132b40f5deea9230dadb1.jpg"
+    },
+    {
+        "id_producto": "5",
+        "barcode": "6485741719505",
+        "descripcion": "LAMPARA DE MANO SOLAR DOS CANDELAS JA-1950",
+        "porcentaje_utilidad1": "29",
+        "imagen": ""
+    },
+    {
+        "id_producto": "8",
+        "barcode": "6201520152048",
+        "descripcion": "RADIO CHALLENGER CH-988\/CH-244",
+        "porcentaje_utilidad1": "10.2",
+        "imagen": "img\/productos\/a5f30fa69c4252c6de337a9aa7e7f891.jpg"
+    },
+    {
+        "id_producto": "10",
+        "barcode": "2013042702106",
+        "descripcion": "RADIO CHALLENGER CON MEMORIA CH-10RU",
+        "porcentaje_utilidad1": "16.67",
+        "imagen": "img\/productos\/bb08bfa0055b23c6820d2e7f542a455b.jpg"
+    },
+    {
+        "id_producto": "11",
+        "barcode": "6920170000010",
+        "descripcion": "CARGADOR UNIVERSAL SIN PANTALLA S-WQ-01-001",
+        "porcentaje_utilidad1": "78",
+        "imagen": "img\/productos\/6789314adfe160e8dbbce55cde177a0c.jpg"
+    },
+    {
+        "id_producto": "12",
+        "barcode": "8601011010037",
+        "descripcion": "CARGADOR UNIVERSAL CON PANTALLA S-WQ-01-003",
+        "porcentaje_utilidad1": "66.67",
+        "imagen": "img\/productos\/8ecfb49df9f0451b4302fb570159ed62.png"
+    },
+    {
+        "id_producto": "13",
+        "barcode": "861833701021",
+        "descripcion": "LASER LAPIZ RECARGAGLE",
+        "porcentaje_utilidad1": "26.48",
+        "imagen": "img\/productos\/4431139979f059378cd66c6ace86b030.jpg"
+    },
+    {
+        "id_producto": "14",
+        "barcode": "8618113011404",
+        "descripcion": "POWER BANK 3600 mAh S-TY-01-140",
+        "porcentaje_utilidad1": "33.33",
+        "imagen": "img\/productos\/bcef595a95b6203e6d4ca334298b2026.jpg"
+    },
+    {
+        "id_producto": "15",
+        "barcode": "5180121250364",
+        "descripcion": "EXTENSION ELECTRICA 25FT 115036-25",
+        "porcentaje_utilidad1": "40.05",
+        "imagen": "img\/productos\/32933aad96bf4184cd114642bcc24a49.jpg"
+    },
+    {
+        "id_producto": "16",
+        "barcode": "5180151150184",
+        "descripcion": "EXTENSION ELECTRICA 18FT 115036-18",
+        "porcentaje_utilidad1": "31.58",
+        "imagen": "img\/productos\/cfda25eb038e731ad2d9b18020d7a858.jpg"
+    },
+    {
+        "id_producto": "17",
+        "barcode": "2332566589346",
+        "descripcion": "EXTENSION ELECTRICA 6FT APOLO APEA02",
+        "porcentaje_utilidad1": "63.63",
+        "imagen": "img\/productos\/d8f483bf37e12cb9d3327dd080e70d7e.jpg"
+    },
+    {
+        "id_producto": "19",
+        "barcode": "7506086600194",
+        "descripcion": "REGLETA EXITOSO",
+        "porcentaje_utilidad1": "32.14",
+        "imagen": ""
+    },
+    {
+        "id_producto": "20",
+        "barcode": "7501892884707",
+        "descripcion": "EXTENSION ELECTRICA ROTTER 6M NARANJA RO2724",
+        "porcentaje_utilidad1": "28.2",
+        "imagen": ""
+    },
+    {
+        "id_producto": "21",
+        "barcode": "7453038488105",
+        "descripcion": "EXTENSION ELECTRICA TROEN 8M NARANJA",
+        "porcentaje_utilidad1": "45.45",
+        "imagen": "img\/productos\/d52930fc4c390c03b4d11cff35cd7f7c.jpg"
+    },
+    {
+        "id_producto": "23",
+        "barcode": "7501892884738",
+        "descripcion": "EXTENSION ELECTRICA FULGORE 15M NARANJA",
+        "porcentaje_utilidad1": "3.23",
+        "imagen": ""
+    },
+    {
+        "id_producto": "24",
+        "barcode": "6943360900211",
+        "descripcion": "LAMPARA RECARGABLE LH-404",
+        "porcentaje_utilidad1": "25",
+        "imagen": "img\/productos\/ed96d8179ed7589128eea26158ca5b59.jpg"
+    },
+    {
+        "id_producto": "25",
+        "barcode": "6942205288989",
+        "descripcion": "LAMPARA REGARGABLE PUNTA DE CRISTAL YJ-0929",
+        "porcentaje_utilidad1": "30.4",
+        "imagen": "img\/productos\/d6f38009f2b5d8b96be225135bf21a3e.jpg"
+    },
+    {
+        "id_producto": "27",
+        "barcode": "6941507400778",
+        "descripcion": "LAMPARA RECARGABLE XY-838",
+        "porcentaje_utilidad1": "30.4",
+        "imagen": "img\/productos\/ba1f455f35a1cb6f42e9ab183068dbeb.jpg"
+    },
+    {
+        "id_producto": "28",
+        "barcode": "6942206870268",
+        "descripcion": "LAMPARA RECARGABLE BLANCA SY-3726",
+        "porcentaje_utilidad1": "38.89",
+        "imagen": "img\/productos\/915dff8a0329b1f44ba45c988ef8ff52.jpg"
+    },
+    {
+        "id_producto": "30",
+        "barcode": "867408101139",
+        "descripcion": "LAMPARA PACHITA RECARGABLE SS-919",
+        "porcentaje_utilidad1": "25",
+        "imagen": "img\/productos\/a7b43970901d536d642d3a5dda187077.jpg"
+    },
+    {
+        "id_producto": "31",
+        "barcode": "6922550689891",
+        "descripcion": "LAMPARA RECARGABLE TRIANGULO AB-K03",
+        "porcentaje_utilidad1": "30",
+        "imagen": "img\/productos\/4ec2026d1d9c02c29f7bc989f5b68dd7.jpg"
+    },
+    {
+        "id_producto": "33",
+        "barcode": "6944031229242",
+        "descripcion": "LAMPARA RECARGABLE SS-853",
+        "porcentaje_utilidad1": "30.4",
+        "imagen": "img\/productos\/19f8e84540b94cb4e835328c2259a57a.jpg"
+    },
+    {
+        "id_producto": "34",
+        "barcode": "6952571851458",
+        "descripcion": "LAMPARA RECARGABLE 9001-B",
+        "porcentaje_utilidad1": "30.43",
+        "imagen": "img\/productos\/93e2ab58b0bf3d052a129c48b2713ee0.jpg"
+    },
+    {
+        "id_producto": "35",
+        "barcode": "7404005960766",
+        "descripcion": "LAMPARA RECARGABLE SUSAN GRANDE SULI002",
+        "porcentaje_utilidad1": "20",
+        "imagen": "img\/productos\/669f19f07f5af1a0a67e65ca35dbc4d2.jpg"
+    },
+    {
+        "id_producto": "38",
+        "barcode": "7404005960414",
+        "descripcion": "FOCO LED APOLO 7W APB0002B \/BLISTER\/",
+        "porcentaje_utilidad1": "23.45",
+        "imagen": "img\/productos\/d4bc767f1700495dc955fbd919974eec.jpg"
+    },
+    {
+        "id_producto": "39",
+        "barcode": "7404005960421",
+        "descripcion": "FOCO LED APOLO 9W APBO003B \/BLISTER\/",
+        "porcentaje_utilidad1": "22.22",
+        "imagen": "img\/productos\/9bf01d894d1613868e11312984517c67.jpg"
+    },
+    {
+        "id_producto": "40",
+        "barcode": "7501206670019",
+        "descripcion": "FOCO APOLO 25W APAH001B",
+        "porcentaje_utilidad1": "41",
+        "imagen": "img\/productos\/5fe77ac5224785e2f984902c926af517.jpg"
+    },
+    {
+        "id_producto": "41",
+        "barcode": "7404005960292",
+        "descripcion": "FOCO SUSAN 65W SUAH003B",
+        "porcentaje_utilidad1": "25",
+        "imagen": ""
+    },
+    {
+        "id_producto": "42",
+        "barcode": "7404005960544",
+        "descripcion": "FOCO SUSAN 85W SUAH009 ROSCA NORMAL",
+        "porcentaje_utilidad1": "34.6",
+        "imagen": "img\/productos\/0b2b55df43c1fd04f70965a99321254b.jpg"
+    },
+    {
+        "id_producto": "44",
+        "barcode": "7404005960322",
+        "descripcion": "FOCO APOLO 65W APAH-003",
+        "porcentaje_utilidad1": "34.61",
+        "imagen": "img\/productos\/01e947e03915fac2852eb02eed82f3d2.jpg"
+    },
+    {
+        "id_producto": "45",
+        "barcode": "7404005960704",
+        "descripcion": "FOCO APOLO 45W APAH-004",
+        "porcentaje_utilidad1": "20",
+        "imagen": "img\/productos\/1a60cfd228eb70fac4eafebab487d00c.jpg"
+    },
+    {
+        "id_producto": "46",
+        "barcode": "7404005960278",
+        "descripcion": "FOCO SUSAN 25W SUAH001",
+        "porcentaje_utilidad1": "25",
+        "imagen": "img\/productos\/6e36bd2352a08471709b69cf80e557a8.jpg"
+    },
+    {
+        "id_producto": "47",
+        "barcode": "7404005960520",
+        "descripcion": "FOCO SUSAN 28W SUAH007",
+        "porcentaje_utilidad1": "26.5",
+        "imagen": "img\/productos\/de753b77b4b503efae6a89b02fea851f.jpg"
+    },
+    {
+        "id_producto": "48",
+        "barcode": "7404005960094",
+        "descripcion": "FOCO CHIYODA 25W",
+        "porcentaje_utilidad1": "9.09",
+        "imagen": "img\/productos\/8f90c8ed76e3d1a60bc7518850cc3481.jpg"
+    },
+    {
+        "id_producto": "49",
+        "barcode": "7404005960285",
+        "descripcion": "FOCO SUSAN 15W SUAH002",
+        "porcentaje_utilidad1": "9.5",
+        "imagen": "img\/productos\/89e47b678af80979d58ab58e4e3bb534.jpg"
+    },
+    {
+        "id_producto": "50",
+        "barcode": "7404005960599",
+        "descripcion": "FOCO SUSAN 15W T2 SUAH014",
+        "porcentaje_utilidad1": "19.04",
+        "imagen": "img\/productos\/d66253ac194b5b098f1b641f87d5daa9.jpg"
+    },
+    {
+        "id_producto": "52",
+        "barcode": "6484572119522",
+        "descripcion": "LAMPARA RECARGABLE DOS CANDELAS JA-1952",
+        "porcentaje_utilidad1": "28.21",
+        "imagen": "img\/productos\/5ede59947cdf8f318c9385602f37d6c7.jpg"
+    },
+    {
+        "id_producto": "53",
+        "barcode": "4710635005177",
+        "descripcion": "CONTROL IML BLISTER LARGO ROJO RCR504BR",
+        "porcentaje_utilidad1": "32.5",
+        "imagen": "img\/productos\/f638e23870f477c597ccc901d61cbbb0.jpg"
+    },
+    {
+        "id_producto": "54",
+        "barcode": "7854545464871",
+        "descripcion": "CONTROL RCA BLISTER LARGO CELESTE RCU-404",
+        "porcentaje_utilidad1": "41.26",
+        "imagen": "img\/productos\/2feb800b3e61587b916d72e548bad575.jpg"
+    },
+    {
+        "id_producto": "55",
+        "barcode": "861768101003",
+        "descripcion": "CONTROL INTELIGENTE PEQUEÑO LCD F-188 XR-01-003",
+        "porcentaje_utilidad1": "17.65",
+        "imagen": "img\/productos\/928c3d40c29ce9eeaaff6e261a116972.jpg"
+    },
+    {
+        "id_producto": "56",
+        "barcode": "6921338610003",
+        "descripcion": "CONTROL REMOTO UNIVERSAL AIRE ACONDICIONADO KT-100A XR-01-022",
+        "porcentaje_utilidad1": "25",
+        "imagen": "img\/productos\/82cf4a342eafbbc8929da0dfb0eec9a0.jpg"
+    },
+    {
+        "id_producto": "58",
+        "barcode": "1107011611979",
+        "descripcion": "CONTROL REMOTO UNIVERSAL TV STANG ST-620",
+        "porcentaje_utilidad1": "31.58",
+        "imagen": "img\/productos\/05be4de988d47e4d2c13c47095c7fe19.jpg"
+    },
+    {
+        "id_producto": "60",
+        "barcode": "8617681010017",
+        "descripcion": "CONTROL INTELIGENTE RM-9511",
+        "porcentaje_utilidad1": "42.04",
+        "imagen": "img\/productos\/140440119367537021eebb084bd06086.jpg"
+    },
+    {
+        "id_producto": "62",
+        "barcode": "250777000714",
+        "descripcion": "CONTROL COLORES LCD IML HR-N98",
+        "porcentaje_utilidad1": "31.58",
+        "imagen": "img\/productos\/79b5f4ab7b4539378eb7e4a6e26667fe.jpg"
+    },
+    {
+        "id_producto": "63",
+        "barcode": "6921338623003",
+        "descripcion": "CONTROL REMOTO UNIVERSAL DVD RM-230E",
+        "porcentaje_utilidad1": "57.89",
+        "imagen": "img\/productos\/de4d645797c19edc774d19161d0b712b.jpg"
+    },
+    {
+        "id_producto": "64",
+        "barcode": "6934086682567",
+        "descripcion": "CONTROL INTELIGENTE RM-9513",
+        "porcentaje_utilidad1": "31.58",
+        "imagen": "img\/productos\/1e2444bd4cfb87b51bfa0f55ebf48914.jpg"
+    },
+    {
+        "id_producto": "65",
+        "barcode": "250777000608",
+        "descripcion": "CONTROL TV PANASONIC BL\/NE EUR501330 AYLIN-CONTROL-00060",
+        "porcentaje_utilidad1": "54",
+        "imagen": "img\/productos\/a308dd19ccf1c475df3c1f7ff97ad129.jpg"
+    },
+    {
+        "id_producto": "66",
+        "barcode": "250777000684",
+        "descripcion": "CONTROL SANYO DINAMICO TV 9370 AYLIN-CONTROL-00068",
+        "porcentaje_utilidad1": "88.68",
+        "imagen": "img\/productos\/9da10ca4744bc7b99289c02be00bce4a.jpg"
+    },
+    {
+        "id_producto": "67",
+        "barcode": "250777000646",
+        "descripcion": "CONTROL PANASONIC  TV EUR-7717010 AYLIN-CONTROL-00064",
+        "porcentaje_utilidad1": "88.67",
+        "imagen": "img\/productos\/af90d91bfe7b5b6d123a1ac151f224c3.jpg"
+    },
+    {
+        "id_producto": "68",
+        "barcode": "250777001179",
+        "descripcion": "CONTROL PANASONIC BLANCO TV TNQ 4G0401",
+        "porcentaje_utilidad1": "88.67",
+        "imagen": "img\/productos\/379d918aa5072fc9101f4fba296cef95.jpg"
+    },
+    {
+        "id_producto": "71",
+        "barcode": "8617681011120",
+        "descripcion": "CONTROL TV SONY RM-969",
+        "porcentaje_utilidad1": "54",
+        "imagen": "img\/productos\/eece4209cb842f147ad571bc5643c0c5.jpg"
+    },
+    {
+        "id_producto": "73",
+        "barcode": "250777001162",
+        "descripcion": "CONTROL SANKEY TV OM8370-909 AYLIN-CONTROL-000116",
+        "porcentaje_utilidad1": "88.68",
+        "imagen": "img\/productos\/50e55cddf7f6b6809bc3e9e17f654fe5.jpg"
+    },
+    {
+        "id_producto": "74",
+        "barcode": "250777000547",
+        "descripcion": "CONTROL SHARP TV G13224SA CONTROL-00054",
+        "porcentaje_utilidad1": "88.7",
+        "imagen": "img\/productos\/3a359907443be723bf2cf2de8a46363e.jpg"
+    },
+    {
+        "id_producto": "75",
+        "barcode": "2015110616001",
+        "descripcion": "RADIO USB CHALLENGER CON CONTROL REMOTO CH-001R",
+        "porcentaje_utilidad1": "21.05",
+        "imagen": "img\/productos\/f943d3f72c797e10f39637f4c34b9881.jpg"
+    },
+    {
+        "id_producto": "76",
+        "barcode": "250111000608",
+        "descripcion": "CONTROL PANASONIC BLANCO O NEGRO 501330 AYLIN-CONTROL-00060",
+        "porcentaje_utilidad1": "104",
+        "imagen": "img\/productos\/fa4e853cf87807fefcef30aa1f859204.jpg"
+    },
+    {
+        "id_producto": "77",
+        "barcode": "250777000660",
+        "descripcion": "CONTROL TV PRECISION RS17-8895M AYLIN-CONTROL-00066",
+        "porcentaje_utilidad1": "88.68",
+        "imagen": "img\/productos\/65f59fb955a548095589f4801b9c2d03.jpg"
+    },
+    {
+        "id_producto": "79",
+        "barcode": "250777000592",
+        "descripcion": "CONTROL TV DAEWOO R-43A01 AYLIN-CONTROL-00059",
+        "porcentaje_utilidad1": "53.8",
+        "imagen": "img\/productos\/8e33217080319f97c88546043432f602.jpg"
+    },
+    {
+        "id_producto": "80",
+        "barcode": "250777000677",
+        "descripcion": "CONTROL LG 6710V00090H TV CONTROL-00067",
+        "porcentaje_utilidad1": "88.68",
+        "imagen": "img\/productos\/27372df1b994cc15e5cb21c82333f012.jpg"
+    },
+    {
+        "id_producto": "81",
+        "barcode": "868667101081",
+        "descripcion": "AUDIFONO SAMSUNG GALAXY S4  ZDRA-01-081",
+        "porcentaje_utilidad1": "31.58",
+        "imagen": "img\/productos\/04591ed9312c9b77b4bcbcf706b46069.jpg"
+    },
+    {
+        "id_producto": "82",
+        "barcode": "8611681017090",
+        "descripcion": "CONTROL TV PHILIPS RC19335010",
+        "porcentaje_utilidad1": "54",
+        "imagen": "img\/productos\/ab62c8eaf8756ab9416fa49a059ed1a3.jpg"
+    },
+    {
+        "id_producto": "83",
+        "barcode": "861768101012",
+        "descripcion": "CONTROL TV TOSHIBA CT-90163",
+        "porcentaje_utilidad1": "53.8",
+        "imagen": "img\/productos\/ecf37b07e584c4955369c65d0ec0dd1b.jpg"
+    },
+    {
+        "id_producto": "84",
+        "barcode": "8617681011014",
+        "descripcion": "CONTROL TV PHILIPS RC 283501",
+        "porcentaje_utilidad1": "88.68",
+        "imagen": "img\/productos\/ef251428257822d89cc6eb090d86a2b2.jpg"
+    },
+    {
+        "id_producto": "90",
+        "barcode": "8899145010515",
+        "descripcion": "BOCINA BLUETOOTH MS-165BT",
+        "porcentaje_utilidad1": "17.24",
+        "imagen": "img\/productos\/c8b1d6714339299392db9bb268b0de93.jpg"
+    },
+    {
+        "id_producto": "91",
+        "barcode": "8657102011002",
+        "descripcion": "BOCINA MS-129BT\/MS-244BT\/MS-132BT",
+        "porcentaje_utilidad1": "30.95",
+        "imagen": "img\/productos\/0dd038711aba49df16ad2ef55887a5ba.jpg"
+    },
+    {
+        "id_producto": "92",
+        "barcode": "860314501117",
+        "descripcion": "BOCINA BLUETOOTH MS-149BT",
+        "porcentaje_utilidad1": "25",
+        "imagen": "img\/productos\/6de8ceb8d235814f5f236a007e1a58da.jpg"
+    },
+    {
+        "id_producto": "94",
+        "barcode": "860314501114",
+        "descripcion": "BOCINA BLUETOOTH MS-145BT JHW-01-114",
+        "porcentaje_utilidad1": "25",
+        "imagen": "img\/productos\/6a0474775b1cb696d655240be75dd93e.jpg"
+    },
+    {
+        "id_producto": "95",
+        "barcode": "8899145010683",
+        "descripcion": "BOCINA BLUETOOTH MS-173BT",
+        "porcentaje_utilidad1": "30",
+        "imagen": ""
+    },
+    {
+        "id_producto": "97",
+        "barcode": "2015012190036",
+        "descripcion": "RADIO CHALLENGER CON MEMORIA CH-036TU",
+        "porcentaje_utilidad1": "0",
+        "imagen": "img\/productos\/55234ed33108e3550c02b406b1ceda8d.jpg"
+    },
+    {
+        "id_producto": "104",
+        "barcode": "8410755310002",
+        "descripcion": "GANCHOS PRENSA ROPA DE MADERA",
+        "porcentaje_utilidad1": "38.9",
+        "imagen": "img\/productos\/ddf64c7edfd893381d4fc4a7d3ec7979.jpg"
+    },
+    {
+        "id_producto": "106",
+        "barcode": "6913028866777",
+        "descripcion": "NINTENDO GAME STATION",
+        "porcentaje_utilidad1": "12.5",
+        "imagen": "img\/productos\/4fd732f21b09b32c7d7e573d3ed28dba.jpg"
+    },
+    {
+        "id_producto": "107",
+        "barcode": "6937618360360",
+        "descripcion": "SET DE DESARMADORES 31 EN 1  JK-6036",
+        "porcentaje_utilidad1": "83.8",
+        "imagen": "img\/productos\/6d23b36e14a0164467120640a7e56973.jpg"
+    },
+    {
+        "id_producto": "112",
+        "barcode": "7404059612017",
+        "descripcion": "CANDELA CIRCULAR SUSAN 32W SUAH019",
+        "porcentaje_utilidad1": "20.7",
+        "imagen": "img\/productos\/3a7f30393b629990b61536fdb9b1b6ea.jpg"
+    },
+    {
+        "id_producto": "113",
+        "barcode": "6970432380046",
+        "descripcion": "BATERIAS AA",
+        "porcentaje_utilidad1": "25",
+        "imagen": "img\/productos\/b8da0d12400e76894419700a8d063250.jpg"
+    },
+    {
+        "id_producto": "120",
+        "barcode": "861768101028",
+        "descripcion": "CONTROL REMOTO TOSHIBA DVD SE-R0047 XR-01-028",
+        "porcentaje_utilidad1": "33.33",
+        "imagen": "img\/productos\/0aa01f78b6811323ccec4703880f3596.jpg"
+    },
+    {
+        "id_producto": "121",
+        "barcode": "861768101030",
+        "descripcion": "CONTROL REMOTO COBY DVD JK-2002B XR-01-030",
+        "porcentaje_utilidad1": "89",
+        "imagen": "img\/productos\/822dea8c073ae1dc9dce9a3aaed0cc1b.jpg"
+    },
+    {
+        "id_producto": "122",
+        "barcode": "861768101031",
+        "descripcion": "CONTROL REMOTO DVD SANKEY SAN215 XR-01-031",
+        "porcentaje_utilidad1": "89",
+        "imagen": "img\/productos\/2fb01af6ec16a1f152f6de5245d40713.jpg"
+    },
+    {
+        "id_producto": "124",
+        "barcode": "8617681011045",
+        "descripcion": "CONTROL TV SANYO DE CORTINA 8859",
+        "porcentaje_utilidad1": "53.8",
+        "imagen": "img\/productos\/4a5548e5636cee0c5fabfa7e0677b10f.jpg"
+    },
+    {
+        "id_producto": "131",
+        "barcode": "6948031102062",
+        "descripcion": "CEPILLO NIÑO EN CAJA \/DOCENA\/",
+        "porcentaje_utilidad1": "34.57",
+        "imagen": "img\/productos\/7133c667f87aa9c73a35f7da8c2892a9.jpg"
+    },
+    {
+        "id_producto": "134",
+        "barcode": "6970157240229",
+        "descripcion": "CEPILLO ADULTO LANSHARE",
+        "porcentaje_utilidad1": "27.8",
+        "imagen": "img\/productos\/95156c2cbea381fdc2bd9209a9791d7a.jpg"
+    },
+    {
+        "id_producto": "136",
+        "barcode": "6934741706034",
+        "descripcion": "CEPILLO ADULTO SAN-A \/DOCENA\/",
+        "porcentaje_utilidad1": "9.7",
+        "imagen": "img\/productos\/ed0181438dec88342e983d3e74a6d6d6.jpg"
+    },
+    {
+        "id_producto": "137",
+        "barcode": "6921700799886",
+        "descripcion": "LAMPARA DE EMERGENCIA DOS CANDELAS LL-6808R",
+        "porcentaje_utilidad1": "30",
+        "imagen": ""
+    },
+    {
+        "id_producto": "138",
+        "barcode": "6940326474892",
+        "descripcion": "LAMPARA DE HERRAMIENTA SD-898",
+        "porcentaje_utilidad1": "14.94",
+        "imagen": "img\/productos\/9955265dd06423550cf42ac7729318da.jpg"
+    },
+    {
+        "id_producto": "140",
+        "barcode": "6970254115130",
+        "descripcion": "PAQUETE DE HISOPOS MEDIANO 60-2",
+        "porcentaje_utilidad1": "47.06",
+        "imagen": "img\/productos\/f1566bbe0215cb3809d703a432813e0a.jpg"
+    },
+    {
+        "id_producto": "143",
+        "barcode": "TY-668",
+        "descripcion": "LAMPARA PACHITA DE BATERIA TY-668",
+        "porcentaje_utilidad1": "20",
+        "imagen": "img\/productos\/221fafae689b058ac6b8993b9cb67a85.jpg"
+    },
+    {
+        "id_producto": "145",
+        "barcode": "KT-6628",
+        "descripcion": "LAMPARA DE BATERIA KT-6628",
+        "porcentaje_utilidad1": "22.2",
+        "imagen": "img\/productos\/9ce40dcef61ad23bf7bc686e30138db7.jpg"
+    },
+    {
+        "id_producto": "146",
+        "barcode": "WF-2218",
+        "descripcion": "LAMPARA DE BATERIA WF-2218",
+        "porcentaje_utilidad1": "0",
+        "imagen": "img\/productos\/1a52e64ecd7aeabd3e2658566eb4edf8.jpg"
+    },
+    {
+        "id_producto": "149",
+        "barcode": "WBY-956",
+        "descripcion": "LAMPARA DE BATERIA WBY-956",
+        "porcentaje_utilidad1": "20",
+        "imagen": "img\/productos\/025a4160ada58bc5b9dfea04a1d9cdfb.jpg"
+    },
+    {
+        "id_producto": "150",
+        "barcode": "6941507400129",
+        "descripcion": "LAMPARA DE BATERIA SY-0838",
+        "porcentaje_utilidad1": "22",
+        "imagen": "img\/productos\/2a9a7c374a31ccd88d5d5721fb8a5d43.jpg"
+    },
+    {
+        "id_producto": "151",
+        "barcode": "8603168110516",
+        "descripcion": "MASAJEADOR MIMO XY3199 WX-03-008",
+        "porcentaje_utilidad1": "22.95",
+        "imagen": "img\/productos\/f4900af8fd6e3b3b3d49f25bdd77622a.jpg"
+    },
+    {
+        "id_producto": "152",
+        "barcode": "6942205288057",
+        "descripcion": "LAMPARA DE BATERIA YJ-831",
+        "porcentaje_utilidad1": "15.4",
+        "imagen": "img\/productos\/f08fdf06b5981880de4134566dd9e03c.jpg"
+    },
+    {
+        "id_producto": "153",
+        "barcode": "6926637835195",
+        "descripcion": "LAMPARA DE BATERIA A-3519 DON NARCISO",
+        "porcentaje_utilidad1": "20",
+        "imagen": "img\/productos\/a64502375cec8a6cd015c04f65cb39c2.jpg"
+    },
+    {
+        "id_producto": "154",
+        "barcode": "7501892828107",
+        "descripcion": "NAVAJA WOLFOX DE 5 PULGADAS",
+        "porcentaje_utilidad1": "159",
+        "imagen": ""
+    },
+    {
+        "id_producto": "155",
+        "barcode": "7410010560006",
+        "descripcion": "MASCON VERDE DURA MAX",
+        "porcentaje_utilidad1": "31.58",
+        "imagen": "img\/productos\/4c68bbee1354fbf339c99cdb083f3c15.jpg"
+    },
+    {
+        "id_producto": "159",
+        "barcode": "860321302001",
+        "descripcion": "CRICO PLASTICO 16 PULGADAS LKS-02-001",
+        "porcentaje_utilidad1": "57.89",
+        "imagen": "img\/productos\/e677ee7afadb5ebc1b6e46afe04fcd3d.jpg"
+    },
+    {
+        "id_producto": "160",
+        "barcode": "860321302002",
+        "descripcion": "CRICO PLASTICO 18 PULGADAS LKS-02-002",
+        "porcentaje_utilidad1": "57.89",
+        "imagen": "img\/productos\/a9f8a5c04b7a91caeac85bce41c9aaac.jpg"
+    },
+    {
+        "id_producto": "161",
+        "barcode": "860321302003",
+        "descripcion": "CRICO PLASTICO 20 PULGADAS LKS-02-003",
+        "porcentaje_utilidad1": "50",
+        "imagen": "img\/productos\/79a105a925bbf74071fcd7272a86aded.jpg"
+    },
+    {
+        "id_producto": "162",
+        "barcode": "860321302004",
+        "descripcion": "CRICO PLASTICO 22 PULGADAS LKS-02-004",
+        "porcentaje_utilidad1": "57.89",
+        "imagen": "img\/productos\/ef7536d734012951efc3cf44dd77eee0.jpg"
+    },
+    {
+        "id_producto": "169",
+        "barcode": "8618106010056",
+        "descripcion": "CARGADOR PARA CARRO DOS SALIDAS USB \/BOLSA\/",
+        "porcentaje_utilidad1": "15.38",
+        "imagen": "img\/productos\/0275d3b281c7f9e35deee859305bc84c.jpg"
+    },
+    {
+        "id_producto": "170",
+        "barcode": "861796001043",
+        "descripcion": "CARGADOR COCO V8 PARA CARRO YS-01-043",
+        "porcentaje_utilidad1": "25",
+        "imagen": "img\/productos\/4e9a78a19dce91841bc2156f45e6c9f4.jpg"
+    },
+    {
+        "id_producto": "171",
+        "barcode": "86179001041",
+        "descripcion": "CARGADOR V3 COCO BOLSA",
+        "porcentaje_utilidad1": "42.86",
+        "imagen": "img\/productos\/c5f6edd4e6dd8b4552bcd618a41d231d.jpg"
+    },
+    {
+        "id_producto": "172",
+        "barcode": "250777001216",
+        "descripcion": "PULPO NEGRO 10 PUNTAS",
+        "porcentaje_utilidad1": "66.67",
+        "imagen": "img\/productos\/2a0be78710a89c7eee9a48e45fd43e83.jpg"
+    },
+    {
+        "id_producto": "174",
+        "barcode": "17404005960619",
+        "descripcion": "ROSETA SUEA001",
+        "porcentaje_utilidad1": "67",
+        "imagen": "img\/productos\/468bf14064d441f6ad7f04bf84df4ab0.jpg"
+    },
+    {
+        "id_producto": "175",
+        "barcode": "7404005960629",
+        "descripcion": "SWITCH SENCILLO TORTUGA SUEA002",
+        "porcentaje_utilidad1": "108.33",
+        "imagen": "img\/productos\/30e480c6aef3655667027883ba77319a.jpg"
+    },
+    {
+        "id_producto": "176",
+        "barcode": "6603712c",
+        "descripcion": "MEMORIA MICRO SD 4GB KINGSTON",
+        "porcentaje_utilidad1": "25",
+        "imagen": "img\/productos\/21ef2e63d50c510f5d1e3f69e6ed7050.jpg"
+    },
+    {
+        "id_producto": "178",
+        "barcode": "6936298950595",
+        "descripcion": "LIMPIADOR CD XB-102",
+        "porcentaje_utilidad1": "72.41",
+        "imagen": "img\/productos\/55d804ab1b0ea018ac60e1ed881373e7.jpg"
+    },
+    {
+        "id_producto": "180",
+        "barcode": "6954127863021",
+        "descripcion": "DESARMADOR 6 EN 1 G013-1",
+        "porcentaje_utilidad1": "72.4",
+        "imagen": "img\/productos\/5f786bb74bc4b44141391ea687f85d2b.jpg"
+    },
+    {
+        "id_producto": "186",
+        "barcode": "6924494500263",
+        "descripcion": "HILO DENTAL CPA04-30",
+        "porcentaje_utilidad1": "25",
+        "imagen": "img\/productos\/3b2ad4b6d77493b19a121fb9404d6391.jpg"
+    },
+    {
+        "id_producto": "188",
+        "barcode": "6951295515035",
+        "descripcion": "BATERIAS RECARGABLES 4300",
+        "porcentaje_utilidad1": "0",
+        "imagen": "img\/productos\/8e9f5b3a5ca4e176d14ea2feb1cfffff.jpg"
+    },
+    {
+        "id_producto": "190",
+        "barcode": "250777000905",
+        "descripcion": "CABLE IPHONE 4 SENCILLO DE COLORES AYLIN-CBL-00090",
+        "porcentaje_utilidad1": "100",
+        "imagen": "img\/productos\/ff2a622e2b359e7ffe47c427ec4c039b.jpg"
+    },
+    {
+        "id_producto": "192",
+        "barcode": "6900000061237",
+        "descripcion": "AUDIFONO AAA BOLSA 61-23",
+        "porcentaje_utilidad1": "96.07",
+        "imagen": "img\/productos\/b819e69830056ebb67ca7f01d7d0798c.jpg"
+    },
+    {
+        "id_producto": "193",
+        "barcode": "861947012866",
+        "descripcion": "CABLE iPHONE 5 COCO HDRZ-01-286",
+        "porcentaje_utilidad1": "25",
+        "imagen": "img\/productos\/a83de045a42789c048c9bb5e05e21321.jpg"
+    },
+    {
+        "id_producto": "194",
+        "barcode": "JD-718",
+        "descripcion": "LAMPARA DE BATERIA JD-718",
+        "porcentaje_utilidad1": "20.9",
+        "imagen": "img\/productos\/eaff52a69ef95e4aecf6ba36e0ffc47e.jpg"
+    },
+    {
+        "id_producto": "197",
+        "barcode": "250777000462",
+        "descripcion": "CADENA PARA PERRO M-2018 AYLIN-CPR-00046",
+        "porcentaje_utilidad1": "43",
+        "imagen": "img\/productos\/fbe69b2a01e6c33d2efa642a500c64f2.jpg"
+    },
+    {
+        "id_producto": "200",
+        "barcode": "250777000479",
+        "descripcion": "CADENA PARA PERRO M-2518 AYLIN-CPR-00047",
+        "porcentaje_utilidad1": "62.48",
+        "imagen": "img\/productos\/22d8f087abf60ec8dfe4a1ab43db8f33.jpg"
+    },
+    {
+        "id_producto": "201",
+        "barcode": "8618106010568",
+        "descripcion": "CUBO CUADRADO BLANCO",
+        "porcentaje_utilidad1": "32",
+        "imagen": "img\/productos\/e0a76fa28f729af4b40a78a065fedf2f.jpg"
+    },
+    {
+        "id_producto": "203",
+        "barcode": "250777000493",
+        "descripcion": "CADENA PARA PERRO M-4518 AYLIN-CPR-00049",
+        "porcentaje_utilidad1": "31.57",
+        "imagen": "img\/productos\/42373580774da622aa857b56e71196e1.jpg"
+    },
+    {
+        "id_producto": "216",
+        "barcode": "250777001476",
+        "descripcion": "CABLE IPHONE 5 SENCILLO",
+        "porcentaje_utilidad1": "145",
+        "imagen": "img\/productos\/4322c86ba2475091e97cd3990b4a1d11.png"
+    },
+    {
+        "id_producto": "218",
+        "barcode": "7404005960643",
+        "descripcion": "TOMA DOBLE POLARIZADO SUPERFICIAL SUSAN SUEA004",
+        "porcentaje_utilidad1": "87.5",
+        "imagen": "img\/productos\/0b4b0044eb2092fab092736a81756b8b.jpg"
+    },
+    {
+        "id_producto": "219",
+        "barcode": "250777000875",
+        "descripcion": "PULPO LARGO 3 PUNTAS\/ CABLE TIPO C \/CBL-00087",
+        "porcentaje_utilidad1": "50",
+        "imagen": "img\/productos\/a56cb161caccf72e8d8b055858880810.jpg"
+    },
+    {
+        "id_producto": "221",
+        "barcode": "6970452860078",
+        "descripcion": "PRENSA ROPA PLASTICO",
+        "porcentaje_utilidad1": "25",
+        "imagen": "img\/productos\/be5a36b9c57e3ec60941baabe75345ad.jpg"
+    },
+    {
+        "id_producto": "225",
+        "barcode": "6973821978077",
+        "descripcion": "CARGADOR SAMSUNG 3 PIEZAS FOR NOTE  GALAXY S3 S4 S5 \/ SJ03",
+        "porcentaje_utilidad1": "87.5",
+        "imagen": "img\/productos\/afc0045f1aedb482699b78947f9dcbb3.jpg"
+    },
+    {
+        "id_producto": "226",
+        "barcode": "8601181060696",
+        "descripcion": "CABLE V8 ZIPPER LED XY-01-069",
+        "porcentaje_utilidad1": "56.25",
+        "imagen": "img\/productos\/f3a2b68ae323061ad64eee220c0f4113.jpg"
+    },
+    {
+        "id_producto": "227",
+        "barcode": "4719867213268",
+        "descripcion": "CARTON PEGAMENTO SUPER GLUE CHEMMER",
+        "porcentaje_utilidad1": "16.28",
+        "imagen": "img\/productos\/3a3540fded623bfb28f71c0a91cb7647.jpg"
+    },
+    {
+        "id_producto": "228",
+        "barcode": "6932428102599",
+        "descripcion": "RASURADORA MANUAL GILITTEY II PLUS",
+        "porcentaje_utilidad1": "12.99",
+        "imagen": "img\/productos\/c51c0583b1ba58cdd74f39207f1160fb.jpg"
+    },
+    {
+        "id_producto": "230",
+        "barcode": "250777001070",
+        "descripcion": "CARGADOR BATERIA LAMPARA POLICIAL",
+        "porcentaje_utilidad1": "50",
+        "imagen": "img\/productos\/4daba0f19a2fc5fd5efc9bd9c61aef8c.jpg"
+    },
+    {
+        "id_producto": "232",
+        "barcode": "250777000837",
+        "descripcion": "CABLE AUXILIAR PARA DVD IML AYLIN-CBL-00083",
+        "porcentaje_utilidad1": "78.57",
+        "imagen": "img\/productos\/4991ac17a29682c2f555f2c93a9a2420.jpg"
+    },
+    {
+        "id_producto": "233",
+        "barcode": "250777000844",
+        "descripcion": "EXTENSION PARA RADIO  AYLIN-CBL-00084",
+        "porcentaje_utilidad1": "170.27",
+        "imagen": "img\/productos\/745ebd45f4992838e6f4bae799f6c11f.jpg"
+    },
+    {
+        "id_producto": "234",
+        "barcode": "250777000417",
+        "descripcion": "ANTENA BASE REDONDA CON CABLE COAXIAL A-618C",
+        "porcentaje_utilidad1": "56.25",
+        "imagen": "img\/productos\/c97046c085b3d35dcd8fa0c26e643740.jpg"
+    },
+    {
+        "id_producto": "237",
+        "barcode": "8615523020422",
+        "descripcion": "CINTA LED BLANCA 100 CM HD-02-042",
+        "porcentaje_utilidad1": "36.2",
+        "imagen": "img\/productos\/8b31c9dfc0b7178a72804901021be23d.jpg"
+    },
+    {
+        "id_producto": "238",
+        "barcode": "250777000370",
+        "descripcion": "KIT REGULADOR DE COCINA DE GAS AYLIN-VLV-00037",
+        "porcentaje_utilidad1": "27.84",
+        "imagen": "img\/productos\/95e4f70d8f5887025388fbe8d58b25ca.jpg"
+    },
+    {
+        "id_producto": "239",
+        "barcode": "250777000455",
+        "descripcion": "CADENA PARA PERRO M-3018 AYLIN-CPR-00045",
+        "porcentaje_utilidad1": "52.17",
+        "imagen": "img\/productos\/706222c31e5b7af2b22ea900eaf107d5.jpg"
+    },
+    {
+        "id_producto": "240",
+        "barcode": "250777000486",
+        "descripcion": "CADENA PARA PERRO M-4018 AYLIN-CPR-00048",
+        "porcentaje_utilidad1": "39.86",
+        "imagen": "img\/productos\/da71bd0d384a6dcc2434f1e92005beee.jpg"
+    },
+    {
+        "id_producto": "251",
+        "barcode": "250777000400",
+        "descripcion": "DOCENA PEINE PLASTICO",
+        "porcentaje_utilidad1": "17.65",
+        "imagen": "img\/productos\/334f5722a1102575e4a2b51cdc4bf2ca.jpg"
+    },
+    {
+        "id_producto": "261",
+        "barcode": "250777000813",
+        "descripcion": "CABLE AUXILIAR AUDIO 2 Y 1 IML  AYLIN-CBL-00081",
+        "porcentaje_utilidad1": "33.33",
+        "imagen": "img\/productos\/778491af8fc9de72b676f5df5527fb93.jpg"
+    },
+    {
+        "id_producto": "265",
+        "barcode": "6927799681132",
+        "descripcion": "BATERIA BLISTER TIANGIU AG13\/357A",
+        "porcentaje_utilidad1": "100",
+        "imagen": "img\/productos\/675fe8fdfe0561360c98bcab0aef455d.jpg"
+    },
+    {
+        "id_producto": "266",
+        "barcode": "6927799681101",
+        "descripcion": "BATERIA BLISTER TIANGIU AG10\/389A",
+        "porcentaje_utilidad1": "100",
+        "imagen": "img\/productos\/cd637827381f6253d05337d2df790408.jpg"
+    },
+    {
+        "id_producto": "267",
+        "barcode": "6927799682160",
+        "descripcion": "BATERIA BLISTER TIANGIU CR2032",
+        "porcentaje_utilidad1": "100",
+        "imagen": "img\/productos\/445c99e821788bcf8e4001fd32abe295.jpg"
+    },
+    {
+        "id_producto": "268",
+        "barcode": "6927799682177",
+        "descripcion": "BATERIA BLISTER  TIANGIU CR2025",
+        "porcentaje_utilidad1": "100",
+        "imagen": "img\/productos\/16f5dd7dfaa358b4e9034bc89ebcd8dd.jpg"
+    },
+    {
+        "id_producto": "270",
+        "barcode": "6927799681033",
+        "descripcion": "BATERIA BLISTER  TIANGIU AG3 392A",
+        "porcentaje_utilidad1": "100",
+        "imagen": "img\/productos\/a3e4905dc56636f1cc31f5e8421e0522.jpg"
+    },
+    {
+        "id_producto": "279",
+        "barcode": "763041030015",
+        "descripcion": "POLVO LOLITA BEIGE",
+        "porcentaje_utilidad1": "10.62",
+        "imagen": "img\/productos\/1bcd4d502a3c847bb1babe2f9340d491.jpg"
+    },
+    {
+        "id_producto": "281",
+        "barcode": "6954178407916",
+        "descripcion": "LAPIZ MONGOL 482",
+        "porcentaje_utilidad1": "30.77",
+        "imagen": "img\/productos\/22e2d18bede1d4b2724f968d96925e86.jpg"
+    },
+    {
+        "id_producto": "302",
+        "barcode": "6953872580146",
+        "descripcion": "CEPILLO ADULTO SANFENG \/DOCENA\/",
+        "porcentaje_utilidad1": "35.59",
+        "imagen": "img\/productos\/3d20fa0a609ac9ae791f157382dc0632.jpg"
+    },
+    {
+        "id_producto": "303",
+        "barcode": "6958750800057",
+        "descripcion": "BORRADOR DE MARIPOSAS DOBY",
+        "porcentaje_utilidad1": "38",
+        "imagen": "img\/productos\/51e1d6aed538b76a15352aa68ed3d8a7.jpg"
+    },
+    {
+        "id_producto": "304",
+        "barcode": "860217601007",
+        "descripcion": "CARRO SPEAKER YSW-01-007",
+        "porcentaje_utilidad1": "42.9",
+        "imagen": "img\/productos\/243bd4011554b35562baf7848627efb4.jpg"
+    },
+    {
+        "id_producto": "310",
+        "barcode": "6944031219014",
+        "descripcion": "LAMPARA DE FRENTE RECARGABLE IML LD-212",
+        "porcentaje_utilidad1": "17.65",
+        "imagen": "img\/productos\/de4b14a5ea61a52fa09f9940b00e9369.jpg"
+    },
+    {
+        "id_producto": "311",
+        "barcode": "6954598110013",
+        "descripcion": "RELOJ PARA CARRO NAKO NA-617A",
+        "porcentaje_utilidad1": "86.57",
+        "imagen": "img\/productos\/94150722bd5981035e8f7f711780f1aa.jpg"
+    },
+    {
+        "id_producto": "313",
+        "barcode": "6920709306125",
+        "descripcion": "CORTA UÑAS 0757",
+        "porcentaje_utilidad1": "23.46",
+        "imagen": "img\/productos\/3af1348b13f7a22ced666851d9a18b43.jpg"
+    },
+    {
+        "id_producto": "314",
+        "barcode": "250777001001",
+        "descripcion": "CALAVERA SUSAN SUEA033 12PCS  GRANEL",
+        "porcentaje_utilidad1": "56.25",
+        "imagen": "img\/productos\/12dee6a7efd57744476345b744794091.jpg"
+    },
+    {
+        "id_producto": "315",
+        "barcode": "8618088010105",
+        "descripcion": "ADAPTADOR PARA PSP PP-01-010",
+        "porcentaje_utilidad1": "0",
+        "imagen": "img\/productos\/17a93c0bdeafc741fdc8c6c046bd073e.jpg"
+    },
+    {
+        "id_producto": "318",
+        "barcode": "7889865419027",
+        "descripcion": "LAMPARA RECARGABLE DOS CANDELAS JA-1901",
+        "porcentaje_utilidad1": "15",
+        "imagen": ""
+    },
+    {
+        "id_producto": "323",
+        "barcode": "6922049100012",
+        "descripcion": "MASAJEADOR SUPER LIFE XF-69",
+        "porcentaje_utilidad1": "90.47",
+        "imagen": "img\/productos\/89455b528f21dd3e3ac81142bd59af82.jpg"
+    },
+    {
+        "id_producto": "326",
+        "barcode": "250777000059",
+        "descripcion": "ADAPTADOR TOMA CORRIENTE DE 3 A 2 POLARIZADO AYLIN-ADP-005",
+        "porcentaje_utilidad1": "317",
+        "imagen": "img\/productos\/8c5bda656045e9ee958029550b2277d8.jpg"
+    },
+    {
+        "id_producto": "328",
+        "barcode": "6937712700123",
+        "descripcion": "LAPICERO GEL JETCO \/CAJA 12 UNIDADES\/",
+        "porcentaje_utilidad1": "38.89",
+        "imagen": "img\/productos\/76d49550fbf0013c296490ab47142e44.jpg"
+    },
+    {
+        "id_producto": "331",
+        "barcode": "4710409897304",
+        "descripcion": "RUBOR AMUSE BLUSH",
+        "porcentaje_utilidad1": "15",
+        "imagen": "img\/productos\/31b69151ae7f609f3d3c4419c308b4de.jpg"
+    },
+    {
+        "id_producto": "337",
+        "barcode": "250777000851",
+        "descripcion": "CABLE AUXILIAR AUDIO 2 Y 2  AYLIN-CBL-00085",
+        "porcentaje_utilidad1": "733.3",
+        "imagen": "img\/productos\/a63c8cd80b962a1909495bd97cc6ae7f.jpg"
+    },
+    {
+        "id_producto": "338",
+        "barcode": "250777001",
+        "descripcion": "TOMA MACHO SENCILLO AYLIN-TM-001",
+        "porcentaje_utilidad1": "92.31",
+        "imagen": "img\/productos\/4c317202f320cdfed1c7ebaaedc4bc6c.jpg"
+    },
+    {
+        "id_producto": "342",
+        "barcode": "250777001117",
+        "descripcion": "CONECTOR PARA ANTENA AYLIN-CBL-00111",
+        "porcentaje_utilidad1": "50",
+        "imagen": "img\/productos\/cf2d27738679e01d438aa2c89ebc0452.jpg"
+    },
+    {
+        "id_producto": "346",
+        "barcode": "691686600182",
+        "descripcion": "PONCHO DE ADULTO NORMAL H83",
+        "porcentaje_utilidad1": "43",
+        "imagen": ""
+    },
+    {
+        "id_producto": "377",
+        "barcode": "6495741515991",
+        "descripcion": "FOCO RECARGABLE CON CONTROL JUNAI JA-599",
+        "porcentaje_utilidad1": "31.57",
+        "imagen": "img\/productos\/a3c6734d31c011cebb192fa22fd1781d.jpg"
+    },
+    {
+        "id_producto": "406",
+        "barcode": "6923550226819",
+        "descripcion": "SET DE DESARMADORES PARA RELOJ DE 11 PIEZAS 6226819",
+        "porcentaje_utilidad1": "57.9",
+        "imagen": "img\/productos\/528a4c1b7d2e6ba5b73f7c1734302df5.jpg"
+    },
+    {
+        "id_producto": "413",
+        "barcode": "250777000622",
+        "descripcion": "CONTROL REMOTO SAMSUNG TV 10110G BLANCO AYLIN-CONTROL-00062",
+        "porcentaje_utilidad1": "88.68",
+        "imagen": "img\/productos\/9f287e023f960aa252562bc0986bd329.jpg"
+    },
+    {
+        "id_producto": "414",
+        "barcode": "250777000578",
+        "descripcion": "CONTROL REMOTO SONY EQUIPO SONIDO RM-SC3 AYLIN-CONTROL-00057",
+        "porcentaje_utilidad1": "88.68",
+        "imagen": "img\/productos\/f2bab6ca3065f989b0f711a06ea989f0.jpg"
+    },
+    {
+        "id_producto": "415",
+        "barcode": "8617681011052",
+        "descripcion": "CONTROL REMOTO TV TOSHIBA NEGRO CT-821",
+        "porcentaje_utilidad1": "72.41",
+        "imagen": "img\/productos\/2adf9c70bebc497857fed27c6ceb0fdf.jpg"
+    },
+    {
+        "id_producto": "417",
+        "barcode": "6899468995294",
+        "descripcion": "LUZ STROBER MOTO SF-02-2373",
+        "porcentaje_utilidad1": "20",
+        "imagen": "img\/productos\/9fc4b901fa398369e1311ec7fa1b4e80.JPG"
+    },
+    {
+        "id_producto": "421",
+        "barcode": "863251202361",
+        "descripcion": "LED H4 PARA VEHICULO OY-02-361",
+        "porcentaje_utilidad1": "30.76",
+        "imagen": "img\/productos\/67e2f3243217b8f74dc30485362912fb.jpg"
+    },
+    {
+        "id_producto": "425",
+        "barcode": "250777001148",
+        "descripcion": "CINCHO NYLON    AYLIN-CINCHO-00114",
+        "porcentaje_utilidad1": "18.4",
+        "imagen": "img\/productos\/24b0a31c3c18a79ee4b2fc5cfd31bed8.jpg"
+    },
+    {
+        "id_producto": "429",
+        "barcode": "7404005960551",
+        "descripcion": "FOCO SUSAN 7W",
+        "porcentaje_utilidad1": "0",
+        "imagen": "img\/productos\/7fcc156aeb011cf762a8d933c0b77768.jpg"
+    },
+    {
+        "id_producto": "431",
+        "barcode": "7404005960315",
+        "descripcion": "FOCO APOLO 15W \/CAJA INDIVIDUAL\/",
+        "porcentaje_utilidad1": "0",
+        "imagen": "img\/productos\/f03ff4e690ab3bfac923937c4be04adf.jpg"
+    },
+    {
+        "id_producto": "432",
+        "barcode": "7404005960407",
+        "descripcion": "FOCO LED APOLO 5W APBO001B \/BLISTER\/",
+        "porcentaje_utilidad1": "20",
+        "imagen": "img\/productos\/5c76bcfe262e88b32d7375859f6ee477.jpg"
+    },
+    {
+        "id_producto": "433",
+        "barcode": "7404005960575",
+        "descripcion": "FOCO SUSAN 13W",
+        "porcentaje_utilidad1": "9.5",
+        "imagen": "img\/productos\/d8ed19746485520ae7bb1ac17b2ce5b4.jpg"
+    },
+    {
+        "id_producto": "437",
+        "barcode": "7404005960971",
+        "descripcion": "FOCO LED APOLO 11W APBO004B \/BLISTER\/",
+        "porcentaje_utilidad1": "22.54",
+        "imagen": "img\/productos\/8ec5bf61432b3644866ff909625a54fc.jpg"
+    },
+    {
+        "id_producto": "449",
+        "barcode": "7501892873534",
+        "descripcion": "LAMPARA DE NOCHE FULGORE MARIPOSA FU0166",
+        "porcentaje_utilidad1": "27.55",
+        "imagen": "img\/productos\/d40243ef79c455174e2d8ad698a1a7c8.jpg"
+    },
+    {
+        "id_producto": "455",
+        "barcode": "2017030100011",
+        "descripcion": "LLORONES LUZ CARRO ART-888",
+        "porcentaje_utilidad1": "30",
+        "imagen": "img\/productos\/b79e01be8329114c6a1f469447d0a97d.jpg"
+    },
+    {
+        "id_producto": "457",
+        "barcode": "6954025670457",
+        "descripcion": "LUZ LED TECHO CARRO 12 LED 9484",
+        "porcentaje_utilidad1": "25",
+        "imagen": "img\/productos\/22278f726b43a4d4e7f1fe5c6c70c7dd.jpg"
+    },
+    {
+        "id_producto": "459",
+        "barcode": "250777000776",
+        "descripcion": "CABLE IML AUXILIAR AUDIO 1 A 1  AYLIN-CBL-00077",
+        "porcentaje_utilidad1": "185.7",
+        "imagen": "img\/productos\/dedaf8e62482b3056151327bbaf05ed3.jpg"
+    },
+    {
+        "id_producto": "462",
+        "barcode": "6970905251040",
+        "descripcion": "BATERIA BLISTER AG4 626",
+        "porcentaje_utilidad1": "100",
+        "imagen": "img\/productos\/e4a67d3b52012d4973970ddb4d3c4d8b.jpg"
+    },
+    {
+        "id_producto": "468",
+        "barcode": "250777000974",
+        "descripcion": "CARGADOR 2 PIEZAS IPHONE 4\/5  AYLIN-CBL-00097",
+        "porcentaje_utilidad1": "34.5",
+        "imagen": "img\/productos\/1f6800d60f9b4eb2ba81bd45d1dceeee.jpg"
+    },
+    {
+        "id_producto": "489",
+        "barcode": "6899468995751",
+        "descripcion": "LUZ DE TECHO 3 PIEZAS LED GRANDE  QT-02-COB36",
+        "porcentaje_utilidad1": "34.62",
+        "imagen": "img\/productos\/fb4fa436b6abc953c1df43a68a0af0d4.jpg"
+    },
+    {
+        "id_producto": "490",
+        "barcode": "6947290630569",
+        "descripcion": "CUCHILLO TRAMONTINA MANGO BLANCO WF-404",
+        "porcentaje_utilidad1": "21.42",
+        "imagen": "img\/productos\/2214a30b2306abfcab238488b1e217ba.jpg"
+    },
+    {
+        "id_producto": "491",
+        "barcode": "6940350993413",
+        "descripcion": "CUCHILLO CACHA BLANCA INOX KC40698",
+        "porcentaje_utilidad1": "13.33",
+        "imagen": "img\/productos\/cc016276bd914f49db5ffa28ae33286f.jpg"
+    },
+    {
+        "id_producto": "492",
+        "barcode": "2016051002182",
+        "descripcion": "LUZ TECHO CARRO UN CUATRO LED",
+        "porcentaje_utilidad1": "53.33",
+        "imagen": "img\/productos\/472042c0a8c703fe899e88520cca83f0.jpg"
+    },
+    {
+        "id_producto": "495",
+        "barcode": "250777000998",
+        "descripcion": "CARGADOR PARA CARRO DOS SALIDAS AYLIN-CBL-00099",
+        "porcentaje_utilidad1": "56.25",
+        "imagen": "img\/productos\/e59a2f0393c772a1ef1980beac38b1ef.jpg"
+    },
+    {
+        "id_producto": "497",
+        "barcode": "863665102005",
+        "descripcion": "GUANTE MOTO CORTO KTMS-02-001",
+        "porcentaje_utilidad1": "34.33",
+        "imagen": "img\/productos\/5a5063796d37a43ba96653d1944bd7d8.jpg"
+    },
+    {
+        "id_producto": "499",
+        "barcode": "6922550618228",
+        "descripcion": "MINI LAMPARA DE EMERGENCIA DE BATERIAS GS-822",
+        "porcentaje_utilidad1": "78.6",
+        "imagen": "img\/productos\/1f101696b151e82fe5a064b17232b141.jpg"
+    },
+    {
+        "id_producto": "517",
+        "barcode": "6941335409752",
+        "descripcion": "LAMPARA RECARGABLE UNA CANDELA KM-7638",
+        "porcentaje_utilidad1": "42.85",
+        "imagen": "img\/productos\/9661078add60a1201b2fbc0323d9b532.jpg"
+    },
+    {
+        "id_producto": "520",
+        "barcode": "7501892828800",
+        "descripcion": "BOMBA DE MANO PARA INFLAR WF1005",
+        "porcentaje_utilidad1": "37.61",
+        "imagen": "img\/productos\/4ba6896561af52c17f18d87109612f82.jpg"
+    },
+    {
+        "id_producto": "524",
+        "barcode": "202090617049",
+        "descripcion": "FOCO PARA MOTO B35 12V\/35W",
+        "porcentaje_utilidad1": "37.17",
+        "imagen": "img\/productos\/a0a69a3dd0865b5d22db7e5cda6791a9.jpg"
+    },
+    {
+        "id_producto": "526",
+        "barcode": "6022015060118",
+        "descripcion": "REGLETA GRIS 6 OULET POWER STRIP  \/6 TOMAS SENCILLA\/",
+        "porcentaje_utilidad1": "20",
+        "imagen": "img\/productos\/dd714397d47a28cb171f50d0d0ad58c8.jpg"
+    },
+    {
+        "id_producto": "527",
+        "barcode": "8120314214824",
+        "descripcion": "REGLETA XTRON XT-21482",
+        "porcentaje_utilidad1": "25",
+        "imagen": "img\/productos\/b0424edde5e31db5b0083af6af1b5615.jpg"
+    },
+    {
+        "id_producto": "528",
+        "barcode": "2332566589520",
+        "descripcion": "REGLETA SUSAN SUEA037",
+        "porcentaje_utilidad1": "32.35",
+        "imagen": "img\/productos\/323769abd00668d71b7b2f623d12d77c.jpg"
+    },
+    {
+        "id_producto": "530",
+        "barcode": "7401005497889",
+        "descripcion": "LAPIZ DELINEADOR EVITA NEGRO",
+        "porcentaje_utilidad1": "17.14",
+        "imagen": "img\/productos\/e44b0f3c5f6b24b72df01c54add866f0.jpg"
+    },
+    {
+        "id_producto": "532",
+        "barcode": "6928002103991",
+        "descripcion": "ENCENDEDOR FENIX JS851",
+        "porcentaje_utilidad1": "14.16",
+        "imagen": "img\/productos\/63d9b2b09d6022fb369a79854892b2b0.jpg"
+    },
+    {
+        "id_producto": "537",
+        "barcode": "6958485437191",
+        "descripcion": "MAQUINA CORTAR PELO BELLOLINI",
+        "porcentaje_utilidad1": "9.09",
+        "imagen": "img\/productos\/5b80ab191feaa6b4a6284c644b3bedb3.jpg"
+    },
+    {
+        "id_producto": "539",
+        "barcode": "7404005960445",
+        "descripcion": "FOCO SUSAN 40W INCANDECENTE SUIN002",
+        "porcentaje_utilidad1": "13.63",
+        "imagen": "img\/productos\/85bf53ddb2918532ff97036f93accb35.jpg"
+    },
+    {
+        "id_producto": "541",
+        "barcode": "860314501110",
+        "descripcion": "BOCINA MS-82BT",
+        "porcentaje_utilidad1": "0",
+        "imagen": "img\/productos\/5f854c428afdaf1beea14640a840559e.jpg"
+    },
+    {
+        "id_producto": "542",
+        "barcode": "865865102047",
+        "descripcion": "VIA PARA MOTO PMGZ-02-047",
+        "porcentaje_utilidad1": "20",
+        "imagen": "img\/productos\/74962d04d9d380d54e8e78b6f04667be.jpg"
+    },
+    {
+        "id_producto": "548",
+        "barcode": "7404005960537",
+        "descripcion": "FOCO SUSAN 45W FLUORECENTE SUAH008",
+        "porcentaje_utilidad1": "23.45",
+        "imagen": "img\/productos\/7b1a3d6047c5bd2cb998953f2a192501.jpg"
+    },
+    {
+        "id_producto": "550",
+        "barcode": "250777000653",
+        "descripcion": "CONTROL SONY B\/N RM-Y173 AYLIN-CONTROL-00065",
+        "porcentaje_utilidad1": "53.84",
+        "imagen": "img\/productos\/58eb94c750a9357a6932d103412fb4ce.jpg"
+    },
+    {
+        "id_producto": "557",
+        "barcode": "250777001049",
+        "descripcion": "TIRRO TRANSPARENTE ABRO 300 YARDAS",
+        "porcentaje_utilidad1": "24.56",
+        "imagen": "img\/productos\/df643d2f4b4a1aef6b9e2c0c01bd5520.jpg"
+    },
+    {
+        "id_producto": "560",
+        "barcode": "7404005960308",
+        "descripcion": "FOCO APOLO 25W CAJA CARTON",
+        "porcentaje_utilidad1": "35.29",
+        "imagen": "img\/productos\/b9a7fc0f7048350a5ef6a9f18708e48c.jpg"
+    },
+    {
+        "id_producto": "574",
+        "barcode": "8634613020067",
+        "descripcion": "LED ROLLO 5M",
+        "porcentaje_utilidad1": "22.22",
+        "imagen": "img\/productos\/9ddd2342cb7da744bf944548cbac9b87.jpg"
+    },
+    {
+        "id_producto": "582",
+        "barcode": "783094060890",
+        "descripcion": "FOCO 2U ANEX 13W",
+        "porcentaje_utilidad1": "36.36",
+        "imagen": "img\/productos\/76be286397bb9ec5f082a668e1a0a71f.jpg"
+    },
+    {
+        "id_producto": "601",
+        "barcode": "8555222447659",
+        "descripcion": "LLAVERO CARRO",
+        "porcentaje_utilidad1": "42.85",
+        "imagen": "img\/productos\/fc943dc6be7ea7fb869c7373d6c7f3bf.jpg"
+    },
+    {
+        "id_producto": "604",
+        "barcode": "8260000101516",
+        "descripcion": "TENSOR MOTO 18-31",
+        "porcentaje_utilidad1": "100",
+        "imagen": "img\/productos\/8623770941bc645fa66489fbb8f02433.jpg"
+    },
+    {
+        "id_producto": "613",
+        "barcode": "7501892828121",
+        "descripcion": "NAVAJA WOLFOX DE 6 1\/2 PULGADAS WF1349",
+        "porcentaje_utilidad1": "138",
+        "imagen": "img\/productos\/223df1cfe073332df81c416cc8eb7e82.jpg"
+    },
+    {
+        "id_producto": "616",
+        "barcode": "7501892884479",
+        "descripcion": "RO2716 EXTENSION ELECTRICA ROTTER 3 M BLANCA",
+        "porcentaje_utilidad1": "36.36",
+        "imagen": ""
+    },
+    {
+        "id_producto": "620",
+        "barcode": "250777000639",
+        "descripcion": "CONTROL REMOTO SAMSUNG TV NEGRO 00104A AYLIN-CONTROL-00063",
+        "porcentaje_utilidad1": "54",
+        "imagen": "img\/productos\/1ea28cc38b21ec1179fd29deffecc0fc.jpg"
+    },
+    {
+        "id_producto": "621",
+        "barcode": "6953889001825",
+        "descripcion": "CALCULADORA CIENTIFICA FX-82MS",
+        "porcentaje_utilidad1": "86",
+        "imagen": "img\/productos\/5ad8a434b71ade651d1609d32c64ab1e.jpg"
+    },
+    {
+        "id_producto": "622",
+        "barcode": "8435330674775",
+        "descripcion": "RADIO CHALLENGER CH-11UBT",
+        "porcentaje_utilidad1": "4",
+        "imagen": "img\/productos\/d7f4b23114f22989090c1c33a37981c3.jpg"
+    },
+    {
+        "id_producto": "624",
+        "barcode": "6978562461574",
+        "descripcion": "RADIO CHALLENGER CH-157U",
+        "porcentaje_utilidad1": "4",
+        "imagen": "img\/productos\/7027a49acbe9081d517988befd1a192a.jpg"
+    },
+    {
+        "id_producto": "625",
+        "barcode": "6232584780113",
+        "descripcion": "RADIO CHALLENGER CH-7801UAR",
+        "porcentaje_utilidad1": "20",
+        "imagen": "img\/productos\/669bee71a10acee2232f05adaf0ecf9e.jpg"
+    },
+    {
+        "id_producto": "626",
+        "barcode": "6978562463301",
+        "descripcion": "RADIO CHALLENGER CH-330U",
+        "porcentaje_utilidad1": "5",
+        "imagen": "img\/productos\/d671f753a31e3e3d83f039e637e6090b.jpg"
+    },
+    {
+        "id_producto": "627",
+        "barcode": "2015012160046",
+        "descripcion": "RADIO CHALLENGER CH-046TU",
+        "porcentaje_utilidad1": "4",
+        "imagen": "img\/productos\/214fdd0321153de0e49cf87ea62b3e64.jpg"
+    },
+    {
+        "id_producto": "629",
+        "barcode": "7242205299824",
+        "descripcion": "LAMPARA DE MANO RECARGABLE F982",
+        "porcentaje_utilidad1": "25",
+        "imagen": "img\/productos\/5eaa2645fabb2474a0c15f9f84f04144.jpg"
+    },
+    {
+        "id_producto": "631",
+        "barcode": "863251202397",
+        "descripcion": "HALOGENA MOTO 4 LED OY-02-397",
+        "porcentaje_utilidad1": "33.33",
+        "imagen": "img\/productos\/43784c7a80006036c01f781614b727ea.jpg"
+    },
+    {
+        "id_producto": "633",
+        "barcode": "6954178407892",
+        "descripcion": "CORRECTOR \/12 UNIDADES\/",
+        "porcentaje_utilidad1": "20",
+        "imagen": "img\/productos\/df37018fffe580a60b2bd932e5ee56f3.jpg"
+    },
+    {
+        "id_producto": "635",
+        "barcode": "6925871645225",
+        "descripcion": "CASETERA \/CD PLAYER\/CDX-D4522BT",
+        "porcentaje_utilidad1": "61.53",
+        "imagen": "img\/productos\/13e2674d9a11a95c9e5fc392086f4fdd.jpg"
+    },
+    {
+        "id_producto": "637",
+        "barcode": "6937712707276",
+        "descripcion": "LAPICERO YH-168 \/12 UNIDADES\/",
+        "porcentaje_utilidad1": "50",
+        "imagen": ""
+    },
+    {
+        "id_producto": "638",
+        "barcode": "6946848800089",
+        "descripcion": "MARCADOR PERMANENTE \/10 UNIDADES\/",
+        "porcentaje_utilidad1": "36.36",
+        "imagen": "img\/productos\/59b58d44669def74874f148f4c004830.jpg"
+    },
+    {
+        "id_producto": "640",
+        "barcode": "6941335410758",
+        "descripcion": "LAMPARA LED RECARGABLE DE DOS CANDELA KM-7652",
+        "porcentaje_utilidad1": "18.18",
+        "imagen": ""
+    },
+    {
+        "id_producto": "641",
+        "barcode": "6951227500788",
+        "descripcion": "CUCHILLO CACHA AMARILLA",
+        "porcentaje_utilidad1": "52.78",
+        "imagen": "img\/productos\/40c83eb08c997a464113e258720bb4de.jpg"
+    },
+    {
+        "id_producto": "644",
+        "barcode": "6921700720156",
+        "descripcion": "LAMPARA DOS CANDELAS SOLAR LL-2015R",
+        "porcentaje_utilidad1": "20.48",
+        "imagen": "img\/productos\/b75c4f364dc9fefa9a8e29a9106e8ecd.jpg"
+    },
+    {
+        "id_producto": "646",
+        "barcode": "8618047010382",
+        "descripcion": "LAMPARA POLICIAL CHOQUE ELECTRICO 1101 S-JF-01-038",
+        "porcentaje_utilidad1": "48.15",
+        "imagen": "img\/productos\/64618fb6a64f60396789cda4c9949acc.jpg"
+    },
+    {
+        "id_producto": "662",
+        "barcode": "7800026918258",
+        "descripcion": "RADIO PEQUEÑO CON BATERIA K-258",
+        "porcentaje_utilidad1": "8.69",
+        "imagen": "img\/productos\/7d03e8679c63b258f4eeef345e1ac0fa.jpg"
+    },
+    {
+        "id_producto": "665",
+        "barcode": "75743730242",
+        "descripcion": "TINTE PARA CABELLO",
+        "porcentaje_utilidad1": "17.39",
+        "imagen": ""
+    },
+    {
+        "id_producto": "674",
+        "barcode": "6932832880182",
+        "descripcion": "EXTINTOR FIRE STOP F1-23",
+        "porcentaje_utilidad1": "25",
+        "imagen": ""
+    },
+    {
+        "id_producto": "676",
+        "barcode": "6931453591293",
+        "descripcion": "RAQUETA CON LAMPARA ABAJO APRQ-03",
+        "porcentaje_utilidad1": "36",
+        "imagen": "img\/productos\/f367759c087fe6f673a638e0f5f892de.jpg"
+    },
+    {
+        "id_producto": "677",
+        "barcode": "2112345012742",
+        "descripcion": "RAQUETA FLOR LUZ A UN LADO APRQ-02",
+        "porcentaje_utilidad1": "19.15",
+        "imagen": "img\/productos\/3eb0ee862d078102a034508a185b0719.jpg"
+    },
+    {
+        "id_producto": "678",
+        "barcode": "6931453591286",
+        "descripcion": "RAQUETA FLOR SIN LAMPARA APRQ-01",
+        "porcentaje_utilidad1": "13.63",
+        "imagen": "img\/productos\/fcce90c148c4be55587926ecfebb0e0d.jpg"
+    },
+    {
+        "id_producto": "690",
+        "barcode": "7404005960841",
+        "descripcion": "LAMPARA RECARGABLE SULI010",
+        "porcentaje_utilidad1": "42.86",
+        "imagen": "img\/productos\/6da82e0a69c3537e65e779f61d3a8a07.jpg"
+    },
+    {
+        "id_producto": "694",
+        "barcode": "8613212110027",
+        "descripcion": "FOCO COCO PEQUEÑO 15 WATT",
+        "porcentaje_utilidad1": "0",
+        "imagen": ""
+    },
+    {
+        "id_producto": "695",
+        "barcode": "861321211010",
+        "descripcion": "FOCO COCO GRANDE 24 WATT",
+        "porcentaje_utilidad1": "0",
+        "imagen": ""
+    },
+    {
+        "id_producto": "696",
+        "barcode": "7501892843025",
+        "descripcion": "ENCENDEDOR MULTIUSO WOLFOX WF9729",
+        "porcentaje_utilidad1": "24.67",
+        "imagen": "img\/productos\/7f4b8b483892a23df4fbb587c3e13744.jpg"
+    },
+    {
+        "id_producto": "698",
+        "barcode": "6922410273178",
+        "descripcion": "MASCON DE ALAMBRE DURAMAX JML5012 \/CARTON 12 UNIDADES\/",
+        "porcentaje_utilidad1": "50",
+        "imagen": "img\/productos\/62d27a41a15003cd4eb4e8efbbe0a627.jpg"
+    },
+    {
+        "id_producto": "699",
+        "barcode": "6922410273192",
+        "descripcion": "MASCON DE ALAMBRE DURAMAX JML5024 \/EMPAQUE 6 UNIDADES\/",
+        "porcentaje_utilidad1": "50",
+        "imagen": "img\/productos\/ebebab9773fedc712c8d79c4e78120d1.jpg"
+    },
+    {
+        "id_producto": "700",
+        "barcode": "7501892843339",
+        "descripcion": "ROTOMARTILLO WOLFOX WF9654",
+        "porcentaje_utilidad1": "23.15",
+        "imagen": "img\/productos\/10fd85449bcb438460d2830e00492b7d.png"
+    },
+    {
+        "id_producto": "701",
+        "barcode": "7501892873886",
+        "descripcion": "CLAVIJA  FU0266 BLANCA",
+        "porcentaje_utilidad1": "31.57",
+        "imagen": "img\/productos\/71f8f427f5e0badf0054ce6bd937e99c.jpg"
+    },
+    {
+        "id_producto": "704",
+        "barcode": "6957153100870",
+        "descripcion": "RAQUETA MATA MOSQUITOS IML SIN LUZ HG-MM1",
+        "porcentaje_utilidad1": "6.64",
+        "imagen": "img\/productos\/30b6cc2cd6cc89c6730797b3d6dc7527.jpg"
+    },
+    {
+        "id_producto": "710",
+        "barcode": "6902016103130",
+        "descripcion": "FOCO LED 3U 7W LED-ES-3U7W",
+        "porcentaje_utilidad1": "21.21",
+        "imagen": "img\/productos\/07774c1ec4df50ff54c3d526ff012cc4.jpg"
+    },
+    {
+        "id_producto": "711",
+        "barcode": "6902016103116",
+        "descripcion": "FOCO LED ESPIRAL 7W LED-ES-7W CFL",
+        "porcentaje_utilidad1": "21.43",
+        "imagen": "img\/productos\/808b1838ee6c951304f5a638583d1249.jpg"
+    },
+    {
+        "id_producto": "713",
+        "barcode": "6920151126029",
+        "descripcion": "FOCO LED ESPIRAL 9W LED-ES-9W",
+        "porcentaje_utilidad1": "22.58",
+        "imagen": ""
+    },
+    {
+        "id_producto": "732",
+        "barcode": "6940351100162",
+        "descripcion": "RADIO KNSTAR KK-9",
+        "porcentaje_utilidad1": "18.18",
+        "imagen": "img\/productos\/da1b6c106fee123e7b74ee2467815bf3.png"
+    },
+    {
+        "id_producto": "733",
+        "barcode": "6932271700461",
+        "descripcion": "VENENO PARA CUCARACHA GREEN LEAF GLE2001",
+        "porcentaje_utilidad1": "33.333",
+        "imagen": "img\/productos\/9a4b2d86d047e72a5d72a143167a32bb.JPG"
+    },
+    {
+        "id_producto": "734",
+        "barcode": "7889865419089",
+        "descripcion": "LAMPARA RECARGABLE JUANAI JA-1908",
+        "porcentaje_utilidad1": "20.48",
+        "imagen": "img\/productos\/b8341abe3324dcbb32aaea7543352c53.jpg"
+    },
+    {
+        "id_producto": "749",
+        "barcode": "250777000554",
+        "descripcion": "CONTROL DE CAJA CABLE GDRC-400T AYLIN-CONTROL-00055",
+        "porcentaje_utilidad1": "16.67",
+        "imagen": "img\/productos\/2908cc2bad2ebaf006aafa6cfad8d8cc.jpg"
+    },
+    {
+        "id_producto": "751",
+        "barcode": "7501892816661",
+        "descripcion": "DESTAPA CAÑOS WOLFOX WF1696",
+        "porcentaje_utilidad1": "78.57",
+        "imagen": ""
+    },
+    {
+        "id_producto": "753",
+        "barcode": "7404005960216",
+        "descripcion": "FOCO APOLO 20W 3U APAH-005",
+        "porcentaje_utilidad1": "33",
+        "imagen": "img\/productos\/66dc7775cd8fb3c4de613403ca36f8be.jpg"
+    },
+    {
+        "id_producto": "756",
+        "barcode": "250777000691",
+        "descripcion": "CONTROL RCA 7464M AYLIN-CONTROL-00069",
+        "porcentaje_utilidad1": "88.68",
+        "imagen": "img\/productos\/84bf08557fad9edc47c241a0ceabc29b.jpg"
+    },
+    {
+        "id_producto": "757",
+        "barcode": "6934741706065",
+        "descripcion": "CEPILLO NIÑO SAN-A E328-2",
+        "porcentaje_utilidad1": "28.57",
+        "imagen": ""
+    },
+    {
+        "id_producto": "765",
+        "barcode": "6911866860629",
+        "descripcion": "CUTTER KNIFE",
+        "porcentaje_utilidad1": "66.6",
+        "imagen": "img\/productos\/bd9db2434b22237b7117cd364cdeb5b0.jpg"
+    },
+    {
+        "id_producto": "769",
+        "barcode": "7501892803258",
+        "descripcion": "CUCHILLO 8 PULGADAS WOLFOX CACHA NEGRA WF1714",
+        "porcentaje_utilidad1": "32.98",
+        "imagen": "img\/productos\/6cb74674f5180a78e968850b41fbdc15.jpg"
+    },
+    {
+        "id_producto": "772",
+        "barcode": "6944031219328",
+        "descripcion": "LAMPARA DE DOS CANDELA SHUNSHI SS-7021 LI021",
+        "porcentaje_utilidad1": "25",
+        "imagen": "img\/productos\/9f5a75c6da8b0c89ffef635e665d04f7.jpg"
+    },
+    {
+        "id_producto": "784",
+        "barcode": "6912345678902",
+        "descripcion": "CARGADOR FAST CHARGING 2.0 ZY-03",
+        "porcentaje_utilidad1": "23.08",
+        "imagen": "img\/productos\/b4ee4bf03fb958ec830ca1ef5979e75b.jpg"
+    },
+    {
+        "id_producto": "791",
+        "barcode": "6936420900238",
+        "descripcion": "CONTROL REMOTO UNIVERSAL JS-6212A",
+        "porcentaje_utilidad1": "31.58",
+        "imagen": "img\/productos\/39fa59431cc879e13f3c6e12733f9807.jpg"
+    },
+    {
+        "id_producto": "792",
+        "barcode": "8618009012089",
+        "descripcion": "PROTECTOR PARA TABLET GRANDE FASHION CASE AR-01-208",
+        "porcentaje_utilidad1": "0",
+        "imagen": "img\/productos\/eecf208dd6c66525841a153da1c7dcc9.jpg"
+    },
+    {
+        "id_producto": "797",
+        "barcode": "6970157246986",
+        "descripcion": "CEPILLO TIRA LANSHARE FOCUS",
+        "porcentaje_utilidad1": "26.98",
+        "imagen": ""
+    },
+    {
+        "id_producto": "798",
+        "barcode": "6899468995713",
+        "descripcion": "LED DAYTIME RUNNING LIGHT DOS BARRAS",
+        "porcentaje_utilidad1": "63.63",
+        "imagen": "img\/productos\/69d8affda4f02a7d24475517a04e9c09.jpg"
+    },
+    {
+        "id_producto": "799",
+        "barcode": "6906008259485",
+        "descripcion": "MAX III PRESTOBARBA",
+        "porcentaje_utilidad1": "53.37",
+        "imagen": "img\/productos\/e73aae4339b89f52cdaccbe79f912431.jpg"
+    },
+    {
+        "id_producto": "800",
+        "barcode": "6936063817009",
+        "descripcion": "MARCADOR FLUORESCENT CT-700",
+        "porcentaje_utilidad1": "46.15",
+        "imagen": ""
+    },
+    {
+        "id_producto": "801",
+        "barcode": "8899145010829",
+        "descripcion": "MS-189BT SPEAK JWL-01-082",
+        "porcentaje_utilidad1": "21.42",
+        "imagen": "img\/productos\/59931173239ea9435ae0dd5461d824c7.jpg"
+    },
+    {
+        "id_producto": "802",
+        "barcode": "8899145010751",
+        "descripcion": "MS-201BT SPEAK JWL-01-075",
+        "porcentaje_utilidad1": "35",
+        "imagen": "img\/productos\/84480acd19343ca6993546312a3b1380.jpg"
+    },
+    {
+        "id_producto": "803",
+        "barcode": "8657102011058",
+        "descripcion": "BOCINA DOS TWITTER MS-185BT DSO-01-058",
+        "porcentaje_utilidad1": "9.09",
+        "imagen": "img\/productos\/aae706014d4d1a6386a46782d7d679ae.jpg"
+    },
+    {
+        "id_producto": "804",
+        "barcode": "6902016019165",
+        "descripcion": "PORTABLE MULTI BAND RADIO HY-916BT",
+        "porcentaje_utilidad1": "41.66",
+        "imagen": "img\/productos\/45213c17f9cd8e33e971df3d65a829da.jpg"
+    },
+    {
+        "id_producto": "805",
+        "barcode": "8899145010454",
+        "descripcion": "BOCINA BLUETOOTH MS-164BT",
+        "porcentaje_utilidad1": "0",
+        "imagen": "img\/productos\/b4244a2e426aeabd55dc50e3a444729e.jpg"
+    },
+    {
+        "id_producto": "807",
+        "barcode": "5999542240126",
+        "descripcion": "REGLETA FUSSION PBR-4506",
+        "porcentaje_utilidad1": "25",
+        "imagen": "img\/productos\/b451fbc8bbe76c1f129df59ef4895d71.jpg"
+    },
+    {
+        "id_producto": "808",
+        "barcode": "861949701146",
+        "descripcion": "CARGADOR SAMSUNG 3 PIEZAS TECHNO STORE \/CAJA\/",
+        "porcentaje_utilidad1": "66.67",
+        "imagen": "img\/productos\/a8e6f7d11ab54007340ce72a0514fa4f.png"
+    },
+    {
+        "id_producto": "811",
+        "barcode": "6936773100101",
+        "descripcion": "WEAVING CAP JY37037",
+        "porcentaje_utilidad1": "15.38",
+        "imagen": "img\/productos\/760331a6d36b4911350d09e68dec059b.jpg"
+    },
+    {
+        "id_producto": "838",
+        "barcode": "250777000745",
+        "descripcion": "CONTROL PLASMA LG AKB72915208 AYLIN-CONTROL-00074",
+        "porcentaje_utilidad1": "34.62",
+        "imagen": "img\/productos\/ce38c2a8506d6043f4d9254cfb178167.jpg"
+    },
+    {
+        "id_producto": "839",
+        "barcode": "250777001186",
+        "descripcion": "CONTROL PANASONIC PLASMA RM-D720  AYLIN-CONTROL-000118",
+        "porcentaje_utilidad1": "57.89",
+        "imagen": "img\/productos\/f2537075ff2a4ddfd4af999e71665694.jpg"
+    },
+    {
+        "id_producto": "840",
+        "barcode": "861796001040",
+        "descripcion": "CARGADOR 6101 COCO YS-01-040",
+        "porcentaje_utilidad1": "66.67",
+        "imagen": "img\/productos\/850928a5a39da8bfe56a82ee2be7f179.jpg"
+    },
+    {
+        "id_producto": "843",
+        "barcode": "7404005970093",
+        "descripcion": "FOCO APOLO LED EMERGENCIA 9W APBE003",
+        "porcentaje_utilidad1": "25",
+        "imagen": "img\/productos\/cbf67475c2dbd2f2edd6b1aa78d8cf7d.jpg"
+    },
+    {
+        "id_producto": "844",
+        "barcode": "8678173070605",
+        "descripcion": "POWER BANK  SAMSUNG 20000 TY-01-060",
+        "porcentaje_utilidad1": "31.14",
+        "imagen": "img\/productos\/3066a337e7116f5d4ea2757027f13335.jpg"
+    },
+    {
+        "id_producto": "845",
+        "barcode": "250777001384",
+        "descripcion": "ROSCA PARA FOCO EMERGENCIA AYLIN-CBL-000138",
+        "porcentaje_utilidad1": "127.27",
+        "imagen": "img\/productos\/b178e653e09889b96cae31601a03e4e0.png"
+    },
+    {
+        "id_producto": "848",
+        "barcode": "8618051012228",
+        "descripcion": "AC ADAPTER D-S LITE XD-01-222",
+        "porcentaje_utilidad1": "66.67",
+        "imagen": "img\/productos\/e3602935bbb2f4bc3fe5972d67f7eabe.jpg"
+    },
+    {
+        "id_producto": "849",
+        "barcode": "7896075701040",
+        "descripcion": "MERHEJE BASIC PINZA 12 UNIDADES",
+        "porcentaje_utilidad1": "25",
+        "imagen": "img\/productos\/23d3d2bd11ca3f0e2133f7b45a338f8d.jpg"
+    },
+    {
+        "id_producto": "854",
+        "barcode": "6934741705211",
+        "descripcion": "CEPILLO NIÑO SAN-A E6501 12 PIEZAS",
+        "porcentaje_utilidad1": "31.57",
+        "imagen": "img\/productos\/d955ec53f041ec3185727e2468c13198.jpg"
+    },
+    {
+        "id_producto": "856",
+        "barcode": "6941797965360",
+        "descripcion": "BORN TO HAVE LUZ LED USB",
+        "porcentaje_utilidad1": "115",
+        "imagen": "img\/productos\/64d0870a896cb5d9f78e2d9032d46dfb.jpg"
+    },
+    {
+        "id_producto": "859",
+        "barcode": "86194901171",
+        "descripcion": "CABLE V8 COCO HRDZ-01-171",
+        "porcentaje_utilidad1": "33.33",
+        "imagen": "img\/productos\/af3a00b4faf4a92f7df42c87ed561331.jpg"
+    },
+    {
+        "id_producto": "860",
+        "barcode": "250777001223",
+        "descripcion": "CABLE GRUESO IPHONE 4 BLANCO AYLIN-CBL-000122",
+        "porcentaje_utilidad1": "11.11",
+        "imagen": "img\/productos\/4f5ba62402217c7a111cf64866b77c06.jpg"
+    },
+    {
+        "id_producto": "864",
+        "barcode": "250777000981",
+        "descripcion": "CAR ADAPTER IPHONE 5\/6  AYLIN-CBL-00098",
+        "porcentaje_utilidad1": "0",
+        "imagen": "img\/productos\/f59e5a3a98350c8f21ab5f1660b7807f.jpg"
+    },
+    {
+        "id_producto": "867",
+        "barcode": "867667101028",
+        "descripcion": "RADIO USB SOEWEL SW-908UT ZDRJ-01-028",
+        "porcentaje_utilidad1": "16.07",
+        "imagen": "img\/productos\/1144f25d7d56595699652ca27bd7d42a.jpg"
+    },
+    {
+        "id_producto": "868",
+        "barcode": "867667101031",
+        "descripcion": "RADIO USB SOEWEL SW-9016UT ZDRJ-01-031",
+        "porcentaje_utilidad1": "16.07",
+        "imagen": "img\/productos\/e565beb54e4f01b82e6f4b881a65e578.jpg"
+    },
+    {
+        "id_producto": "869",
+        "barcode": "868667101013",
+        "descripcion": "SELFI MINI MONOPOD ZDRA-01-013",
+        "porcentaje_utilidad1": "45.35",
+        "imagen": "img\/productos\/5b91a30a2726b875c2e729b3a84be3d6.jpg"
+    },
+    {
+        "id_producto": "871",
+        "barcode": "6952415765682",
+        "descripcion": "LAMPARA DE BATERIA DX-6569",
+        "porcentaje_utilidad1": "13.79",
+        "imagen": ""
+    },
+    {
+        "id_producto": "873",
+        "barcode": "861949701138",
+        "descripcion": "CARGADOR INALAMBRICO FANTASY WIRELESS CHARGER HRDZ-01-138",
+        "porcentaje_utilidad1": "66.66",
+        "imagen": "img\/productos\/14534abfc7d84a3bb8f642e94645fe95.jpg"
+    },
+    {
+        "id_producto": "874",
+        "barcode": "6944031229136",
+        "descripcion": "LAMPARA RECARGABLE SS-837",
+        "porcentaje_utilidad1": "38.89",
+        "imagen": "img\/productos\/d81f4571f3c23cb2754e5ae2b99a4f96.jpg"
+    },
+    {
+        "id_producto": "878",
+        "barcode": "250777000738",
+        "descripcion": "CONTROL PLASMA SAMSUNG URC-77 AYLIN-CONTROL-00073",
+        "porcentaje_utilidad1": "53.85",
+        "imagen": "img\/productos\/9b1f024cfe2084df069c69fc4aaa4409.JPG"
+    },
+    {
+        "id_producto": "879",
+        "barcode": "250117000121",
+        "descripcion": "CONTROL PLASMA SONY RM-GA019 AYLIN-CONTROL-00072",
+        "porcentaje_utilidad1": "53.85",
+        "imagen": "img\/productos\/9337ad3b4be33cba08c0c4a0e4048807.jpg"
+    },
+    {
+        "id_producto": "881",
+        "barcode": "861805401016",
+        "descripcion": "CABLE HDMI 1.8 M COMPATIBLE CON PS3 ZYT-01-016",
+        "porcentaje_utilidad1": "29.03",
+        "imagen": "img\/productos\/1d573f12bd37191eb11c5bcf5f987eef.jpg"
+    },
+    {
+        "id_producto": "884",
+        "barcode": "7896637626217",
+        "descripcion": "TELEFONO CON IDENTIFICADOR DE LLAMADA K 302",
+        "porcentaje_utilidad1": "29.41",
+        "imagen": "img\/productos\/2aceb70f164d8bdbfe6cffacd916579d.jpg"
+    },
+    {
+        "id_producto": "885",
+        "barcode": "6936366693553",
+        "descripcion": "TELEFONO CON IDENTIFICADOR DE LLAMADA OHO OHO-5005",
+        "porcentaje_utilidad1": "23.52",
+        "imagen": "img\/productos\/df7e32d9e9445267b0f2c5d0d17a832d.jpg"
+    },
+    {
+        "id_producto": "891",
+        "barcode": "7453078546254",
+        "descripcion": "EXTENSION ELECTRICA TROEN 6M CON REGLETA",
+        "porcentaje_utilidad1": "23.08",
+        "imagen": "img\/productos\/dad2fd6298e6fa00db3a4b56de28aaf6.jpg"
+    },
+    {
+        "id_producto": "897",
+        "barcode": "7453038488082",
+        "descripcion": "EXTENSION ELECTRICA TROEN 4M",
+        "porcentaje_utilidad1": "57.14",
+        "imagen": "img\/productos\/2c8ee361ce40cb025554613dcfbc8d34.jpg"
+    },
+    {
+        "id_producto": "898",
+        "barcode": "7453038488129",
+        "descripcion": "EXTENSION ELECTRICA TROEN 15M",
+        "porcentaje_utilidad1": "33.33",
+        "imagen": "img\/productos\/5985ab8fbb757dbb3105f9a761f701a8.jpg"
+    },
+    {
+        "id_producto": "899",
+        "barcode": "6987021104389",
+        "descripcion": "EXTENSION ELECTRICA BLANCA DIESEL TOOLS 25FT DT-25FT-BH",
+        "porcentaje_utilidad1": "37.5",
+        "imagen": "img\/productos\/2a288bd0b06f74b0043f99cac66736bc.jpg"
+    },
+    {
+        "id_producto": "900",
+        "barcode": "8899145010904",
+        "descripcion": "BOCINA MEDIANA MS-197BT",
+        "porcentaje_utilidad1": "19.31",
+        "imagen": ""
+    },
+    {
+        "id_producto": "901",
+        "barcode": "759364010087",
+        "descripcion": "CEPILLO K-DENT DURO",
+        "porcentaje_utilidad1": "14.94",
+        "imagen": "img\/productos\/3d9d6ccc15c019f9dab4cbacf4a9e523.jpg"
+    },
+    {
+        "id_producto": "902",
+        "barcode": "6941507409191",
+        "descripcion": "LAMPARA BATERIA SS-Q959",
+        "porcentaje_utilidad1": "20.48",
+        "imagen": ""
+    },
+    {
+        "id_producto": "904",
+        "barcode": "250777001018",
+        "descripcion": "TIRRO BLANCO  AYLIN-TIRRO-00101",
+        "porcentaje_utilidad1": "38",
+        "imagen": "img\/productos\/b0d189383796965cebac552384a5f537.jpg"
+    },
+    {
+        "id_producto": "906",
+        "barcode": "250777002",
+        "descripcion": "TOMA MACHO SEMI INDUSTRIAL SUEA039",
+        "porcentaje_utilidad1": "194",
+        "imagen": "img\/productos\/20641dcb2e856d32520fe7cb7434585d.jpg"
+    },
+    {
+        "id_producto": "907",
+        "barcode": "74011811900227",
+        "descripcion": "TOMA HEMBRA SEMI INDUSTRIAL SUEA040",
+        "porcentaje_utilidad1": "56.25",
+        "imagen": "img\/productos\/35163afb7b88203b371be4af53eb9475.jpg"
+    },
+    {
+        "id_producto": "922",
+        "barcode": "7453078546278",
+        "descripcion": "EXTENSION ELECTRICA TROEN 10M CON REGLETA",
+        "porcentaje_utilidad1": "27.78",
+        "imagen": "img\/productos\/88a7f3798817387722c7b5951de2a4e0.jpg"
+    },
+    {
+        "id_producto": "925",
+        "barcode": "6932623210020",
+        "descripcion": "LAMPARA DE FRENTE APLI002",
+        "porcentaje_utilidad1": "11.11",
+        "imagen": "img\/productos\/12231ef6d09ccd2b789555c7c254a196.jpg"
+    },
+    {
+        "id_producto": "926",
+        "barcode": "250777000394",
+        "descripcion": "TIJERA TELA SENIOR 8\/12 AYLIN-TJ-00039",
+        "porcentaje_utilidad1": "15.38",
+        "imagen": "img\/productos\/e3b5695b7db2c89b3619baf9602082a3.jpg"
+    },
+    {
+        "id_producto": "932",
+        "barcode": "6920490788278",
+        "descripcion": "LAMPARA RECARGABLE APOLO APLI003",
+        "porcentaje_utilidad1": "47.06",
+        "imagen": "img\/productos\/05fb0d6327a3d0eafc4e61c696e2c34b.jpg"
+    },
+    {
+        "id_producto": "936",
+        "barcode": "6941507400617",
+        "descripcion": "LAMPARA RECARGABLE AB-A8",
+        "porcentaje_utilidad1": "6",
+        "imagen": "img\/productos\/162d57a0fc5757f0ed329d172612fd44.jpg"
+    },
+    {
+        "id_producto": "937",
+        "barcode": "7501206670156",
+        "descripcion": "FOCO APOLO 15W BLISTER APAH-002",
+        "porcentaje_utilidad1": "33.33",
+        "imagen": "img\/productos\/4761216bba3ad42f888cbc4869643e61.jpg"
+    },
+    {
+        "id_producto": "938",
+        "barcode": "6939020458727",
+        "descripcion": "LAMPARA APOLO RECARGABLE APLI004",
+        "porcentaje_utilidad1": "31.58",
+        "imagen": "img\/productos\/cd6ea4ebda0ae40f47df849a44b537d8.jpg"
+    },
+    {
+        "id_producto": "941",
+        "barcode": "7501206720028",
+        "descripcion": "FOCO APOLO LED EMERGENCIA 7W",
+        "porcentaje_utilidad1": "30.95",
+        "imagen": "img\/productos\/d31642a53fe52808fefcaa17ff6d4170.jpg"
+    },
+    {
+        "id_producto": "942",
+        "barcode": "7501206720011",
+        "descripcion": "FOCO APOLO LED EMERGENCIA 5W APBE001",
+        "porcentaje_utilidad1": "28.2",
+        "imagen": "img\/productos\/04cc5bb105fcd91958e412b1fc0036ec.jpg"
+    },
+    {
+        "id_producto": "943",
+        "barcode": "4974680032384",
+        "descripcion": "VENTILADOR USB RECARGABLE",
+        "porcentaje_utilidad1": "100",
+        "imagen": "img\/productos\/26b036c180e47e9ebd42cb5f28c25149.jpg"
+    },
+    {
+        "id_producto": "944",
+        "barcode": "7501449801256",
+        "descripcion": "FOCO DISCO APLD-01",
+        "porcentaje_utilidad1": "7.14",
+        "imagen": "img\/productos\/d653e18fef8ef5583279c4a019e49f07.jpg"
+    },
+    {
+        "id_producto": "945",
+        "barcode": "6951789500776",
+        "descripcion": "PLANCHA ASTOR SM-77",
+        "porcentaje_utilidad1": "25",
+        "imagen": "img\/productos\/aacf6fb08ef33fbfa68b5ec33d31eae0.jpg"
+    },
+    {
+        "id_producto": "946",
+        "barcode": "4976790310895",
+        "descripcion": "LICUADORA 3B",
+        "porcentaje_utilidad1": "21.58",
+        "imagen": "img\/productos\/974aad12b902d068b6ca6dda82e26a9b.jpg"
+    },
+    {
+        "id_producto": "966",
+        "barcode": "250777000943",
+        "descripcion": "CARGADOR V8 CELL HOUSE CAJA  AYLIN-CBL-00094",
+        "porcentaje_utilidad1": "38.89",
+        "imagen": "img\/productos\/34054cfd66098905c51bd8841838b3b6.jpg"
+    },
+    {
+        "id_producto": "969",
+        "barcode": "6900614247775",
+        "descripcion": "JUGUETE MOTOCICLETA TOYS  BB-05-F68",
+        "porcentaje_utilidad1": "81.81",
+        "imagen": "img\/productos\/51eec4a30ce7271b1d807f2ce2686c2a.jpg"
+    },
+    {
+        "id_producto": "974",
+        "barcode": "6900904363697",
+        "descripcion": "POWER CAR BB-05-A14",
+        "porcentaje_utilidad1": "27.77",
+        "imagen": ""
+    },
+    {
+        "id_producto": "975",
+        "barcode": "6900709363854",
+        "descripcion": "MOTO RCYCLE BB-05-C12",
+        "porcentaje_utilidad1": "31.57",
+        "imagen": ""
+    },
+    {
+        "id_producto": "976",
+        "barcode": "6900709364042",
+        "descripcion": "SPRINT MOTO CUATRO MOTOS BB-05-C16",
+        "porcentaje_utilidad1": "28",
+        "imagen": ""
+    },
+    {
+        "id_producto": "977",
+        "barcode": "6900709080294",
+        "descripcion": "CARRO CAR 95 BB-05-C43",
+        "porcentaje_utilidad1": "15.79",
+        "imagen": ""
+    },
+    {
+        "id_producto": "979",
+        "barcode": "6900690008222",
+        "descripcion": "LOVELY HOUSE CASITA JUGUETE BB-05-A47",
+        "porcentaje_utilidad1": "25",
+        "imagen": "img\/productos\/f227e347bba6fd43fef067108c109bde.jpg"
+    },
+    {
+        "id_producto": "980",
+        "barcode": "6900709363793",
+        "descripcion": "CARRITO BOLSA BB-05-C28",
+        "porcentaje_utilidad1": "28.57",
+        "imagen": ""
+    },
+    {
+        "id_producto": "989",
+        "barcode": "455770502086",
+        "descripcion": "CARRO GRANDE CON CONTROL CQ-222-24",
+        "porcentaje_utilidad1": "9.2896",
+        "imagen": "img\/productos\/f31895abd8690995ed1a6e7295479474.jpg"
+    },
+    {
+        "id_producto": "991",
+        "barcode": "250777000615",
+        "descripcion": "SINCRONIZADOR BLUETOOTH FM AYLIN-CONTROL-00061",
+        "porcentaje_utilidad1": "116.5",
+        "imagen": ""
+    },
+    {
+        "id_producto": "997",
+        "barcode": "6916885986268",
+        "descripcion": "LAMPARA POLICIAL 98626",
+        "porcentaje_utilidad1": "39.59",
+        "imagen": "img\/productos\/57dcdd683577146e5cb25a773a845900.jpg"
+    },
+    {
+        "id_producto": "1001",
+        "barcode": "6899420160807",
+        "descripcion": "OSCILLATING FAN\/VENTILADOR PARA CARRO",
+        "porcentaje_utilidad1": "35.71",
+        "imagen": "img\/productos\/2af116c4ddaa7f65403d8786449d5ae9.jpg"
+    },
+    {
+        "id_producto": "1008",
+        "barcode": "6945851441883",
+        "descripcion": "FOCO SOLAR YZ-188",
+        "porcentaje_utilidad1": "20.48",
+        "imagen": "img\/productos\/2816d02ec5d023bacc77b6696a4840aa.jpg"
+    },
+    {
+        "id_producto": "1010",
+        "barcode": "6956881470880",
+        "descripcion": "CAMPING LIGHT 7088A",
+        "porcentaje_utilidad1": "40.5",
+        "imagen": "img\/productos\/968cf744e0d55c46d2925cf7c140d8e7.png"
+    },
+    {
+        "id_producto": "1014",
+        "barcode": "250777001278",
+        "descripcion": "REFINEMENT TYPE LED LAMP 2 CONTACTOS 3 LED AYLIN-ACM-000127",
+        "porcentaje_utilidad1": "21.43",
+        "imagen": "img\/productos\/408ad45b18d0b03b9ed08395463f3383.png"
+    },
+    {
+        "id_producto": "1016",
+        "barcode": "250777001315",
+        "descripcion": "5 LED MULTI-FUNCTION CAUTION LIGHT J-RT09 AYLIN-CBL-000131",
+        "porcentaje_utilidad1": "57.89",
+        "imagen": "img\/productos\/f2abf5650069799f782a80257de8c2fa.jpg"
+    },
+    {
+        "id_producto": "1018",
+        "barcode": "6899468995829",
+        "descripcion": "ROMPEVIENTO PEQUEÑO SF-320",
+        "porcentaje_utilidad1": "47.06",
+        "imagen": "img\/productos\/01c6cd5265f1b4fff3b508d34a03b294.jpg"
+    },
+    {
+        "id_producto": "1021",
+        "barcode": "2016061102278",
+        "descripcion": "LED 12V 102278 TYPE R LED PARA  HALOGENA",
+        "porcentaje_utilidad1": "20",
+        "imagen": "img\/productos\/3955ec82dea5079c592694f199b47500.jpg"
+    },
+    {
+        "id_producto": "1022",
+        "barcode": "250777001247",
+        "descripcion": "REFINEMENT TYPE LED LAMP 1 CONTACTO 3 LED  AYLIN-ACM-000124",
+        "porcentaje_utilidad1": "45.45",
+        "imagen": "img\/productos\/5d44109de262896b0a9edd64ffc6a177.jpg"
+    },
+    {
+        "id_producto": "1023",
+        "barcode": "250777001254",
+        "descripcion": "REFINEMENT TYPE LED LAMP LAGRIMA GRANDE  AYLIN-CBL-000125 AYLIN-ACM-000125",
+        "porcentaje_utilidad1": "30.77",
+        "imagen": "img\/productos\/a4c0e1eb7f93515ed2fb2142e3b85976.jpg"
+    },
+    {
+        "id_producto": "1034",
+        "barcode": "6899468995768",
+        "descripcion": "SUJETADOR 123",
+        "porcentaje_utilidad1": "33.3",
+        "imagen": "img\/productos\/dc3f2a9bb413ed60b0dc277203158dfe.jpg"
+    },
+    {
+        "id_producto": "1041",
+        "barcode": "2016061102322",
+        "descripcion": "LED 12V 102322 TYPE R H2",
+        "porcentaje_utilidad1": "33.33",
+        "imagen": "img\/productos\/f56c893c6b0bd84c5e8b3ee687774841.jpg"
+    },
+    {
+        "id_producto": "1044",
+        "barcode": "2016061102247",
+        "descripcion": "LED 12V 102247 TYPE R H1 3 LED",
+        "porcentaje_utilidad1": "30",
+        "imagen": "img\/productos\/c3c3f5f4b38dde67db371b8eae66fefb.jpg"
+    },
+    {
+        "id_producto": "1047",
+        "barcode": "7501206710043",
+        "descripcion": "FOCO LED SUSAN CAJA  6.2W\/SUBO001",
+        "porcentaje_utilidad1": "0",
+        "imagen": "img\/productos\/4e6560fb58f2c2a708afcaf1132abc51.jpg"
+    },
+    {
+        "id_producto": "1048",
+        "barcode": "7501206710050",
+        "descripcion": "FOCO LED SUSAN 9.5W SUBO002",
+        "porcentaje_utilidad1": "0",
+        "imagen": "img\/productos\/82ca02be88b2b7bae99d9ce362c2aa43.jpg"
+    },
+    {
+        "id_producto": "1049",
+        "barcode": "7501206710067",
+        "descripcion": "FOCO LED SUSAN CAJA 12W\/SUBO003",
+        "porcentaje_utilidad1": "16.8",
+        "imagen": "img\/productos\/d86b95ddda347a296e95529d18aa0978.jpg"
+    },
+    {
+        "id_producto": "1050",
+        "barcode": "2547896587423",
+        "descripcion": "CINTA AISLANTE SUCE001",
+        "porcentaje_utilidad1": "85",
+        "imagen": "img\/productos\/77f2e3026f4daaccff95d52bbf326420.jpg"
+    },
+    {
+        "id_producto": "1053",
+        "barcode": "2332566589391",
+        "descripcion": "EXTENSION ELECTRICA BLANCA APOLO 20FT APEA07",
+        "porcentaje_utilidad1": "67",
+        "imagen": "img\/productos\/a94adcf8f8920aea549a314862c46f9e.jpg"
+    },
+    {
+        "id_producto": "1056",
+        "barcode": "2332566589377",
+        "descripcion": "EXTENSION ELECTRICA BLANCA APOLO 15FT APEA05",
+        "porcentaje_utilidad1": "76",
+        "imagen": "img\/productos\/2055a5beb8ad15d080440b355bef713c.jpg"
+    },
+    {
+        "id_producto": "1057",
+        "barcode": "2332566589353",
+        "descripcion": "EXTENSION ELECTRICA 9FT APOLO APEA03",
+        "porcentaje_utilidad1": "40.63",
+        "imagen": "img\/productos\/39c93d3bc2409436420c4932a416a5a3.jpg"
+    },
+    {
+        "id_producto": "1058",
+        "barcode": "2332566589360",
+        "descripcion": "EXTENSION ELECTRICA 12FT APOLO APEA04",
+        "porcentaje_utilidad1": "36.99",
+        "imagen": "img\/productos\/5d730e143874adf174439d93c2849713.jpg"
+    },
+    {
+        "id_producto": "1059",
+        "barcode": "2332566589384",
+        "descripcion": "EXTENSION ELECTRICA 18FT APOLO APEA06",
+        "porcentaje_utilidad1": "27.77",
+        "imagen": ""
+    },
+    {
+        "id_producto": "1060",
+        "barcode": "2332566589407",
+        "descripcion": "EXTENSION ELECTRICA 6FT ANARANJADO APOLO APEA08",
+        "porcentaje_utilidad1": "50",
+        "imagen": "img\/productos\/c05e1464a20b2499c986f18ce64cf4cf.jpg"
+    },
+    {
+        "id_producto": "1061",
+        "barcode": "2332566589414",
+        "descripcion": "EXTENSION ELECTRICA 9FT ANARANJADO APOLO APEA09",
+        "porcentaje_utilidad1": "40",
+        "imagen": "img\/productos\/5d49e88f2aa2fd7baddc9ee9beec2c7d.jpg"
+    },
+    {
+        "id_producto": "1065",
+        "barcode": "2332566589469",
+        "descripcion": "EXTENSION ELECTRICA 6FT ANARANJADO CON REGLETA APOLO APEA14",
+        "porcentaje_utilidad1": "48.15",
+        "imagen": ""
+    },
+    {
+        "id_producto": "1066",
+        "barcode": "2332566589476",
+        "descripcion": "EXTENSION ELECTRICA 9FT ANARANJADO CON REGLETA APOLO APEA15",
+        "porcentaje_utilidad1": "40.63",
+        "imagen": "img\/productos\/aa46a094f0b29037d0e33ee89073612a.jpg"
+    },
+    {
+        "id_producto": "1067",
+        "barcode": "2332566589483",
+        "descripcion": "EXTENSION ELECTRICA 12FT ANARANJADO CON REGLETA APOLO APEA16",
+        "porcentaje_utilidad1": "57.89",
+        "imagen": "img\/productos\/77f990a181490aabb5acb0b791204084.jpg"
+    },
+    {
+        "id_producto": "1068",
+        "barcode": "2332566589490",
+        "descripcion": "EXTENSION ELECTRICA 15FT ANARANJADO CON REGLETA APOLO APEA17",
+        "porcentaje_utilidad1": "59.09",
+        "imagen": "img\/productos\/132e560981b0260adaaccbd48b820a68.jpg"
+    },
+    {
+        "id_producto": "1069",
+        "barcode": "2332566589506",
+        "descripcion": "EXTENSION ELECTRICA 25FT ANARANJADO CON REGLETA APOLO APEA18",
+        "porcentaje_utilidad1": "64",
+        "imagen": "img\/productos\/5b82ca14ec1447ae34183c3963d26d91.jpg"
+    },
+    {
+        "id_producto": "1071",
+        "barcode": "6949586671089",
+        "descripcion": "RASURADORA SAFETY RAZOR AL-877",
+        "porcentaje_utilidad1": "42",
+        "imagen": "img\/productos\/ebf51e9af0e3a0b10102e79749066645.jpg"
+    },
+    {
+        "id_producto": "1079",
+        "barcode": "7453021104449",
+        "descripcion": "CORTAUÑAS PONY",
+        "porcentaje_utilidad1": "7.89",
+        "imagen": "img\/productos\/477f8f5d4d0f81421616163f22f61c89.JPG"
+    },
+    {
+        "id_producto": "1092",
+        "barcode": "7865898000470",
+        "descripcion": "FOCO OROBAR 12W 800047",
+        "porcentaje_utilidad1": "15.38",
+        "imagen": "img\/productos\/0642b10e34c80ff639d0d649bf9ffaad.jpg"
+    },
+    {
+        "id_producto": "1094",
+        "barcode": "6940350881604",
+        "descripcion": "CAUTIN DE 60W TL10362",
+        "porcentaje_utilidad1": "2.36",
+        "imagen": "img\/productos\/062cb0e6e626cc09655a4a6eb5635180.jpg"
+    },
+    {
+        "id_producto": "1165",
+        "barcode": "250777001032",
+        "descripcion": "TIRRO CAFE HYSTICK  AYLIN-TIRRO-00103",
+        "porcentaje_utilidad1": "28.21",
+        "imagen": "img\/productos\/c621e05a2dae5d00f4474d2e987196cb.png"
+    },
+    {
+        "id_producto": "1175",
+        "barcode": "7404005970505",
+        "descripcion": "FOCO LED APOLO 5W \/CAJA\/APBO001C",
+        "porcentaje_utilidad1": "41.67",
+        "imagen": ""
+    },
+    {
+        "id_producto": "1176",
+        "barcode": "7404005970703",
+        "descripcion": "FOCO LED APOLO 7W \/CAJA\/APBO002C",
+        "porcentaje_utilidad1": "47.06",
+        "imagen": "img\/productos\/feb9f5c6d806136693b5059e8e2ce5ad.jpg"
+    },
+    {
+        "id_producto": "1200",
+        "barcode": "7404005970901",
+        "descripcion": "FOCO LED APOLO 9W \/CAJA\/APBO003C",
+        "porcentaje_utilidad1": "30.68",
+        "imagen": "img\/productos\/92deeebe369738e42ddd577dbaed7fe5.jpg"
+    },
+    {
+        "id_producto": "1205",
+        "barcode": "8652982835037",
+        "descripcion": "TIRA LED 5M AMARILLA\/BLANCA 110V-240V 2835-AC",
+        "porcentaje_utilidad1": "33.33",
+        "imagen": "img\/productos\/47ab1a0b4a336f2758198682c3b69b23.jpg"
+    },
+    {
+        "id_producto": "1210",
+        "barcode": "7506198101237",
+        "descripcion": "CANDADO 50MM FORTEK 108304",
+        "porcentaje_utilidad1": "20.48",
+        "imagen": "img\/productos\/abee7853047252fc65f875ab062f4357.jpg"
+    },
+    {
+        "id_producto": "1221",
+        "barcode": "6944031246157",
+        "descripcion": "LAMPARA DE FRENTE RECARGABLE LD-4615",
+        "porcentaje_utilidad1": "25",
+        "imagen": "img\/productos\/59fc8f96681027a4fba7a03ddcad6f8b.jpg"
+    },
+    {
+        "id_producto": "1225",
+        "barcode": "6944031299931",
+        "descripcion": "LAMPARA RECARGABLE LD-9993",
+        "porcentaje_utilidad1": "29.31",
+        "imagen": "img\/productos\/0ace6c7468e89be9e6e3a2d7a3a42693.jpg"
+    },
+    {
+        "id_producto": "1226",
+        "barcode": "6944031291140",
+        "descripcion": "LAMPARA RECARGABLE LD-9114",
+        "porcentaje_utilidad1": "41.1",
+        "imagen": "img\/productos\/6f0e252804d9e501871e2edc9aa2c8aa.jpg"
+    },
+    {
+        "id_producto": "1238",
+        "barcode": "868667101049",
+        "descripcion": "BATERIA COCO BL-5C ZDRA-01-050",
+        "porcentaje_utilidad1": "90",
+        "imagen": "img\/productos\/b4496618327238ee0d0642bd5d63301f.jpg"
+    },
+    {
+        "id_producto": "1241",
+        "barcode": "250777000561",
+        "descripcion": "CONTROL LG PARA DVD 6711R1P089B",
+        "porcentaje_utilidad1": "72.41",
+        "imagen": "img\/productos\/f7c8fe9491638b24635231bf304c28ab.jpg"
+    },
+    {
+        "id_producto": "1246",
+        "barcode": "3216546121506",
+        "descripcion": "RADIO GENERAL STAR GS-5700M",
+        "porcentaje_utilidad1": "20",
+        "imagen": ""
+    },
+    {
+        "id_producto": "1256",
+        "barcode": "752754001573",
+        "descripcion": "RASURADORA ZORRIK",
+        "porcentaje_utilidad1": "14.94",
+        "imagen": "img\/productos\/46e2f5ca45de1fa0c6e3a26d4730568d.jpg"
+    },
+    {
+        "id_producto": "1258",
+        "barcode": "6913287912048",
+        "descripcion": "CARGADOR 2 PIEZAS USB TRAVEL CHARGER SJ02",
+        "porcentaje_utilidad1": "25",
+        "imagen": "img\/productos\/5e4777aa0de4c582698673a699873b25.jpg"
+    },
+    {
+        "id_producto": "1264",
+        "barcode": "6560808408193",
+        "descripcion": "LAMPARA DE FRENTE SF-558 LI032",
+        "porcentaje_utilidad1": "0",
+        "imagen": "img\/productos\/9b9b61ec0215bbc882e37969ee95f0d6.jpg"
+    },
+    {
+        "id_producto": "1267",
+        "barcode": "6942205269902",
+        "descripcion": "LAMPARA RECARGABLE YJ-6873R",
+        "porcentaje_utilidad1": "60",
+        "imagen": "img\/productos\/79be67eb0945c354a1414dd2bbcdc035.jpg"
+    },
+    {
+        "id_producto": "1271",
+        "barcode": "9787040509939",
+        "descripcion": "CINTA TAPAGOTERA FLASHBAND BLJ-01",
+        "porcentaje_utilidad1": "45.83",
+        "imagen": "img\/productos\/70d3dc7039df679ea8b38023458118a7.jpg"
+    },
+    {
+        "id_producto": "1275",
+        "barcode": "7404005960513",
+        "descripcion": "FOCO SUSAN 20W SUAH006",
+        "porcentaje_utilidad1": "23",
+        "imagen": "img\/productos\/0d6cd15fff97b2f79853fafae4987a07.jpg"
+    },
+    {
+        "id_producto": "1276",
+        "barcode": "740617175011",
+        "descripcion": "MEMORIA MICRO SD KINGSTON 32GB ORIGINAL",
+        "porcentaje_utilidad1": "35.5",
+        "imagen": "img\/productos\/090c319b73486646ceba9d8c80b90fa0.jpg"
+    },
+    {
+        "id_producto": "1281",
+        "barcode": "864827111004",
+        "descripcion": "FOCO DE EMERGENCIA 12W MZYL-11-004",
+        "porcentaje_utilidad1": "56.25",
+        "imagen": "img\/productos\/75b77f613ee0c8a3a1cfb2566651151c.jpg"
+    },
+    {
+        "id_producto": "1282",
+        "barcode": "250777001421",
+        "descripcion": "BATERIA LAMPARA POLICIAL",
+        "porcentaje_utilidad1": "200",
+        "imagen": "img\/productos\/7ed9a111dbdaf257bc4185cdd23817b5.jpg"
+    },
+    {
+        "id_producto": "1286",
+        "barcode": "6913287912062",
+        "descripcion": "CARGADOR PARA CARRO SJ06",
+        "porcentaje_utilidad1": "138.09",
+        "imagen": "img\/productos\/065ef820df23881f6054d93d9c715772.jpg"
+    },
+    {
+        "id_producto": "1292",
+        "barcode": "861768101050",
+        "descripcion": "CONTROL PHILIPS PLASMA PH-17 XR-01-050",
+        "porcentaje_utilidad1": "66.67",
+        "imagen": "img\/productos\/3c4b4c73eae79fa67f92adbc075f766b.jpg"
+    },
+    {
+        "id_producto": "1302",
+        "barcode": "250777001063",
+        "descripcion": "ROLLO DE CINTA TEFLON  AYLIN-TIRRO-00106",
+        "porcentaje_utilidad1": "75",
+        "imagen": "img\/productos\/5a0d0d2e3596889e5bbe94b5f261bb60.jpg"
+    },
+    {
+        "id_producto": "1304",
+        "barcode": "740617206395",
+        "descripcion": "MEMORIA USB 32GB KINGSTON ORIGINAL",
+        "porcentaje_utilidad1": "43.75",
+        "imagen": "img\/productos\/88dfe6a4c730f10bdc51b6d651a170ca.jpg"
+    },
+    {
+        "id_producto": "1306",
+        "barcode": "250777000509",
+        "descripcion": "CADENA PARA PERRO M-5018 AYLIN-CPR-00050",
+        "porcentaje_utilidad1": "25",
+        "imagen": "img\/productos\/6973e64df49ff7454dce93b3e00dc1aa.jpg"
+    },
+    {
+        "id_producto": "1315",
+        "barcode": "7501892864259",
+        "descripcion": "EXTENSION NARANJA 6M FULGORE FP0068",
+        "porcentaje_utilidad1": "19.05",
+        "imagen": "img\/productos\/d692fb8e596443344267cf3f6f736c71.jpg"
+    },
+    {
+        "id_producto": "1317",
+        "barcode": "7501088401336",
+        "descripcion": "AROMA CHICA FRESITA 3 UNIDADES",
+        "porcentaje_utilidad1": "20",
+        "imagen": "img\/productos\/86b9fc1a2e95816c1df56e1b1b230afd.jpg"
+    },
+    {
+        "id_producto": "1319",
+        "barcode": "6899468995584",
+        "descripcion": "LUZ LED LOVE YOU STAR SF-2433",
+        "porcentaje_utilidad1": "20",
+        "imagen": "img\/productos\/84fbea05e03eb8b082f7066df4c00f08.jpg"
+    },
+    {
+        "id_producto": "1320",
+        "barcode": "6899468995577",
+        "descripcion": "LUZ LED LOVE YOU STAR SF-2434",
+        "porcentaje_utilidad1": "30",
+        "imagen": "img\/productos\/31e4b105ce13415c3d4cb7f9fd2825a2.jpg"
+    },
+    {
+        "id_producto": "1329",
+        "barcode": "6947551982246",
+        "descripcion": "LAMPARA MATA MOSQUITO QL-224",
+        "porcentaje_utilidad1": "66.67",
+        "imagen": "img\/productos\/0d6266486708950e86386a1a54590e16.jpg"
+    },
+    {
+        "id_producto": "1332",
+        "barcode": "7788990003302",
+        "descripcion": "BARRA LED HT-282002",
+        "porcentaje_utilidad1": "31.25",
+        "imagen": "img\/productos\/c8da0dd7ed1c37d5ab2629f0706a757c.jpg"
+    },
+    {
+        "id_producto": "1333",
+        "barcode": "6899468995966",
+        "descripcion": "PORTA PLACA NEON INDIVIDUAL",
+        "porcentaje_utilidad1": "46",
+        "imagen": ""
+    },
+    {
+        "id_producto": "1339",
+        "barcode": "7693829382834",
+        "descripcion": "LUZ PARA TABLERO G-02-508",
+        "porcentaje_utilidad1": "20",
+        "imagen": "img\/productos\/dc5623a0304cfedc6e5225e3ae699e48.jpg"
+    },
+    {
+        "id_producto": "1350",
+        "barcode": "6899468995591",
+        "descripcion": "PITO DE RETROCESO HT-1103",
+        "porcentaje_utilidad1": "50",
+        "imagen": "img\/productos\/cc216fc3411126d059a15ed435f0da7a.jpg"
+    },
+    {
+        "id_producto": "1355",
+        "barcode": "250777000950",
+        "descripcion": "CARGADOR V3 CELL HOUSE CAJA",
+        "porcentaje_utilidad1": "38.89",
+        "imagen": "img\/productos\/b1de91bc5533397ff8536fce922f650b.jpg"
+    },
+    {
+        "id_producto": "1375",
+        "barcode": "9003175234264",
+        "descripcion": "PIEDRA LIMA DUCAS",
+        "porcentaje_utilidad1": "50",
+        "imagen": "img\/productos\/359c7c98263796a8e94846065b8634e0.jpg"
+    },
+    {
+        "id_producto": "1383",
+        "barcode": "69211700760275",
+        "descripcion": "LAMPARA RECARGABLE LL-6027",
+        "porcentaje_utilidad1": "38.89",
+        "imagen": "img\/productos\/31dde1194d850e6327837678580abb5d.jpg"
+    },
+    {
+        "id_producto": "1389",
+        "barcode": "7465954424020",
+        "descripcion": "MAQUINA PARA CORTAR PELO CHALLENGER",
+        "porcentaje_utilidad1": "30",
+        "imagen": "img\/productos\/4bd89025fb7f6521e8517f37b401f1dd.jpg"
+    },
+    {
+        "id_producto": "1390",
+        "barcode": "50134056584405",
+        "descripcion": "GILLETE ZORRIK",
+        "porcentaje_utilidad1": "20.69",
+        "imagen": "img\/productos\/d9100ce4f7fcc00bbee2a072a1382f7e.jpg"
+    },
+    {
+        "id_producto": "1391",
+        "barcode": "861949701368",
+        "descripcion": "AUDIFONO JBL",
+        "porcentaje_utilidad1": "25",
+        "imagen": "img\/productos\/994b3cf50f7fb8160e63ffc1499acf5e.jpg"
+    },
+    {
+        "id_producto": "1395",
+        "barcode": "7404005961503",
+        "descripcion": "FOCO LED APOLO DE 50W  APGA050",
+        "porcentaje_utilidad1": "38.46",
+        "imagen": "img\/productos\/1194bcb35eff91eadc39d30b9cefb069.jpg"
+    },
+    {
+        "id_producto": "1398",
+        "barcode": "7501206670354",
+        "descripcion": "FOCO APOLO DE 35W APAH008",
+        "porcentaje_utilidad1": "25",
+        "imagen": "img\/productos\/4d2a28db0c111ce1feea0a32b354e812.jpg"
+    },
+    {
+        "id_producto": "1400",
+        "barcode": "8601179600088",
+        "descripcion": "CARGADOR V8 SAMSUNG CAJA YS-01-008",
+        "porcentaje_utilidad1": "66.67",
+        "imagen": "img\/productos\/b866a9ab751bf8264c986ccd4d78d675.jpg"
+    },
+    {
+        "id_producto": "1402",
+        "barcode": "861768101027",
+        "descripcion": "CONTROL DVD PHILIPS XR-01-027",
+        "porcentaje_utilidad1": "25",
+        "imagen": "img\/productos\/ba9c3d6a4d3037da56aad32b571e4338.jpg"
+    },
+    {
+        "id_producto": "1406",
+        "barcode": "7401005496387",
+        "descripcion": "BRILLO LABIAL EVITA \/10 UNIDADES\/",
+        "porcentaje_utilidad1": "25",
+        "imagen": "img\/productos\/580e45a814b1301268f31bc9cb20c2e2.jpg"
+    },
+    {
+        "id_producto": "1413",
+        "barcode": "6940000080524",
+        "descripcion": "REFLECTOR SUSAN 15W SUPAR001",
+        "porcentaje_utilidad1": "17.24",
+        "imagen": "img\/productos\/4e177b9e667ffc6e087c9469a3fe7369.jpg"
+    },
+    {
+        "id_producto": "1415",
+        "barcode": "861949701308",
+        "descripcion": "CARGADOR SAMSUNG 3 PIEZAS \/BOLSA\/",
+        "porcentaje_utilidad1": "25",
+        "imagen": "img\/productos\/5f43306e3b4b1a8a59032ec6e73b687c.jpg"
+    },
+    {
+        "id_producto": "1416",
+        "barcode": "250777000783",
+        "descripcion": "CARGADOR SAMSUNG 2 PIEZAS \/BOLSA\/",
+        "porcentaje_utilidad1": "42.85",
+        "imagen": "img\/productos\/c57440c536988c3822125d34213ad706.jpg"
+    },
+    {
+        "id_producto": "1421",
+        "barcode": "6950616300350",
+        "descripcion": "HISOPO CHICO",
+        "porcentaje_utilidad1": "25",
+        "imagen": "img\/productos\/2b1259fdbf5c7bd934c7f7401cd657a3.jpg"
+    },
+    {
+        "id_producto": "1428",
+        "barcode": "7404005970116",
+        "descripcion": "FOCO DE EMERGENCIA 11W APOLO APBE004",
+        "porcentaje_utilidad1": "29.63",
+        "imagen": "img\/productos\/0d0805c37aee96bc8405d3f7d08981b5.jpg"
+    },
+    {
+        "id_producto": "1429",
+        "barcode": "2332566589513",
+        "descripcion": "REGLETA APOLO APEA01",
+        "porcentaje_utilidad1": "32.14",
+        "imagen": "img\/productos\/0574cc4dafb30b3aa6654e2681327f3c.jpg"
+    },
+    {
+        "id_producto": "1430",
+        "barcode": "2332566589421",
+        "descripcion": "EXTENSION ELECTRICA 12FT ANARANJADO APOLO APEA10",
+        "porcentaje_utilidad1": "56.25",
+        "imagen": "img\/productos\/47e84b8956bce82187b7d155a6c34b67.jpg"
+    },
+    {
+        "id_producto": "1431",
+        "barcode": "7404005963217",
+        "descripcion": "FOCO APOLO LED CON SENSOR 9W APES001",
+        "porcentaje_utilidad1": "40",
+        "imagen": "img\/productos\/3de1ba8ff95583d4203a7d057757777e.jpg"
+    },
+    {
+        "id_producto": "1432",
+        "barcode": "7404005961305",
+        "descripcion": "FOCO LED APOLO DE 30W APGA030",
+        "porcentaje_utilidad1": "16.67",
+        "imagen": "img\/productos\/eae71bcff9ca6ba1875a6aeb49343e91.jpg"
+    },
+    {
+        "id_producto": "1433",
+        "barcode": "7404005961404",
+        "descripcion": "FOCO LED APOLO CAJA 40W 85V\/265V APGA040",
+        "porcentaje_utilidad1": "28.57",
+        "imagen": "img\/productos\/f99acf1ec825c0717aaad248b5f2010c.jpg"
+    },
+    {
+        "id_producto": "1434",
+        "barcode": "7404005960223",
+        "descripcion": "FOCO APOLO 20W ESPIRAL APAH-006",
+        "porcentaje_utilidad1": "25",
+        "imagen": "img\/productos\/3a8cffd93080fce01cf45a40c3dda330.jpg"
+    },
+    {
+        "id_producto": "1436",
+        "barcode": "2016051902208",
+        "descripcion": "HALOGENA PARA VEHICULO HY-3017",
+        "porcentaje_utilidad1": "25",
+        "imagen": "img\/productos\/4943ae7ff333858f6ba0ce9d705ece99.jpg"
+    },
+    {
+        "id_producto": "1440",
+        "barcode": "2017051100427",
+        "descripcion": "LUZ DE TAXI GRANDE HR-1907T",
+        "porcentaje_utilidad1": "31.42",
+        "imagen": "img\/productos\/03867578353f01ae98fdb0bd09a7508b.png"
+    },
+    {
+        "id_producto": "1441",
+        "barcode": "2017051100410",
+        "descripcion": "LUZ DE TAXI PEQUEÑA HR-1307T",
+        "porcentaje_utilidad1": "33.33",
+        "imagen": "img\/productos\/61a9c7ee3dbce15b07e43b74ac6220d1.png"
+    },
+    {
+        "id_producto": "1442",
+        "barcode": "2017070400133",
+        "descripcion": "FAROL DE MOTO MTCD0085",
+        "porcentaje_utilidad1": "37.5",
+        "imagen": "img\/productos\/e7090c8c56010719a5af5eea8bbe13ef.jpg"
+    },
+    {
+        "id_producto": "1443",
+        "barcode": "2017070400171",
+        "descripcion": "FAROL DE MOTO MTCD0005A",
+        "porcentaje_utilidad1": "33.33",
+        "imagen": "img\/productos\/384c39a07c91c37998c3c885d3c0fe48.jpg"
+    },
+    {
+        "id_producto": "1444",
+        "barcode": "2017070400256",
+        "descripcion": "LUZ LED MOTO MTCD0080",
+        "porcentaje_utilidad1": "0",
+        "imagen": "img\/productos\/0b54718a3ea933cfb53022f100df92d3.jpg"
+    },
+    {
+        "id_producto": "1445",
+        "barcode": "2017070400157",
+        "descripcion": "OJO DE ANGELTRANSFORMER L-63",
+        "porcentaje_utilidad1": "26.5",
+        "imagen": "img\/productos\/81322870b4c2c083969f493f32067196.jpg"
+    },
+    {
+        "id_producto": "1446",
+        "barcode": "7453073902628",
+        "descripcion": "TIJERA DOBERMAN GRANDE",
+        "porcentaje_utilidad1": "32",
+        "imagen": "img\/productos\/9928ea79a653ccc23d053a380a80e439.jpg"
+    },
+    {
+        "id_producto": "1449",
+        "barcode": "2017051100878",
+        "descripcion": "ANTENA PARA CARRO T-03016",
+        "porcentaje_utilidad1": "25",
+        "imagen": "img\/productos\/0d7b3e2b68ba75683956a05e4b7ee9fc.jpg"
+    },
+    {
+        "id_producto": "1450",
+        "barcode": "2017072200120",
+        "descripcion": "OJO DE GATO LANZHAO",
+        "porcentaje_utilidad1": "32.35",
+        "imagen": "img\/productos\/e70a7a976ac09c1adc31c8935770ef39.jpg"
+    },
+    {
+        "id_producto": "1451",
+        "barcode": "2017072200144",
+        "descripcion": "TORNILLO TIPO OJO DC-12V WHITE",
+        "porcentaje_utilidad1": "40",
+        "imagen": "img\/productos\/2f6dcd7f615708cf1d70a29186fb43a7.jpg"
+    },
+    {
+        "id_producto": "1452",
+        "barcode": "2017051100861",
+        "descripcion": "ANTENA PARA CARRO TV-RADIO YN-079",
+        "porcentaje_utilidad1": "32.81",
+        "imagen": "img\/productos\/104319ef27fe5e869ef159a1d089cad5.jpg"
+    },
+    {
+        "id_producto": "1453",
+        "barcode": "2016120800053",
+        "descripcion": "LODERA MARCA ELEGANT",
+        "porcentaje_utilidad1": "60",
+        "imagen": "img\/productos\/65ad9f85bafd54e4b35d6f4ccd59ba07.jpg"
+    },
+    {
+        "id_producto": "1454",
+        "barcode": "2017072200359",
+        "descripcion": "PATA PARA MOTO",
+        "porcentaje_utilidad1": "21.7",
+        "imagen": "img\/productos\/895850a1510492dfec8fd30ca2e8e538.jpg"
+    },
+    {
+        "id_producto": "1455",
+        "barcode": "2017072200298",
+        "descripcion": "ALZA RIDE IT",
+        "porcentaje_utilidad1": "78.57",
+        "imagen": "img\/productos\/38cb80eaa69f4600fceb5922012ee7eb.jpg"
+    },
+    {
+        "id_producto": "1456",
+        "barcode": "2017072200458",
+        "descripcion": "MANECILLA METALICA RECTA",
+        "porcentaje_utilidad1": "25",
+        "imagen": "img\/productos\/ea1c84f0b6834ee812264ca2e113c92f.jpg"
+    },
+    {
+        "id_producto": "1457",
+        "barcode": "2017051100151",
+        "descripcion": "ANTENA PEQUEÑA METALICA PASSWORD JDM",
+        "porcentaje_utilidad1": "42.86",
+        "imagen": "img\/productos\/8a70cc07d2eb90bc160ebd059fb2142b.jpg"
+    },
+    {
+        "id_producto": "1460",
+        "barcode": "6980454000013",
+        "descripcion": "LUZ NAVIDEÑA APOLO 9M BLANCA GED-9M-01",
+        "porcentaje_utilidad1": "16.67",
+        "imagen": ""
+    },
+    {
+        "id_producto": "1473",
+        "barcode": "867040901004",
+        "descripcion": "RADIO COCO QZZS-01-004",
+        "porcentaje_utilidad1": "32.07",
+        "imagen": "img\/productos\/71c9ac55909c0c4585f182cffae8b5b8.jpg"
+    },
+    {
+        "id_producto": "1477",
+        "barcode": "6955456671868",
+        "descripcion": "LAMPARA RECARGABLE YH-186-2",
+        "porcentaje_utilidad1": "35.87",
+        "imagen": "img\/productos\/395cc54ee8b773e6b4b3c5ad374364b0.jpg"
+    },
+    {
+        "id_producto": "1482",
+        "barcode": "6904563110258",
+        "descripcion": "LAMPARA DE ESCRITORIO XY-0416 LI025",
+        "porcentaje_utilidad1": "92",
+        "imagen": "img\/productos\/7a01011d43eecf2d1a150af41653b552.jpg"
+    },
+    {
+        "id_producto": "1485",
+        "barcode": "7866681716981",
+        "descripcion": "LAMPARA DE BATERIA JPP-169\/GG-169",
+        "porcentaje_utilidad1": "44.23",
+        "imagen": "img\/productos\/0427821272356843770ab7ffc9277cba.jpg"
+    },
+    {
+        "id_producto": "1490",
+        "barcode": "6944031229068",
+        "descripcion": "LAMPARA RECARGABLE SULI020",
+        "porcentaje_utilidad1": "30.43",
+        "imagen": "img\/productos\/9b273c1f39a164986305cd828a3aeacd.jpg"
+    },
+    {
+        "id_producto": "1491",
+        "barcode": "7404005960988",
+        "descripcion": "LAMPARA RECARGABLE APLI005",
+        "porcentaje_utilidad1": "33.33",
+        "imagen": "img\/productos\/1b0ce3939e79b1e23019886d123819f1.jpg"
+    },
+    {
+        "id_producto": "1492",
+        "barcode": "6904563110241",
+        "descripcion": "LAMPARA DE FRENTE GG-228D LI024",
+        "porcentaje_utilidad1": "45.83",
+        "imagen": "img\/productos\/0ce27a6717504686961bfb8003fc8530.jpg"
+    },
+    {
+        "id_producto": "1493",
+        "barcode": "7453021104364",
+        "descripcion": "CORTAUÑAS PONY PEQUEÑO",
+        "porcentaje_utilidad1": "33.33",
+        "imagen": "img\/productos\/f68f640ab55612ebdc27adaaa6408689.jpg"
+    },
+    {
+        "id_producto": "1494",
+        "barcode": "6942205269940",
+        "descripcion": "LAMPARA RECARGABLE CANDELA YJ-6876 LI035",
+        "porcentaje_utilidad1": "56.25",
+        "imagen": "img\/productos\/91c3f77e31896685667528a68a29fba4.jpg"
+    },
+    {
+        "id_producto": "1495",
+        "barcode": "740617274646",
+        "descripcion": "MEMORIA MICRO SD 16GB KINGSTON ORIGINAL",
+        "porcentaje_utilidad1": "131.88",
+        "imagen": "img\/productos\/79d4a3011b593a25c6230a130b574531.jpg"
+    },
+    {
+        "id_producto": "1499",
+        "barcode": "7502239094711",
+        "descripcion": "CALENTADOR DE AGUA 900W MAXTOOL",
+        "porcentaje_utilidad1": "29.03",
+        "imagen": "img\/productos\/a01edbd7998f5e5e48c8bf014f538ce2.jpg"
+    },
+    {
+        "id_producto": "2663",
+        "barcode": "123",
+        "descripcion": "producto magico",
+        "porcentaje_utilidad1": "394",
+        "imagen": "\/c\/usersdsd_"
+    }
+]

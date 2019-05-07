@@ -2,15 +2,17 @@
   "name": "androidserver",
   "version": "1.0.0",
   "description": "servidor de app rutera",
-  "main": "index.js",
+  "main": "app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
   },
   "author": "Fernando9825",
   "license": "ISC",
   "dependencies": {
     "express": "^4.16.4",
     "mysql": "^2.17.1",
-    "mysql-import": "^2.0.2"
+    "mysql-import": "^2.0.2",
+    "sqlite3": "^4.0.6"
   }
 }

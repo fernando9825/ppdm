@@ -1,0 +1,4658 @@
+[
+    {
+        "id_stock": "3",
+        "id_producto": "55",
+        "existencia": "6",
+        "costo_promedio": "0.9945"
+    },
+    {
+        "id_stock": "4",
+        "id_producto": "65",
+        "existencia": "55",
+        "costo_promedio": "0.7605"
+    },
+    {
+        "id_stock": "6",
+        "id_producto": "103",
+        "existencia": "2",
+        "costo_promedio": "0.9009"
+    },
+    {
+        "id_stock": "8",
+        "id_producto": "114",
+        "existencia": "1921",
+        "costo_promedio": "0.1872"
+    },
+    {
+        "id_stock": "9",
+        "id_producto": "115",
+        "existencia": "279",
+        "costo_promedio": "0.1989"
+    },
+    {
+        "id_stock": "12",
+        "id_producto": "120",
+        "existencia": "23.25",
+        "costo_promedio": "0.8775"
+    },
+    {
+        "id_stock": "14",
+        "id_producto": "135",
+        "existencia": "1",
+        "costo_promedio": "2.1645"
+    },
+    {
+        "id_stock": "15",
+        "id_producto": "148",
+        "existencia": "2635",
+        "costo_promedio": "0.5382"
+    },
+    {
+        "id_stock": "16",
+        "id_producto": "113",
+        "existencia": "205033",
+        "costo_promedio": "0.0468"
+    },
+    {
+        "id_stock": "17",
+        "id_producto": "155",
+        "existencia": "96",
+        "costo_promedio": "0.8892"
+    },
+    {
+        "id_stock": "18",
+        "id_producto": "156",
+        "existencia": "1",
+        "costo_promedio": "1.5795"
+    },
+    {
+        "id_stock": "19",
+        "id_producto": "157",
+        "existencia": "10",
+        "costo_promedio": "1.17"
+    },
+    {
+        "id_stock": "20",
+        "id_producto": "158",
+        "existencia": "52",
+        "costo_promedio": "1.17"
+    },
+    {
+        "id_stock": "21",
+        "id_producto": "159",
+        "existencia": "86",
+        "costo_promedio": "1.1115"
+    },
+    {
+        "id_stock": "22",
+        "id_producto": "160",
+        "existencia": "278",
+        "costo_promedio": "1.1115"
+    },
+    {
+        "id_stock": "23",
+        "id_producto": "161",
+        "existencia": "117",
+        "costo_promedio": "1.17"
+    },
+    {
+        "id_stock": "24",
+        "id_producto": "162",
+        "existencia": "47",
+        "costo_promedio": "1.1115"
+    },
+    {
+        "id_stock": "25",
+        "id_producto": "163",
+        "existencia": "12",
+        "costo_promedio": "1.17"
+    },
+    {
+        "id_stock": "26",
+        "id_producto": "408",
+        "existencia": "32",
+        "costo_promedio": "1.17"
+    },
+    {
+        "id_stock": "27",
+        "id_producto": "164",
+        "existencia": "91",
+        "costo_promedio": "1.521"
+    },
+    {
+        "id_stock": "28",
+        "id_producto": "167",
+        "existencia": "1",
+        "costo_promedio": "1.17"
+    },
+    {
+        "id_stock": "29",
+        "id_producto": "184",
+        "existencia": "120",
+        "costo_promedio": "3.51"
+    },
+    {
+        "id_stock": "30",
+        "id_producto": "179",
+        "existencia": "11",
+        "costo_promedio": "5.85"
+    },
+    {
+        "id_stock": "31",
+        "id_producto": "190",
+        "existencia": "429",
+        "costo_promedio": "0.2925"
+    },
+    {
+        "id_stock": "32",
+        "id_producto": "191",
+        "existencia": "21",
+        "costo_promedio": "0.2574"
+    },
+    {
+        "id_stock": "34",
+        "id_producto": "196",
+        "existencia": "33",
+        "costo_promedio": "1.17"
+    },
+    {
+        "id_stock": "36",
+        "id_producto": "140",
+        "existencia": "111",
+        "costo_promedio": "1.989"
+    },
+    {
+        "id_stock": "37",
+        "id_producto": "200",
+        "existencia": "10",
+        "costo_promedio": "1.0764"
+    },
+    {
+        "id_stock": "39",
+        "id_producto": "97",
+        "existencia": "24",
+        "costo_promedio": "17.55"
+    },
+    {
+        "id_stock": "40",
+        "id_producto": "75",
+        "existencia": "5",
+        "costo_promedio": "22.23"
+    },
+    {
+        "id_stock": "41",
+        "id_producto": "202",
+        "existencia": "1.5",
+        "costo_promedio": "1.17"
+    },
+    {
+        "id_stock": "42",
+        "id_producto": "203",
+        "existencia": "9",
+        "costo_promedio": "2.0007"
+    },
+    {
+        "id_stock": "43",
+        "id_producto": "216",
+        "existencia": "243",
+        "costo_promedio": "0.117"
+    },
+    {
+        "id_stock": "44",
+        "id_producto": "219",
+        "existencia": "351",
+        "costo_promedio": "1.17"
+    },
+    {
+        "id_stock": "45",
+        "id_producto": "221",
+        "existencia": "83",
+        "costo_promedio": "0.5616"
+    },
+    {
+        "id_stock": "47",
+        "id_producto": "229",
+        "existencia": "3",
+        "costo_promedio": "1.17"
+    },
+    {
+        "id_stock": "48",
+        "id_producto": "231",
+        "existencia": "122",
+        "costo_promedio": "0.9945"
+    },
+    {
+        "id_stock": "49",
+        "id_producto": "232",
+        "existencia": "154",
+        "costo_promedio": "0.6552"
+    },
+    {
+        "id_stock": "50",
+        "id_producto": "233",
+        "existencia": "405",
+        "costo_promedio": "0.4329"
+    },
+    {
+        "id_stock": "51",
+        "id_producto": "234",
+        "existencia": "13",
+        "costo_promedio": "1.1232"
+    },
+    {
+        "id_stock": "52",
+        "id_producto": "236",
+        "existencia": "3",
+        "costo_promedio": "18.72"
+    },
+    {
+        "id_stock": "53",
+        "id_producto": "238",
+        "existencia": "41",
+        "costo_promedio": "4.1184"
+    },
+    {
+        "id_stock": "54",
+        "id_producto": "239",
+        "existencia": "32",
+        "costo_promedio": "1.3455"
+    },
+    {
+        "id_stock": "55",
+        "id_producto": "240",
+        "existencia": "5",
+        "costo_promedio": "1.6731"
+    },
+    {
+        "id_stock": "56",
+        "id_producto": "242",
+        "existencia": "1",
+        "costo_promedio": "1.2402"
+    },
+    {
+        "id_stock": "59",
+        "id_producto": "247",
+        "existencia": "138",
+        "costo_promedio": "0.8424"
+    },
+    {
+        "id_stock": "60",
+        "id_producto": "248",
+        "existencia": "1",
+        "costo_promedio": "3.8025"
+    },
+    {
+        "id_stock": "61",
+        "id_producto": "249",
+        "existencia": "8642.34",
+        "costo_promedio": "0.6318"
+    },
+    {
+        "id_stock": "62",
+        "id_producto": "250",
+        "existencia": "9782",
+        "costo_promedio": "0.9711"
+    },
+    {
+        "id_stock": "63",
+        "id_producto": "251",
+        "existencia": "1",
+        "costo_promedio": "1.989"
+    },
+    {
+        "id_stock": "65",
+        "id_producto": "253",
+        "existencia": "13",
+        "costo_promedio": "1.6965"
+    },
+    {
+        "id_stock": "66",
+        "id_producto": "254",
+        "existencia": "8",
+        "costo_promedio": "1.755"
+    },
+    {
+        "id_stock": "67",
+        "id_producto": "255",
+        "existencia": "2",
+        "costo_promedio": "2.574"
+    },
+    {
+        "id_stock": "70",
+        "id_producto": "409",
+        "existencia": "31",
+        "costo_promedio": "2.223"
+    },
+    {
+        "id_stock": "72",
+        "id_producto": "260",
+        "existencia": "71",
+        "costo_promedio": "0.4095"
+    },
+    {
+        "id_stock": "73",
+        "id_producto": "261",
+        "existencia": "1",
+        "costo_promedio": "0.8775"
+    },
+    {
+        "id_stock": "74",
+        "id_producto": "264",
+        "existencia": "72",
+        "costo_promedio": "0.585"
+    },
+    {
+        "id_stock": "75",
+        "id_producto": "168",
+        "existencia": "2",
+        "costo_promedio": "0.585"
+    },
+    {
+        "id_stock": "76",
+        "id_producto": "273",
+        "existencia": "265",
+        "costo_promedio": "2.7378"
+    },
+    {
+        "id_stock": "77",
+        "id_producto": "269",
+        "existencia": "23",
+        "costo_promedio": "0.585"
+    },
+    {
+        "id_stock": "78",
+        "id_producto": "270",
+        "existencia": "22",
+        "costo_promedio": "0.0585"
+    },
+    {
+        "id_stock": "79",
+        "id_producto": "266",
+        "existencia": "2797",
+        "costo_promedio": "0.0585"
+    },
+    {
+        "id_stock": "80",
+        "id_producto": "265",
+        "existencia": "73",
+        "costo_promedio": "0.0585"
+    },
+    {
+        "id_stock": "81",
+        "id_producto": "267",
+        "existencia": "25",
+        "costo_promedio": "0.0585"
+    },
+    {
+        "id_stock": "84",
+        "id_producto": "337",
+        "existencia": "7",
+        "costo_promedio": "0.0351"
+    },
+    {
+        "id_stock": "86",
+        "id_producto": "338",
+        "existencia": "80",
+        "costo_promedio": "0.1521"
+    },
+    {
+        "id_stock": "87",
+        "id_producto": "282",
+        "existencia": "582",
+        "costo_promedio": "0.9711"
+    },
+    {
+        "id_stock": "89",
+        "id_producto": "29",
+        "existencia": "19",
+        "costo_promedio": "1.2636"
+    },
+    {
+        "id_stock": "92",
+        "id_producto": "300",
+        "existencia": "102",
+        "costo_promedio": "2.7144"
+    },
+    {
+        "id_stock": "93",
+        "id_producto": "344",
+        "existencia": "2",
+        "costo_promedio": "0.4095"
+    },
+    {
+        "id_stock": "94",
+        "id_producto": "301",
+        "existencia": "126",
+        "costo_promedio": "3.276"
+    },
+    {
+        "id_stock": "95",
+        "id_producto": "343",
+        "existencia": "20",
+        "costo_promedio": "0.0468"
+    },
+    {
+        "id_stock": "96",
+        "id_producto": "342",
+        "existencia": "18",
+        "costo_promedio": "0.585"
+    },
+    {
+        "id_stock": "97",
+        "id_producto": "27",
+        "existencia": "55",
+        "costo_promedio": "1.3455"
+    },
+    {
+        "id_stock": "99",
+        "id_producto": "411",
+        "existencia": "4",
+        "costo_promedio": "3.8025"
+    },
+    {
+        "id_stock": "100",
+        "id_producto": "417",
+        "existencia": "3",
+        "costo_promedio": "2.34"
+    },
+    {
+        "id_stock": "102",
+        "id_producto": "419",
+        "existencia": "1",
+        "costo_promedio": "5.148"
+    },
+    {
+        "id_stock": "104",
+        "id_producto": "421",
+        "existencia": "5",
+        "costo_promedio": "15.21"
+    },
+    {
+        "id_stock": "106",
+        "id_producto": "305",
+        "existencia": "1",
+        "costo_promedio": "0.585"
+    },
+    {
+        "id_stock": "108",
+        "id_producto": "314",
+        "existencia": "2332",
+        "costo_promedio": "0.5616"
+    },
+    {
+        "id_stock": "109",
+        "id_producto": "324",
+        "existencia": "110.2",
+        "costo_promedio": "2.925"
+    },
+    {
+        "id_stock": "110",
+        "id_producto": "325",
+        "existencia": "177",
+        "costo_promedio": "1.638"
+    },
+    {
+        "id_stock": "111",
+        "id_producto": "327",
+        "existencia": "7",
+        "costo_promedio": "11.115"
+    },
+    {
+        "id_stock": "112",
+        "id_producto": "329",
+        "existencia": "1",
+        "costo_promedio": "0.351"
+    },
+    {
+        "id_stock": "113",
+        "id_producto": "332",
+        "existencia": "5",
+        "costo_promedio": "0.1872"
+    },
+    {
+        "id_stock": "114",
+        "id_producto": "333",
+        "existencia": "341",
+        "costo_promedio": "4.0365"
+    },
+    {
+        "id_stock": "115",
+        "id_producto": "335",
+        "existencia": "52",
+        "costo_promedio": "5.265"
+    },
+    {
+        "id_stock": "116",
+        "id_producto": "336",
+        "existencia": "5",
+        "costo_promedio": "7.1604"
+    },
+    {
+        "id_stock": "117",
+        "id_producto": "244",
+        "existencia": "79.5",
+        "costo_promedio": "7.4295"
+    },
+    {
+        "id_stock": "118",
+        "id_producto": "435",
+        "existencia": "120",
+        "costo_promedio": "1.053"
+    },
+    {
+        "id_stock": "120",
+        "id_producto": "436",
+        "existencia": "2",
+        "costo_promedio": "1.404"
+    },
+    {
+        "id_stock": "122",
+        "id_producto": "346",
+        "existencia": "80",
+        "costo_promedio": "0.819"
+    },
+    {
+        "id_stock": "124",
+        "id_producto": "349",
+        "existencia": "260",
+        "costo_promedio": "0.5031"
+    },
+    {
+        "id_stock": "125",
+        "id_producto": "298",
+        "existencia": "2",
+        "costo_promedio": "0.4914"
+    },
+    {
+        "id_stock": "126",
+        "id_producto": "412",
+        "existencia": "215",
+        "costo_promedio": "2.34"
+    },
+    {
+        "id_stock": "127",
+        "id_producto": "413",
+        "existencia": "86",
+        "costo_promedio": "0.6201"
+    },
+    {
+        "id_stock": "128",
+        "id_producto": "414",
+        "existencia": "239",
+        "costo_promedio": "0.6201"
+    },
+    {
+        "id_stock": "129",
+        "id_producto": "415",
+        "existencia": "101",
+        "costo_promedio": "0.6786"
+    },
+    {
+        "id_stock": "130",
+        "id_producto": "426",
+        "existencia": "45",
+        "costo_promedio": "0.2691"
+    },
+    {
+        "id_stock": "131",
+        "id_producto": "427",
+        "existencia": "1",
+        "costo_promedio": "8.19"
+    },
+    {
+        "id_stock": "132",
+        "id_producto": "428",
+        "existencia": "8",
+        "costo_promedio": "0.2574"
+    },
+    {
+        "id_stock": "133",
+        "id_producto": "429",
+        "existencia": "19",
+        "costo_promedio": "1.2285"
+    },
+    {
+        "id_stock": "134",
+        "id_producto": "430",
+        "existencia": "26",
+        "costo_promedio": "0.585"
+    },
+    {
+        "id_stock": "135",
+        "id_producto": "50",
+        "existencia": "84",
+        "costo_promedio": "1.2285"
+    },
+    {
+        "id_stock": "136",
+        "id_producto": "51",
+        "existencia": "25",
+        "costo_promedio": "1.17"
+    },
+    {
+        "id_stock": "138",
+        "id_producto": "431",
+        "existencia": "742",
+        "costo_promedio": "0.9945"
+    },
+    {
+        "id_stock": "139",
+        "id_producto": "437",
+        "existencia": "206",
+        "costo_promedio": "1.1934"
+    },
+    {
+        "id_stock": "140",
+        "id_producto": "432",
+        "existencia": "1573",
+        "costo_promedio": "0.8307"
+    },
+    {
+        "id_stock": "141",
+        "id_producto": "38",
+        "existencia": "1031",
+        "costo_promedio": "0.9477"
+    },
+    {
+        "id_stock": "142",
+        "id_producto": "39",
+        "existencia": "64",
+        "costo_promedio": "1.053"
+    },
+    {
+        "id_stock": "143",
+        "id_producto": "433",
+        "existencia": "5",
+        "costo_promedio": "1.2285"
+    },
+    {
+        "id_stock": "145",
+        "id_producto": "227",
+        "existencia": "16",
+        "costo_promedio": "1.0062"
+    },
+    {
+        "id_stock": "148",
+        "id_producto": "100",
+        "existencia": "8",
+        "costo_promedio": "6.786"
+    },
+    {
+        "id_stock": "149",
+        "id_producto": "16",
+        "existencia": "54",
+        "costo_promedio": "0.8892"
+    },
+    {
+        "id_stock": "150",
+        "id_producto": "438",
+        "existencia": "86",
+        "costo_promedio": "1.404"
+    },
+    {
+        "id_stock": "152",
+        "id_producto": "440",
+        "existencia": "105",
+        "costo_promedio": "1.17"
+    },
+    {
+        "id_stock": "153",
+        "id_producto": "441",
+        "existencia": "14",
+        "costo_promedio": "1.17"
+    },
+    {
+        "id_stock": "159",
+        "id_producto": "17",
+        "existencia": "650",
+        "costo_promedio": "0.6435"
+    },
+    {
+        "id_stock": "160",
+        "id_producto": "15",
+        "existencia": "60",
+        "costo_promedio": "1.0413"
+    },
+    {
+        "id_stock": "161",
+        "id_producto": "18",
+        "existencia": "6",
+        "costo_promedio": "2.925"
+    },
+    {
+        "id_stock": "163",
+        "id_producto": "58",
+        "existencia": "19",
+        "costo_promedio": "1.1115"
+    },
+    {
+        "id_stock": "165",
+        "id_producto": "61",
+        "existencia": "19",
+        "costo_promedio": "2.457"
+    },
+    {
+        "id_stock": "166",
+        "id_producto": "9",
+        "existencia": "22",
+        "costo_promedio": "7.4295"
+    },
+    {
+        "id_stock": "167",
+        "id_producto": "66",
+        "existencia": "154",
+        "costo_promedio": "0.6201"
+    },
+    {
+        "id_stock": "168",
+        "id_producto": "67",
+        "existencia": "21",
+        "costo_promedio": "0.6201"
+    },
+    {
+        "id_stock": "169",
+        "id_producto": "192",
+        "existencia": "29",
+        "costo_promedio": "0.5967"
+    },
+    {
+        "id_stock": "170",
+        "id_producto": "172",
+        "existencia": "537",
+        "costo_promedio": "0.702"
+    },
+    {
+        "id_stock": "171",
+        "id_producto": "85",
+        "existencia": "159",
+        "costo_promedio": "1.053"
+    },
+    {
+        "id_stock": "172",
+        "id_producto": "106",
+        "existencia": "5",
+        "costo_promedio": "9.36"
+    },
+    {
+        "id_stock": "173",
+        "id_producto": "313",
+        "existencia": "115",
+        "costo_promedio": "0.3159"
+    },
+    {
+        "id_stock": "174",
+        "id_producto": "186",
+        "existencia": "7",
+        "costo_promedio": "0.702"
+    },
+    {
+        "id_stock": "175",
+        "id_producto": "63",
+        "existencia": "8",
+        "costo_promedio": "1.1115"
+    },
+    {
+        "id_stock": "176",
+        "id_producto": "151",
+        "existencia": "486",
+        "costo_promedio": "1.4274"
+    },
+    {
+        "id_stock": "178",
+        "id_producto": "224",
+        "existencia": "4",
+        "costo_promedio": "3.51"
+    },
+    {
+        "id_stock": "179",
+        "id_producto": "228",
+        "existencia": "16.5",
+        "costo_promedio": "3.10635"
+    },
+    {
+        "id_stock": "180",
+        "id_producto": "230",
+        "existencia": "10",
+        "costo_promedio": "1.17"
+    },
+    {
+        "id_stock": "181",
+        "id_producto": "449",
+        "existencia": "1",
+        "costo_promedio": "1.1466"
+    },
+    {
+        "id_stock": "182",
+        "id_producto": "307",
+        "existencia": "42",
+        "costo_promedio": "1.17"
+    },
+    {
+        "id_stock": "185",
+        "id_producto": "309",
+        "existencia": "13",
+        "costo_promedio": "2.5389"
+    },
+    {
+        "id_stock": "187",
+        "id_producto": "187",
+        "existencia": "949",
+        "costo_promedio": "1.1466"
+    },
+    {
+        "id_stock": "188",
+        "id_producto": "452",
+        "existencia": "963",
+        "costo_promedio": "1.1466"
+    },
+    {
+        "id_stock": "189",
+        "id_producto": "317",
+        "existencia": "3",
+        "costo_promedio": "4.446"
+    },
+    {
+        "id_stock": "191",
+        "id_producto": "322",
+        "existencia": "34",
+        "costo_promedio": "2.9133"
+    },
+    {
+        "id_stock": "192",
+        "id_producto": "454",
+        "existencia": "1",
+        "costo_promedio": "0.8775"
+    },
+    {
+        "id_stock": "193",
+        "id_producto": "326",
+        "existencia": "159",
+        "costo_promedio": "0.1404"
+    },
+    {
+        "id_stock": "194",
+        "id_producto": "334",
+        "existencia": "260",
+        "costo_promedio": "0.5265"
+    },
+    {
+        "id_stock": "195",
+        "id_producto": "455",
+        "existencia": "5",
+        "costo_promedio": "1.755"
+    },
+    {
+        "id_stock": "196",
+        "id_producto": "347",
+        "existencia": "3",
+        "costo_promedio": "4.68"
+    },
+    {
+        "id_stock": "197",
+        "id_producto": "173",
+        "existencia": "12",
+        "costo_promedio": "2.34"
+    },
+    {
+        "id_stock": "198",
+        "id_producto": "311",
+        "existencia": "517",
+        "costo_promedio": "0.7839"
+    },
+    {
+        "id_stock": "199",
+        "id_producto": "153",
+        "existencia": "336",
+        "costo_promedio": "1.4625"
+    },
+    {
+        "id_stock": "200",
+        "id_producto": "32",
+        "existencia": "86",
+        "costo_promedio": "1.0062"
+    },
+    {
+        "id_stock": "201",
+        "id_producto": "31",
+        "existencia": "153",
+        "costo_promedio": "1.3455"
+    },
+    {
+        "id_stock": "202",
+        "id_producto": "457",
+        "existencia": "8",
+        "costo_promedio": "1.17"
+    },
+    {
+        "id_stock": "203",
+        "id_producto": "323",
+        "existencia": "714",
+        "costo_promedio": "1.2285"
+    },
+    {
+        "id_stock": "205",
+        "id_producto": "3",
+        "existencia": "66",
+        "costo_promedio": "0.936"
+    },
+    {
+        "id_stock": "206",
+        "id_producto": "1",
+        "existencia": "22946",
+        "costo_promedio": "0.0468"
+    },
+    {
+        "id_stock": "207",
+        "id_producto": "64",
+        "existencia": "67",
+        "costo_promedio": "1.1115"
+    },
+    {
+        "id_stock": "208",
+        "id_producto": "117",
+        "existencia": "1007",
+        "costo_promedio": "1.872"
+    },
+    {
+        "id_stock": "209",
+        "id_producto": "116",
+        "existencia": "995",
+        "costo_promedio": "1.872"
+    },
+    {
+        "id_stock": "210",
+        "id_producto": "136",
+        "existencia": "18",
+        "costo_promedio": "4.797"
+    },
+    {
+        "id_stock": "215",
+        "id_producto": "150",
+        "existencia": "611",
+        "costo_promedio": "0.6318"
+    },
+    {
+        "id_stock": "216",
+        "id_producto": "131",
+        "existencia": "16",
+        "costo_promedio": "1.9539"
+    },
+    {
+        "id_stock": "217",
+        "id_producto": "132",
+        "existencia": "4",
+        "costo_promedio": "2.0592"
+    },
+    {
+        "id_stock": "218",
+        "id_producto": "133",
+        "existencia": "7",
+        "costo_promedio": "2.0592"
+    },
+    {
+        "id_stock": "219",
+        "id_producto": "138",
+        "existencia": "79",
+        "costo_promedio": "2.0358"
+    },
+    {
+        "id_stock": "220",
+        "id_producto": "28",
+        "existencia": "144",
+        "costo_promedio": "1.2636"
+    },
+    {
+        "id_stock": "221",
+        "id_producto": "24",
+        "existencia": "6",
+        "costo_promedio": "1.404"
+    },
+    {
+        "id_stock": "222",
+        "id_producto": "310",
+        "existencia": "149",
+        "costo_promedio": "1.989"
+    },
+    {
+        "id_stock": "223",
+        "id_producto": "33",
+        "existencia": "1034",
+        "costo_promedio": "1.3455"
+    },
+    {
+        "id_stock": "224",
+        "id_producto": "30",
+        "existencia": "243",
+        "costo_promedio": "1.17"
+    },
+    {
+        "id_stock": "225",
+        "id_producto": "26",
+        "existencia": "91",
+        "costo_promedio": "1.1115"
+    },
+    {
+        "id_stock": "227",
+        "id_producto": "183",
+        "existencia": "2.5",
+        "costo_promedio": "4.095"
+    },
+    {
+        "id_stock": "228",
+        "id_producto": "34",
+        "existencia": "67",
+        "costo_promedio": "1.3455"
+    },
+    {
+        "id_stock": "229",
+        "id_producto": "302",
+        "existencia": "10",
+        "costo_promedio": "3.4515"
+    },
+    {
+        "id_stock": "230",
+        "id_producto": "303",
+        "existencia": "125.5",
+        "costo_promedio": "2.1177"
+    },
+    {
+        "id_stock": "231",
+        "id_producto": "281",
+        "existencia": "32",
+        "costo_promedio": "0.7605"
+    },
+    {
+        "id_stock": "233",
+        "id_producto": "73",
+        "existencia": "20.75",
+        "costo_promedio": "0.6201"
+    },
+    {
+        "id_stock": "235",
+        "id_producto": "48",
+        "existencia": "721",
+        "costo_promedio": "1.287"
+    },
+    {
+        "id_stock": "237",
+        "id_producto": "306",
+        "existencia": "14",
+        "costo_promedio": "0.936"
+    },
+    {
+        "id_stock": "238",
+        "id_producto": "278",
+        "existencia": "12",
+        "costo_promedio": "0.936"
+    },
+    {
+        "id_stock": "239",
+        "id_producto": "280",
+        "existencia": "61",
+        "costo_promedio": "0.936"
+    },
+    {
+        "id_stock": "240",
+        "id_producto": "276",
+        "existencia": "8",
+        "costo_promedio": "0.936"
+    },
+    {
+        "id_stock": "241",
+        "id_producto": "277",
+        "existencia": "17",
+        "costo_promedio": "0.936"
+    },
+    {
+        "id_stock": "242",
+        "id_producto": "46",
+        "existencia": "1",
+        "costo_promedio": "1.638"
+    },
+    {
+        "id_stock": "243",
+        "id_producto": "47",
+        "existencia": "477",
+        "costo_promedio": "1.755"
+    },
+    {
+        "id_stock": "244",
+        "id_producto": "201",
+        "existencia": "470",
+        "costo_promedio": "0.4446"
+    },
+    {
+        "id_stock": "245",
+        "id_producto": "44",
+        "existencia": "80",
+        "costo_promedio": "3.042"
+    },
+    {
+        "id_stock": "246",
+        "id_producto": "43",
+        "existencia": "2",
+        "costo_promedio": "8.775"
+    },
+    {
+        "id_stock": "247",
+        "id_producto": "178",
+        "existencia": "3",
+        "costo_promedio": "0.3393"
+    },
+    {
+        "id_stock": "248",
+        "id_producto": "42",
+        "existencia": "28",
+        "costo_promedio": "8.6931"
+    },
+    {
+        "id_stock": "249",
+        "id_producto": "174",
+        "existencia": "7",
+        "costo_promedio": "0.351"
+    },
+    {
+        "id_stock": "250",
+        "id_producto": "175",
+        "existencia": "454",
+        "costo_promedio": "0.2808"
+    },
+    {
+        "id_stock": "252",
+        "id_producto": "45",
+        "existencia": "185.5",
+        "costo_promedio": "2.925"
+    },
+    {
+        "id_stock": "253",
+        "id_producto": "35",
+        "existencia": "61",
+        "costo_promedio": "1.4625"
+    },
+    {
+        "id_stock": "254",
+        "id_producto": "468",
+        "existencia": "121",
+        "costo_promedio": "1.521"
+    },
+    {
+        "id_stock": "257",
+        "id_producto": "2",
+        "existencia": "80",
+        "costo_promedio": "1.4625"
+    },
+    {
+        "id_stock": "259",
+        "id_producto": "176",
+        "existencia": "77",
+        "costo_promedio": "4.68"
+    },
+    {
+        "id_stock": "260",
+        "id_producto": "472",
+        "existencia": "1",
+        "costo_promedio": "0.585"
+    },
+    {
+        "id_stock": "261",
+        "id_producto": "177",
+        "existencia": "263",
+        "costo_promedio": "5.382"
+    },
+    {
+        "id_stock": "262",
+        "id_producto": "182",
+        "existencia": "4",
+        "costo_promedio": "6.435"
+    },
+    {
+        "id_stock": "263",
+        "id_producto": "129",
+        "existencia": "1",
+        "costo_promedio": "4.68"
+    },
+    {
+        "id_stock": "264",
+        "id_producto": "40",
+        "existencia": "131",
+        "costo_promedio": "0.9945"
+    },
+    {
+        "id_stock": "265",
+        "id_producto": "166",
+        "existencia": "12.5",
+        "costo_promedio": "0.2106"
+    },
+    {
+        "id_stock": "266",
+        "id_producto": "259",
+        "existencia": "50",
+        "costo_promedio": "1.3221"
+    },
+    {
+        "id_stock": "267",
+        "id_producto": "154",
+        "existencia": "27",
+        "costo_promedio": "0.3159"
+    },
+    {
+        "id_stock": "270",
+        "id_producto": "111",
+        "existencia": "1",
+        "costo_promedio": "4.2237"
+    },
+    {
+        "id_stock": "271",
+        "id_producto": "23",
+        "existencia": "32",
+        "costo_promedio": "9.0675"
+    },
+    {
+        "id_stock": "272",
+        "id_producto": "125",
+        "existencia": "7",
+        "costo_promedio": "1.3455"
+    },
+    {
+        "id_stock": "273",
+        "id_producto": "128",
+        "existencia": "3",
+        "costo_promedio": "1.3455"
+    },
+    {
+        "id_stock": "276",
+        "id_producto": "76",
+        "existencia": "54",
+        "costo_promedio": "0.5733"
+    },
+    {
+        "id_stock": "278",
+        "id_producto": "77",
+        "existencia": "91",
+        "costo_promedio": "0.6201"
+    },
+    {
+        "id_stock": "279",
+        "id_producto": "62",
+        "existencia": "11",
+        "costo_promedio": "1.1115"
+    },
+    {
+        "id_stock": "280",
+        "id_producto": "79",
+        "existencia": "27",
+        "costo_promedio": "0.7605"
+    },
+    {
+        "id_stock": "281",
+        "id_producto": "8",
+        "existencia": "12",
+        "costo_promedio": "7.4295"
+    },
+    {
+        "id_stock": "282",
+        "id_producto": "81",
+        "existencia": "4323.75",
+        "costo_promedio": "0.8892"
+    },
+    {
+        "id_stock": "284",
+        "id_producto": "99",
+        "existencia": "1",
+        "costo_promedio": "25.74"
+    },
+    {
+        "id_stock": "285",
+        "id_producto": "12",
+        "existencia": "5",
+        "costo_promedio": "1.053"
+    },
+    {
+        "id_stock": "286",
+        "id_producto": "304",
+        "existencia": "1",
+        "costo_promedio": "8.19"
+    },
+    {
+        "id_stock": "287",
+        "id_producto": "87",
+        "existencia": "85",
+        "costo_promedio": "12.168"
+    },
+    {
+        "id_stock": "291",
+        "id_producto": "78",
+        "existencia": "1",
+        "costo_promedio": "25.74"
+    },
+    {
+        "id_stock": "294",
+        "id_producto": "94",
+        "existencia": "6",
+        "costo_promedio": "14.976"
+    },
+    {
+        "id_stock": "296",
+        "id_producto": "96",
+        "existencia": "7",
+        "costo_promedio": "26.91"
+    },
+    {
+        "id_stock": "297",
+        "id_producto": "476",
+        "existencia": "50",
+        "costo_promedio": "9.36"
+    },
+    {
+        "id_stock": "300",
+        "id_producto": "84",
+        "existencia": "31",
+        "costo_promedio": "0.6201"
+    },
+    {
+        "id_stock": "301",
+        "id_producto": "220",
+        "existencia": "6.5",
+        "costo_promedio": "1.3338"
+    },
+    {
+        "id_stock": "302",
+        "id_producto": "237",
+        "existencia": "3",
+        "costo_promedio": "3.0069"
+    },
+    {
+        "id_stock": "303",
+        "id_producto": "235",
+        "existencia": "814",
+        "costo_promedio": "0.2925"
+    },
+    {
+        "id_stock": "305",
+        "id_producto": "56",
+        "existencia": "11",
+        "costo_promedio": "3.276"
+    },
+    {
+        "id_stock": "306",
+        "id_producto": "121",
+        "existencia": "41.5",
+        "costo_promedio": "0.6201"
+    },
+    {
+        "id_stock": "307",
+        "id_producto": "122",
+        "existencia": "28.25",
+        "costo_promedio": "0.6201"
+    },
+    {
+        "id_stock": "308",
+        "id_producto": "124",
+        "existencia": "52",
+        "costo_promedio": "0.7605"
+    },
+    {
+        "id_stock": "309",
+        "id_producto": "80",
+        "existencia": "129",
+        "costo_promedio": "0.6201"
+    },
+    {
+        "id_stock": "310",
+        "id_producto": "68",
+        "existencia": "81",
+        "costo_promedio": "0.6201"
+    },
+    {
+        "id_stock": "312",
+        "id_producto": "54",
+        "existencia": "71",
+        "costo_promedio": "0.8307"
+    },
+    {
+        "id_stock": "313",
+        "id_producto": "71",
+        "existencia": "1030",
+        "costo_promedio": "0.7605"
+    },
+    {
+        "id_stock": "314",
+        "id_producto": "171",
+        "existencia": "410",
+        "costo_promedio": "0.819"
+    },
+    {
+        "id_stock": "315",
+        "id_producto": "241",
+        "existencia": "437",
+        "costo_promedio": "0.8775"
+    },
+    {
+        "id_stock": "316",
+        "id_producto": "170",
+        "existencia": "427",
+        "costo_promedio": "1.17"
+    },
+    {
+        "id_stock": "317",
+        "id_producto": "11",
+        "existencia": "840",
+        "costo_promedio": "0.819"
+    },
+    {
+        "id_stock": "318",
+        "id_producto": "198",
+        "existencia": "199",
+        "costo_promedio": "1.4625"
+    },
+    {
+        "id_stock": "319",
+        "id_producto": "72",
+        "existencia": "4",
+        "costo_promedio": "6.7275"
+    },
+    {
+        "id_stock": "322",
+        "id_producto": "321",
+        "existencia": "1",
+        "costo_promedio": "7.605"
+    },
+    {
+        "id_stock": "323",
+        "id_producto": "185",
+        "existencia": "13",
+        "costo_promedio": "0.819"
+    },
+    {
+        "id_stock": "324",
+        "id_producto": "211",
+        "existencia": "15",
+        "costo_promedio": "0.4095"
+    },
+    {
+        "id_stock": "326",
+        "id_producto": "213",
+        "existencia": "12",
+        "costo_promedio": "0.4095"
+    },
+    {
+        "id_stock": "329",
+        "id_producto": "212",
+        "existencia": "7",
+        "costo_promedio": "0.4095"
+    },
+    {
+        "id_stock": "333",
+        "id_producto": "206",
+        "existencia": "20",
+        "costo_promedio": "0.4095"
+    },
+    {
+        "id_stock": "338",
+        "id_producto": "210",
+        "existencia": "6",
+        "costo_promedio": "0.4095"
+    },
+    {
+        "id_stock": "340",
+        "id_producto": "207",
+        "existencia": "53",
+        "costo_promedio": "0.4095"
+    },
+    {
+        "id_stock": "363",
+        "id_producto": "315",
+        "existencia": "1",
+        "costo_promedio": "1.755"
+    },
+    {
+        "id_stock": "364",
+        "id_producto": "181",
+        "existencia": "73",
+        "costo_promedio": "1.17"
+    },
+    {
+        "id_stock": "365",
+        "id_producto": "169",
+        "existencia": "195",
+        "costo_promedio": "0.7605"
+    },
+    {
+        "id_stock": "366",
+        "id_producto": "225",
+        "existencia": "267",
+        "costo_promedio": "0.936"
+    },
+    {
+        "id_stock": "367",
+        "id_producto": "14",
+        "existencia": "49",
+        "costo_promedio": "1.755"
+    },
+    {
+        "id_stock": "368",
+        "id_producto": "13",
+        "existencia": "2",
+        "costo_promedio": "7.8624"
+    },
+    {
+        "id_stock": "371",
+        "id_producto": "316",
+        "existencia": "1",
+        "costo_promedio": "1.755"
+    },
+    {
+        "id_stock": "372",
+        "id_producto": "215",
+        "existencia": "18",
+        "costo_promedio": "1.17"
+    },
+    {
+        "id_stock": "373",
+        "id_producto": "407",
+        "existencia": "6",
+        "costo_promedio": "2.8197"
+    },
+    {
+        "id_stock": "375",
+        "id_producto": "147",
+        "existencia": "391",
+        "costo_promedio": "0.536211"
+    },
+    {
+        "id_stock": "376",
+        "id_producto": "145",
+        "existencia": "408",
+        "costo_promedio": "0.6318"
+    },
+    {
+        "id_stock": "378",
+        "id_producto": "149",
+        "existencia": "25",
+        "costo_promedio": "0.6435"
+    },
+    {
+        "id_stock": "379",
+        "id_producto": "146",
+        "existencia": "45",
+        "costo_promedio": "0.8775"
+    },
+    {
+        "id_stock": "380",
+        "id_producto": "142",
+        "existencia": "250",
+        "costo_promedio": "0.5382"
+    },
+    {
+        "id_stock": "381",
+        "id_producto": "139",
+        "existencia": "340",
+        "costo_promedio": "0.6318"
+    },
+    {
+        "id_stock": "382",
+        "id_producto": "406",
+        "existencia": "5",
+        "costo_promedio": "1.1115"
+    },
+    {
+        "id_stock": "383",
+        "id_producto": "416",
+        "existencia": "9",
+        "costo_promedio": "0.8775"
+    },
+    {
+        "id_stock": "384",
+        "id_producto": "423",
+        "existencia": "2",
+        "costo_promedio": "1.053"
+    },
+    {
+        "id_stock": "385",
+        "id_producto": "424",
+        "existencia": "201",
+        "costo_promedio": "0.76752"
+    },
+    {
+        "id_stock": "386",
+        "id_producto": "425",
+        "existencia": "106",
+        "costo_promedio": "0.4446"
+    },
+    {
+        "id_stock": "388",
+        "id_producto": "52",
+        "existencia": "39",
+        "costo_promedio": "2.2815"
+    },
+    {
+        "id_stock": "390",
+        "id_producto": "4",
+        "existencia": "132",
+        "costo_promedio": "1.8018"
+    },
+    {
+        "id_stock": "391",
+        "id_producto": "377",
+        "existencia": "641",
+        "costo_promedio": "2.223"
+    },
+    {
+        "id_stock": "393",
+        "id_producto": "368",
+        "existencia": "1",
+        "costo_promedio": "0.4914"
+    },
+    {
+        "id_stock": "394",
+        "id_producto": "405",
+        "existencia": "2",
+        "costo_promedio": "0.4914"
+    },
+    {
+        "id_stock": "395",
+        "id_producto": "370",
+        "existencia": "1",
+        "costo_promedio": "0.4914"
+    },
+    {
+        "id_stock": "396",
+        "id_producto": "357",
+        "existencia": "6",
+        "costo_promedio": "0.4914"
+    },
+    {
+        "id_stock": "397",
+        "id_producto": "293",
+        "existencia": "34",
+        "costo_promedio": "0.4914"
+    },
+    {
+        "id_stock": "398",
+        "id_producto": "393",
+        "existencia": "79",
+        "costo_promedio": "0.4914"
+    },
+    {
+        "id_stock": "399",
+        "id_producto": "382",
+        "existencia": "2",
+        "costo_promedio": "0.4914"
+    },
+    {
+        "id_stock": "400",
+        "id_producto": "371",
+        "existencia": "1",
+        "costo_promedio": "0.4914"
+    },
+    {
+        "id_stock": "401",
+        "id_producto": "363",
+        "existencia": "5",
+        "costo_promedio": "0.4914"
+    },
+    {
+        "id_stock": "402",
+        "id_producto": "297",
+        "existencia": "1",
+        "costo_promedio": "0.4914"
+    },
+    {
+        "id_stock": "403",
+        "id_producto": "367",
+        "existencia": "1",
+        "costo_promedio": "0.4914"
+    },
+    {
+        "id_stock": "404",
+        "id_producto": "385",
+        "existencia": "1",
+        "costo_promedio": "0.4914"
+    },
+    {
+        "id_stock": "405",
+        "id_producto": "384",
+        "existencia": "6",
+        "costo_promedio": "0.4914"
+    },
+    {
+        "id_stock": "406",
+        "id_producto": "378",
+        "existencia": "2",
+        "costo_promedio": "0.4914"
+    },
+    {
+        "id_stock": "407",
+        "id_producto": "386",
+        "existencia": "1",
+        "costo_promedio": "0.4914"
+    },
+    {
+        "id_stock": "408",
+        "id_producto": "373",
+        "existencia": "57",
+        "costo_promedio": "0.4914"
+    },
+    {
+        "id_stock": "409",
+        "id_producto": "392",
+        "existencia": "1",
+        "costo_promedio": "0.4914"
+    },
+    {
+        "id_stock": "410",
+        "id_producto": "388",
+        "existencia": "1",
+        "costo_promedio": "0.4914"
+    },
+    {
+        "id_stock": "411",
+        "id_producto": "381",
+        "existencia": "1",
+        "costo_promedio": "0.4914"
+    },
+    {
+        "id_stock": "412",
+        "id_producto": "291",
+        "existencia": "1",
+        "costo_promedio": "0.4914"
+    },
+    {
+        "id_stock": "413",
+        "id_producto": "395",
+        "existencia": "1",
+        "costo_promedio": "0.4914"
+    },
+    {
+        "id_stock": "414",
+        "id_producto": "404",
+        "existencia": "1",
+        "costo_promedio": "0.4914"
+    },
+    {
+        "id_stock": "415",
+        "id_producto": "372",
+        "existencia": "10",
+        "costo_promedio": "0.4914"
+    },
+    {
+        "id_stock": "416",
+        "id_producto": "296",
+        "existencia": "8",
+        "costo_promedio": "0.4914"
+    },
+    {
+        "id_stock": "417",
+        "id_producto": "391",
+        "existencia": "1",
+        "costo_promedio": "0.4914"
+    },
+    {
+        "id_stock": "418",
+        "id_producto": "389",
+        "existencia": "5",
+        "costo_promedio": "0.4914"
+    },
+    {
+        "id_stock": "419",
+        "id_producto": "356",
+        "existencia": "1",
+        "costo_promedio": "0.4914"
+    },
+    {
+        "id_stock": "420",
+        "id_producto": "397",
+        "existencia": "1",
+        "costo_promedio": "0.4914"
+    },
+    {
+        "id_stock": "421",
+        "id_producto": "402",
+        "existencia": "3",
+        "costo_promedio": "0.4914"
+    },
+    {
+        "id_stock": "422",
+        "id_producto": "359",
+        "existencia": "2",
+        "costo_promedio": "0.4914"
+    },
+    {
+        "id_stock": "423",
+        "id_producto": "390",
+        "existencia": "11",
+        "costo_promedio": "0.4914"
+    },
+    {
+        "id_stock": "424",
+        "id_producto": "396",
+        "existencia": "1",
+        "costo_promedio": "0.4914"
+    },
+    {
+        "id_stock": "425",
+        "id_producto": "383",
+        "existencia": "5",
+        "costo_promedio": "0.4914"
+    },
+    {
+        "id_stock": "426",
+        "id_producto": "369",
+        "existencia": "1",
+        "costo_promedio": "0.4914"
+    },
+    {
+        "id_stock": "427",
+        "id_producto": "376",
+        "existencia": "4",
+        "costo_promedio": "0.4914"
+    },
+    {
+        "id_stock": "428",
+        "id_producto": "394",
+        "existencia": "1",
+        "costo_promedio": "0.4914"
+    },
+    {
+        "id_stock": "429",
+        "id_producto": "401",
+        "existencia": "1",
+        "costo_promedio": "0.4914"
+    },
+    {
+        "id_stock": "430",
+        "id_producto": "299",
+        "existencia": "1",
+        "costo_promedio": "0.4914"
+    },
+    {
+        "id_stock": "432",
+        "id_producto": "380",
+        "existencia": "1",
+        "costo_promedio": "0.4914"
+    },
+    {
+        "id_stock": "433",
+        "id_producto": "374",
+        "existencia": "1",
+        "costo_promedio": "0.4914"
+    },
+    {
+        "id_stock": "434",
+        "id_producto": "400",
+        "existencia": "5",
+        "costo_promedio": "0.4914"
+    },
+    {
+        "id_stock": "435",
+        "id_producto": "286",
+        "existencia": "1",
+        "costo_promedio": "0.4914"
+    },
+    {
+        "id_stock": "436",
+        "id_producto": "399",
+        "existencia": "2",
+        "costo_promedio": "0.4914"
+    },
+    {
+        "id_stock": "437",
+        "id_producto": "351",
+        "existencia": "1",
+        "costo_promedio": "0.4914"
+    },
+    {
+        "id_stock": "439",
+        "id_producto": "398",
+        "existencia": "1",
+        "costo_promedio": "0.4914"
+    },
+    {
+        "id_stock": "440",
+        "id_producto": "358",
+        "existencia": "2",
+        "costo_promedio": "0.4914"
+    },
+    {
+        "id_stock": "441",
+        "id_producto": "294",
+        "existencia": "8",
+        "costo_promedio": "0.4914"
+    },
+    {
+        "id_stock": "442",
+        "id_producto": "284",
+        "existencia": "11",
+        "costo_promedio": "0.4914"
+    },
+    {
+        "id_stock": "443",
+        "id_producto": "361",
+        "existencia": "3",
+        "costo_promedio": "0.4914"
+    },
+    {
+        "id_stock": "444",
+        "id_producto": "292",
+        "existencia": "5",
+        "costo_promedio": "0.4914"
+    },
+    {
+        "id_stock": "446",
+        "id_producto": "360",
+        "existencia": "1",
+        "costo_promedio": "0.4914"
+    },
+    {
+        "id_stock": "447",
+        "id_producto": "364",
+        "existencia": "1",
+        "costo_promedio": "0.4914"
+    },
+    {
+        "id_stock": "448",
+        "id_producto": "365",
+        "existencia": "4",
+        "costo_promedio": "0.4914"
+    },
+    {
+        "id_stock": "449",
+        "id_producto": "295",
+        "existencia": "15",
+        "costo_promedio": "0.4914"
+    },
+    {
+        "id_stock": "451",
+        "id_producto": "352",
+        "existencia": "3",
+        "costo_promedio": "0.4914"
+    },
+    {
+        "id_stock": "452",
+        "id_producto": "403",
+        "existencia": "1",
+        "costo_promedio": "0.4914"
+    },
+    {
+        "id_stock": "453",
+        "id_producto": "355",
+        "existencia": "1",
+        "costo_promedio": "0.4914"
+    },
+    {
+        "id_stock": "454",
+        "id_producto": "354",
+        "existencia": "1",
+        "costo_promedio": "0.4914"
+    },
+    {
+        "id_stock": "455",
+        "id_producto": "350",
+        "existencia": "9",
+        "costo_promedio": "0.4914"
+    },
+    {
+        "id_stock": "457",
+        "id_producto": "353",
+        "existencia": "1",
+        "costo_promedio": "0.4914"
+    },
+    {
+        "id_stock": "458",
+        "id_producto": "375",
+        "existencia": "1",
+        "costo_promedio": "0.4914"
+    },
+    {
+        "id_stock": "459",
+        "id_producto": "379",
+        "existencia": "16",
+        "costo_promedio": "0.4914"
+    },
+    {
+        "id_stock": "460",
+        "id_producto": "387",
+        "existencia": "1",
+        "costo_promedio": "0.4914"
+    },
+    {
+        "id_stock": "461",
+        "id_producto": "362",
+        "existencia": "3",
+        "costo_promedio": "0.4914"
+    },
+    {
+        "id_stock": "462",
+        "id_producto": "180",
+        "existencia": "1",
+        "costo_promedio": "1.0179"
+    },
+    {
+        "id_stock": "464",
+        "id_producto": "19",
+        "existencia": "506",
+        "costo_promedio": "1.638"
+    },
+    {
+        "id_stock": "467",
+        "id_producto": "193",
+        "existencia": "91",
+        "costo_promedio": "0.936"
+    },
+    {
+        "id_stock": "470",
+        "id_producto": "465",
+        "existencia": "316",
+        "costo_promedio": "1.9305"
+    },
+    {
+        "id_stock": "471",
+        "id_producto": "481",
+        "existencia": "5",
+        "costo_promedio": "8.19"
+    },
+    {
+        "id_stock": "473",
+        "id_producto": "483",
+        "existencia": "1",
+        "costo_promedio": "7.605"
+    },
+    {
+        "id_stock": "475",
+        "id_producto": "485",
+        "existencia": "1",
+        "costo_promedio": "1.638"
+    },
+    {
+        "id_stock": "476",
+        "id_producto": "486",
+        "existencia": "2",
+        "costo_promedio": "8.19"
+    },
+    {
+        "id_stock": "478",
+        "id_producto": "488",
+        "existencia": "1",
+        "costo_promedio": "8.775"
+    },
+    {
+        "id_stock": "479",
+        "id_producto": "490",
+        "existencia": "70",
+        "costo_promedio": "0.819"
+    },
+    {
+        "id_stock": "480",
+        "id_producto": "489",
+        "existencia": "14",
+        "costo_promedio": "1.521"
+    },
+    {
+        "id_stock": "481",
+        "id_producto": "491",
+        "existencia": "11",
+        "costo_promedio": "0.9945"
+    },
+    {
+        "id_stock": "482",
+        "id_producto": "492",
+        "existencia": "2",
+        "costo_promedio": "0.8775"
+    },
+    {
+        "id_stock": "483",
+        "id_producto": "493",
+        "existencia": "27",
+        "costo_promedio": "4.68"
+    },
+    {
+        "id_stock": "484",
+        "id_producto": "494",
+        "existencia": "2",
+        "costo_promedio": "3.51"
+    },
+    {
+        "id_stock": "485",
+        "id_producto": "495",
+        "existencia": "131",
+        "costo_promedio": "0.936"
+    },
+    {
+        "id_stock": "486",
+        "id_producto": "496",
+        "existencia": "3",
+        "costo_promedio": "4.68"
+    },
+    {
+        "id_stock": "487",
+        "id_producto": "497",
+        "existencia": "21",
+        "costo_promedio": "3.9195"
+    },
+    {
+        "id_stock": "489",
+        "id_producto": "499",
+        "existencia": "46",
+        "costo_promedio": "0.819"
+    },
+    {
+        "id_stock": "490",
+        "id_producto": "500",
+        "existencia": "70",
+        "costo_promedio": "5.85"
+    },
+    {
+        "id_stock": "491",
+        "id_producto": "501",
+        "existencia": "79",
+        "costo_promedio": "0.468"
+    },
+    {
+        "id_stock": "493",
+        "id_producto": "502",
+        "existencia": "20",
+        "costo_promedio": "2.7378"
+    },
+    {
+        "id_stock": "496",
+        "id_producto": "505",
+        "existencia": "12",
+        "costo_promedio": "0.302211"
+    },
+    {
+        "id_stock": "497",
+        "id_producto": "506",
+        "existencia": "4",
+        "costo_promedio": "3.51"
+    },
+    {
+        "id_stock": "498",
+        "id_producto": "507",
+        "existencia": "32",
+        "costo_promedio": "0.6435"
+    },
+    {
+        "id_stock": "499",
+        "id_producto": "515",
+        "existencia": "39",
+        "costo_promedio": "4.68"
+    },
+    {
+        "id_stock": "500",
+        "id_producto": "516",
+        "existencia": "40",
+        "costo_promedio": "5.265"
+    },
+    {
+        "id_stock": "501",
+        "id_producto": "517",
+        "existencia": "24",
+        "costo_promedio": "4.5045"
+    },
+    {
+        "id_stock": "502",
+        "id_producto": "467",
+        "existencia": "22",
+        "costo_promedio": "3.042"
+    },
+    {
+        "id_stock": "503",
+        "id_producto": "518",
+        "existencia": "118",
+        "costo_promedio": "0.8775"
+    },
+    {
+        "id_stock": "504",
+        "id_producto": "519",
+        "existencia": "30",
+        "costo_promedio": "0.1989"
+    },
+    {
+        "id_stock": "505",
+        "id_producto": "520",
+        "existencia": "3",
+        "costo_promedio": "3.8259"
+    },
+    {
+        "id_stock": "509",
+        "id_producto": "525",
+        "existencia": "1",
+        "costo_promedio": "62.127"
+    },
+    {
+        "id_stock": "510",
+        "id_producto": "526",
+        "existencia": "721",
+        "costo_promedio": "1.5795"
+    },
+    {
+        "id_stock": "511",
+        "id_producto": "527",
+        "existencia": "759",
+        "costo_promedio": "1.638"
+    },
+    {
+        "id_stock": "512",
+        "id_producto": "528",
+        "existencia": "105",
+        "costo_promedio": "1.989"
+    },
+    {
+        "id_stock": "513",
+        "id_producto": "529",
+        "existencia": "1",
+        "costo_promedio": "8.424"
+    },
+    {
+        "id_stock": "514",
+        "id_producto": "530",
+        "existencia": "27",
+        "costo_promedio": "0.4095"
+    },
+    {
+        "id_stock": "515",
+        "id_producto": "109",
+        "existencia": "184",
+        "costo_promedio": "5.1246"
+    },
+    {
+        "id_stock": "516",
+        "id_producto": "110",
+        "existencia": "22",
+        "costo_promedio": "5.0661"
+    },
+    {
+        "id_stock": "517",
+        "id_producto": "531",
+        "existencia": "6",
+        "costo_promedio": "1.9422"
+    },
+    {
+        "id_stock": "518",
+        "id_producto": "532",
+        "existencia": "3",
+        "costo_promedio": "5.1246"
+    },
+    {
+        "id_stock": "519",
+        "id_producto": "533",
+        "existencia": "53",
+        "costo_promedio": "6.435"
+    },
+    {
+        "id_stock": "520",
+        "id_producto": "534",
+        "existencia": "39",
+        "costo_promedio": "0.234"
+    },
+    {
+        "id_stock": "521",
+        "id_producto": "535",
+        "existencia": "251",
+        "costo_promedio": "0.351"
+    },
+    {
+        "id_stock": "522",
+        "id_producto": "536",
+        "existencia": "5.28",
+        "costo_promedio": "12.636"
+    },
+    {
+        "id_stock": "524",
+        "id_producto": "538",
+        "existencia": "1",
+        "costo_promedio": "17.55"
+    },
+    {
+        "id_stock": "525",
+        "id_producto": "447",
+        "existencia": "37",
+        "costo_promedio": "1.287"
+    },
+    {
+        "id_stock": "527",
+        "id_producto": "541",
+        "existencia": "18",
+        "costo_promedio": "11.7"
+    },
+    {
+        "id_stock": "528",
+        "id_producto": "53",
+        "existencia": "17",
+        "costo_promedio": "1.7667"
+    },
+    {
+        "id_stock": "529",
+        "id_producto": "263",
+        "existencia": "942",
+        "costo_promedio": "0.2223"
+    },
+    {
+        "id_stock": "530",
+        "id_producto": "542",
+        "existencia": "38",
+        "costo_promedio": "2.925"
+    },
+    {
+        "id_stock": "531",
+        "id_producto": "543",
+        "existencia": "4",
+        "costo_promedio": "1.5795"
+    },
+    {
+        "id_stock": "534",
+        "id_producto": "547",
+        "existencia": "12",
+        "costo_promedio": "1.0179"
+    },
+    {
+        "id_stock": "535",
+        "id_producto": "548",
+        "existencia": "17",
+        "costo_promedio": "4.7385"
+    },
+    {
+        "id_stock": "536",
+        "id_producto": "550",
+        "existencia": "24",
+        "costo_promedio": "0.7605"
+    },
+    {
+        "id_stock": "538",
+        "id_producto": "308",
+        "existencia": "170",
+        "costo_promedio": "0.351"
+    },
+    {
+        "id_stock": "540",
+        "id_producto": "552",
+        "existencia": "4",
+        "costo_promedio": "10.296"
+    },
+    {
+        "id_stock": "542",
+        "id_producto": "554",
+        "existencia": "829",
+        "costo_promedio": "0.3978"
+    },
+    {
+        "id_stock": "543",
+        "id_producto": "555",
+        "existencia": "963.5",
+        "costo_promedio": "0.3978"
+    },
+    {
+        "id_stock": "544",
+        "id_producto": "514",
+        "existencia": "2",
+        "costo_promedio": "42.12"
+    },
+    {
+        "id_stock": "546",
+        "id_producto": "557",
+        "existencia": "11",
+        "costo_promedio": "3.2877"
+    },
+    {
+        "id_stock": "547",
+        "id_producto": "539",
+        "existencia": "2",
+        "costo_promedio": "0.2574"
+    },
+    {
+        "id_stock": "548",
+        "id_producto": "544",
+        "existencia": "8",
+        "costo_promedio": "1.3923"
+    },
+    {
+        "id_stock": "549",
+        "id_producto": "456",
+        "existencia": "6",
+        "costo_promedio": "0.702"
+    },
+    {
+        "id_stock": "550",
+        "id_producto": "460",
+        "existencia": "1",
+        "costo_promedio": "1.404"
+    },
+    {
+        "id_stock": "551",
+        "id_producto": "463",
+        "existencia": "200",
+        "costo_promedio": "0.585"
+    },
+    {
+        "id_stock": "552",
+        "id_producto": "462",
+        "existencia": "25",
+        "costo_promedio": "0.585"
+    },
+    {
+        "id_stock": "553",
+        "id_producto": "558",
+        "existencia": "671",
+        "costo_promedio": "0.1989"
+    },
+    {
+        "id_stock": "554",
+        "id_producto": "459",
+        "existencia": "207",
+        "costo_promedio": "0.4095"
+    },
+    {
+        "id_stock": "555",
+        "id_producto": "559",
+        "existencia": "68",
+        "costo_promedio": "0.2691"
+    },
+    {
+        "id_stock": "556",
+        "id_producto": "560",
+        "existencia": "541",
+        "costo_promedio": "0.9945"
+    },
+    {
+        "id_stock": "557",
+        "id_producto": "549",
+        "existencia": "1",
+        "costo_promedio": "7.605"
+    },
+    {
+        "id_stock": "559",
+        "id_producto": "561",
+        "existencia": "3",
+        "costo_promedio": "1.1115"
+    },
+    {
+        "id_stock": "560",
+        "id_producto": "562",
+        "existencia": "3",
+        "costo_promedio": "4.8555"
+    },
+    {
+        "id_stock": "564",
+        "id_producto": "566",
+        "existencia": "237",
+        "costo_promedio": "0.0585"
+    },
+    {
+        "id_stock": "565",
+        "id_producto": "567",
+        "existencia": "2",
+        "costo_promedio": "2.1645"
+    },
+    {
+        "id_stock": "566",
+        "id_producto": "568",
+        "existencia": "15",
+        "costo_promedio": "1.404"
+    },
+    {
+        "id_stock": "567",
+        "id_producto": "569",
+        "existencia": "21",
+        "costo_promedio": "2.0475"
+    },
+    {
+        "id_stock": "569",
+        "id_producto": "572",
+        "existencia": "1",
+        "costo_promedio": "5.265"
+    },
+    {
+        "id_stock": "571",
+        "id_producto": "574",
+        "existencia": "1",
+        "costo_promedio": "5.85"
+    },
+    {
+        "id_stock": "572",
+        "id_producto": "575",
+        "existencia": "140",
+        "costo_promedio": "0.585"
+    },
+    {
+        "id_stock": "573",
+        "id_producto": "576",
+        "existencia": "109",
+        "costo_promedio": "2.34"
+    },
+    {
+        "id_stock": "575",
+        "id_producto": "577",
+        "existencia": "21",
+        "costo_promedio": "2.34"
+    },
+    {
+        "id_stock": "576",
+        "id_producto": "578",
+        "existencia": "44",
+        "costo_promedio": "0.9945"
+    },
+    {
+        "id_stock": "578",
+        "id_producto": "579",
+        "existencia": "66",
+        "costo_promedio": "0.0351"
+    },
+    {
+        "id_stock": "579",
+        "id_producto": "582",
+        "existencia": "300",
+        "costo_promedio": "0.5148"
+    },
+    {
+        "id_stock": "580",
+        "id_producto": "581",
+        "existencia": "1",
+        "costo_promedio": "0.4914"
+    },
+    {
+        "id_stock": "581",
+        "id_producto": "583",
+        "existencia": "100",
+        "costo_promedio": "0.4914"
+    },
+    {
+        "id_stock": "583",
+        "id_producto": "585",
+        "existencia": "1",
+        "costo_promedio": "0.4914"
+    },
+    {
+        "id_stock": "584",
+        "id_producto": "586",
+        "existencia": "1",
+        "costo_promedio": "0.4914"
+    },
+    {
+        "id_stock": "585",
+        "id_producto": "587",
+        "existencia": "6",
+        "costo_promedio": "0.4914"
+    },
+    {
+        "id_stock": "586",
+        "id_producto": "588",
+        "existencia": "6",
+        "costo_promedio": "0.4914"
+    },
+    {
+        "id_stock": "587",
+        "id_producto": "589",
+        "existencia": "1",
+        "costo_promedio": "5.85"
+    },
+    {
+        "id_stock": "588",
+        "id_producto": "590",
+        "existencia": "1",
+        "costo_promedio": "0.4914"
+    },
+    {
+        "id_stock": "589",
+        "id_producto": "591",
+        "existencia": "63",
+        "costo_promedio": "0.4797"
+    },
+    {
+        "id_stock": "590",
+        "id_producto": "592",
+        "existencia": "2",
+        "costo_promedio": "0.4914"
+    },
+    {
+        "id_stock": "591",
+        "id_producto": "593",
+        "existencia": "1",
+        "costo_promedio": "0.4914"
+    },
+    {
+        "id_stock": "592",
+        "id_producto": "594",
+        "existencia": "3",
+        "costo_promedio": "0.4914"
+    },
+    {
+        "id_stock": "593",
+        "id_producto": "596",
+        "existencia": "24",
+        "costo_promedio": "0.4914"
+    },
+    {
+        "id_stock": "594",
+        "id_producto": "595",
+        "existencia": "106",
+        "costo_promedio": "0.936"
+    },
+    {
+        "id_stock": "595",
+        "id_producto": "597",
+        "existencia": "6",
+        "costo_promedio": "0.4914"
+    },
+    {
+        "id_stock": "596",
+        "id_producto": "598",
+        "existencia": "2",
+        "costo_promedio": "0.4914"
+    },
+    {
+        "id_stock": "597",
+        "id_producto": "599",
+        "existencia": "1",
+        "costo_promedio": "1.287"
+    },
+    {
+        "id_stock": "598",
+        "id_producto": "600",
+        "existencia": "6",
+        "costo_promedio": "0.8775"
+    },
+    {
+        "id_stock": "599",
+        "id_producto": "601",
+        "existencia": "10",
+        "costo_promedio": "0.819"
+    },
+    {
+        "id_stock": "600",
+        "id_producto": "602",
+        "existencia": "16",
+        "costo_promedio": "0.8775"
+    },
+    {
+        "id_stock": "601",
+        "id_producto": "603",
+        "existencia": "3",
+        "costo_promedio": "3.51"
+    },
+    {
+        "id_stock": "602",
+        "id_producto": "604",
+        "existencia": "4",
+        "costo_promedio": "0.8775"
+    },
+    {
+        "id_stock": "603",
+        "id_producto": "605",
+        "existencia": "17",
+        "costo_promedio": "2.5155"
+    },
+    {
+        "id_stock": "604",
+        "id_producto": "606",
+        "existencia": "3",
+        "costo_promedio": "3.51"
+    },
+    {
+        "id_stock": "605",
+        "id_producto": "607",
+        "existencia": "24",
+        "costo_promedio": "1.17"
+    },
+    {
+        "id_stock": "606",
+        "id_producto": "608",
+        "existencia": "3",
+        "costo_promedio": "5.265"
+    },
+    {
+        "id_stock": "608",
+        "id_producto": "610",
+        "existencia": "13",
+        "costo_promedio": "4.563"
+    },
+    {
+        "id_stock": "610",
+        "id_producto": "612",
+        "existencia": "39",
+        "costo_promedio": "5.265"
+    },
+    {
+        "id_stock": "613",
+        "id_producto": "613",
+        "existencia": "1",
+        "costo_promedio": "0.4914"
+    },
+    {
+        "id_stock": "618",
+        "id_producto": "618",
+        "existencia": "294",
+        "costo_promedio": "0.2925"
+    },
+    {
+        "id_stock": "619",
+        "id_producto": "620",
+        "existencia": "10",
+        "costo_promedio": "0.7605"
+    },
+    {
+        "id_stock": "621",
+        "id_producto": "623",
+        "existencia": "40",
+        "costo_promedio": "1.17"
+    },
+    {
+        "id_stock": "622",
+        "id_producto": "622",
+        "existencia": "3",
+        "costo_promedio": "14.625"
+    },
+    {
+        "id_stock": "623",
+        "id_producto": "624",
+        "existencia": "1",
+        "costo_promedio": "14.625"
+    },
+    {
+        "id_stock": "624",
+        "id_producto": "625",
+        "existencia": "1",
+        "costo_promedio": "14.625"
+    },
+    {
+        "id_stock": "625",
+        "id_producto": "626",
+        "existencia": "10",
+        "costo_promedio": "14.04"
+    },
+    {
+        "id_stock": "629",
+        "id_producto": "630",
+        "existencia": "16",
+        "costo_promedio": "2.808"
+    },
+    {
+        "id_stock": "630",
+        "id_producto": "631",
+        "existencia": "86",
+        "costo_promedio": "1.755"
+    },
+    {
+        "id_stock": "632",
+        "id_producto": "634",
+        "existencia": "15748",
+        "costo_promedio": "4.9725"
+    },
+    {
+        "id_stock": "633",
+        "id_producto": "633",
+        "existencia": "745",
+        "costo_promedio": "2.925"
+    },
+    {
+        "id_stock": "634",
+        "id_producto": "635",
+        "existencia": "6",
+        "costo_promedio": "15.21"
+    },
+    {
+        "id_stock": "635",
+        "id_producto": "636",
+        "existencia": "1",
+        "costo_promedio": "11.7"
+    },
+    {
+        "id_stock": "636",
+        "id_producto": "637",
+        "existencia": "38",
+        "costo_promedio": "1.17"
+    },
+    {
+        "id_stock": "637",
+        "id_producto": "638",
+        "existencia": "5",
+        "costo_promedio": "1.287"
+    },
+    {
+        "id_stock": "640",
+        "id_producto": "641",
+        "existencia": "30",
+        "costo_promedio": "0.4212"
+    },
+    {
+        "id_stock": "641",
+        "id_producto": "642",
+        "existencia": "1",
+        "costo_promedio": "21.06"
+    },
+    {
+        "id_stock": "642",
+        "id_producto": "643",
+        "existencia": "76",
+        "costo_promedio": "0.702"
+    },
+    {
+        "id_stock": "643",
+        "id_producto": "644",
+        "existencia": "24",
+        "costo_promedio": "3.8844"
+    },
+    {
+        "id_stock": "645",
+        "id_producto": "646",
+        "existencia": "76",
+        "costo_promedio": "4.7385"
+    },
+    {
+        "id_stock": "646",
+        "id_producto": "647",
+        "existencia": "43",
+        "costo_promedio": "5.85"
+    },
+    {
+        "id_stock": "647",
+        "id_producto": "648",
+        "existencia": "178",
+        "costo_promedio": "4.3758"
+    },
+    {
+        "id_stock": "651",
+        "id_producto": "652",
+        "existencia": "85",
+        "costo_promedio": "2.2815"
+    },
+    {
+        "id_stock": "652",
+        "id_producto": "653",
+        "existencia": "75",
+        "costo_promedio": "1.9305"
+    },
+    {
+        "id_stock": "653",
+        "id_producto": "654",
+        "existencia": "80",
+        "costo_promedio": "1.638"
+    },
+    {
+        "id_stock": "654",
+        "id_producto": "655",
+        "existencia": "76",
+        "costo_promedio": "1.3455"
+    },
+    {
+        "id_stock": "655",
+        "id_producto": "656",
+        "existencia": "247",
+        "costo_promedio": "0.819"
+    },
+    {
+        "id_stock": "656",
+        "id_producto": "657",
+        "existencia": "84",
+        "costo_promedio": "2.106"
+    },
+    {
+        "id_stock": "657",
+        "id_producto": "658",
+        "existencia": "962",
+        "costo_promedio": "1.872"
+    },
+    {
+        "id_stock": "658",
+        "id_producto": "659",
+        "existencia": "24",
+        "costo_promedio": "1.5795"
+    },
+    {
+        "id_stock": "659",
+        "id_producto": "660",
+        "existencia": "15",
+        "costo_promedio": "1.287"
+    },
+    {
+        "id_stock": "660",
+        "id_producto": "661",
+        "existencia": "51",
+        "costo_promedio": "0.7605"
+    },
+    {
+        "id_stock": "661",
+        "id_producto": "662",
+        "existencia": "548",
+        "costo_promedio": "4.3056"
+    },
+    {
+        "id_stock": "662",
+        "id_producto": "663",
+        "existencia": "2",
+        "costo_promedio": "5.85"
+    },
+    {
+        "id_stock": "663",
+        "id_producto": "664",
+        "existencia": "228",
+        "costo_promedio": "1.3455"
+    },
+    {
+        "id_stock": "665",
+        "id_producto": "666",
+        "existencia": "81",
+        "costo_promedio": "2.106"
+    },
+    {
+        "id_stock": "666",
+        "id_producto": "667",
+        "existencia": "2",
+        "costo_promedio": "2.925"
+    },
+    {
+        "id_stock": "667",
+        "id_producto": "668",
+        "existencia": "6",
+        "costo_promedio": "1.755"
+    },
+    {
+        "id_stock": "668",
+        "id_producto": "669",
+        "existencia": "222",
+        "costo_promedio": "0.468"
+    },
+    {
+        "id_stock": "669",
+        "id_producto": "670",
+        "existencia": "15",
+        "costo_promedio": "2.925"
+    },
+    {
+        "id_stock": "672",
+        "id_producto": "673",
+        "existencia": "1",
+        "costo_promedio": "1.7901"
+    },
+    {
+        "id_stock": "673",
+        "id_producto": "674",
+        "existencia": "55",
+        "costo_promedio": "1.872"
+    },
+    {
+        "id_stock": "675",
+        "id_producto": "676",
+        "existencia": "60",
+        "costo_promedio": "2.925"
+    },
+    {
+        "id_stock": "676",
+        "id_producto": "677",
+        "existencia": "328",
+        "costo_promedio": "2.7495"
+    },
+    {
+        "id_stock": "677",
+        "id_producto": "678",
+        "existencia": "18",
+        "costo_promedio": "2.574"
+    },
+    {
+        "id_stock": "678",
+        "id_producto": "466",
+        "existencia": "15",
+        "costo_promedio": "4.095"
+    },
+    {
+        "id_stock": "679",
+        "id_producto": "679",
+        "existencia": "28",
+        "costo_promedio": "10.1205"
+    },
+    {
+        "id_stock": "680",
+        "id_producto": "680",
+        "existencia": "11",
+        "costo_promedio": "7.605"
+    },
+    {
+        "id_stock": "681",
+        "id_producto": "681",
+        "existencia": "15",
+        "costo_promedio": "10.1205"
+    },
+    {
+        "id_stock": "682",
+        "id_producto": "682",
+        "existencia": "14",
+        "costo_promedio": "6.7275"
+    },
+    {
+        "id_stock": "683",
+        "id_producto": "683",
+        "existencia": "59",
+        "costo_promedio": "8.19"
+    },
+    {
+        "id_stock": "684",
+        "id_producto": "684",
+        "existencia": "2",
+        "costo_promedio": "1.2636"
+    },
+    {
+        "id_stock": "685",
+        "id_producto": "685",
+        "existencia": "99",
+        "costo_promedio": "1.17"
+    },
+    {
+        "id_stock": "687",
+        "id_producto": "688",
+        "existencia": "1",
+        "costo_promedio": "8.775"
+    },
+    {
+        "id_stock": "688",
+        "id_producto": "689",
+        "existencia": "156.89",
+        "costo_promedio": "1.0296"
+    },
+    {
+        "id_stock": "689",
+        "id_producto": "690",
+        "existencia": "304",
+        "costo_promedio": "1.2285"
+    },
+    {
+        "id_stock": "690",
+        "id_producto": "691",
+        "existencia": "4",
+        "costo_promedio": "9.0675"
+    },
+    {
+        "id_stock": "692",
+        "id_producto": "693",
+        "existencia": "8",
+        "costo_promedio": "1.4625"
+    },
+    {
+        "id_stock": "693",
+        "id_producto": "694",
+        "existencia": "320",
+        "costo_promedio": "0.8775"
+    },
+    {
+        "id_stock": "694",
+        "id_producto": "695",
+        "existencia": "126",
+        "costo_promedio": "0.8775"
+    },
+    {
+        "id_stock": "695",
+        "id_producto": "697",
+        "existencia": "24",
+        "costo_promedio": "1.4625"
+    },
+    {
+        "id_stock": "696",
+        "id_producto": "696",
+        "existencia": "152",
+        "costo_promedio": "1.404"
+    },
+    {
+        "id_stock": "697",
+        "id_producto": "698",
+        "existencia": "53",
+        "costo_promedio": "1.17"
+    },
+    {
+        "id_stock": "698",
+        "id_producto": "699",
+        "existencia": "83",
+        "costo_promedio": "0.585"
+    },
+    {
+        "id_stock": "700",
+        "id_producto": "701",
+        "existencia": "7",
+        "costo_promedio": "0.4446"
+    },
+    {
+        "id_stock": "701",
+        "id_producto": "702",
+        "existencia": "200",
+        "costo_promedio": "0.2925"
+    },
+    {
+        "id_stock": "702",
+        "id_producto": "703",
+        "existencia": "5",
+        "costo_promedio": "14.04"
+    },
+    {
+        "id_stock": "705",
+        "id_producto": "706",
+        "existencia": "68",
+        "costo_promedio": "0.6435"
+    },
+    {
+        "id_stock": "706",
+        "id_producto": "707",
+        "existencia": "3",
+        "costo_promedio": "5.85"
+    },
+    {
+        "id_stock": "707",
+        "id_producto": "708",
+        "existencia": "78",
+        "costo_promedio": "4.9725"
+    },
+    {
+        "id_stock": "709",
+        "id_producto": "710",
+        "existencia": "88",
+        "costo_promedio": "1.5444"
+    },
+    {
+        "id_stock": "710",
+        "id_producto": "711",
+        "existencia": "23",
+        "costo_promedio": "1.638"
+    },
+    {
+        "id_stock": "711",
+        "id_producto": "713",
+        "existencia": "87",
+        "costo_promedio": "1.4625"
+    },
+    {
+        "id_stock": "712",
+        "id_producto": "714",
+        "existencia": "101",
+        "costo_promedio": "1.1232"
+    },
+    {
+        "id_stock": "713",
+        "id_producto": "715",
+        "existencia": "61",
+        "costo_promedio": "1.2636"
+    },
+    {
+        "id_stock": "714",
+        "id_producto": "716",
+        "existencia": "56",
+        "costo_promedio": "5.0661"
+    },
+    {
+        "id_stock": "715",
+        "id_producto": "712",
+        "existencia": "166",
+        "costo_promedio": "2.9952"
+    },
+    {
+        "id_stock": "716",
+        "id_producto": "717",
+        "existencia": "36",
+        "costo_promedio": "5.148"
+    },
+    {
+        "id_stock": "717",
+        "id_producto": "718",
+        "existencia": "49",
+        "costo_promedio": "3.159"
+    },
+    {
+        "id_stock": "718",
+        "id_producto": "719",
+        "existencia": "4",
+        "costo_promedio": "0.234"
+    },
+    {
+        "id_stock": "719",
+        "id_producto": "720",
+        "existencia": "18",
+        "costo_promedio": "1.5912"
+    },
+    {
+        "id_stock": "720",
+        "id_producto": "721",
+        "existencia": "28",
+        "costo_promedio": "2.1177"
+    },
+    {
+        "id_stock": "721",
+        "id_producto": "722",
+        "existencia": "28",
+        "costo_promedio": "3.1824"
+    },
+    {
+        "id_stock": "722",
+        "id_producto": "723",
+        "existencia": "6",
+        "costo_promedio": "4.095"
+    },
+    {
+        "id_stock": "723",
+        "id_producto": "724",
+        "existencia": "90",
+        "costo_promedio": "0.1053"
+    },
+    {
+        "id_stock": "724",
+        "id_producto": "725",
+        "existencia": "13",
+        "costo_promedio": "4.7151"
+    },
+    {
+        "id_stock": "725",
+        "id_producto": "726",
+        "existencia": "15",
+        "costo_promedio": "7.605"
+    },
+    {
+        "id_stock": "726",
+        "id_producto": "727",
+        "existencia": "0.6",
+        "costo_promedio": "0.702"
+    },
+    {
+        "id_stock": "727",
+        "id_producto": "728",
+        "existencia": "17",
+        "costo_promedio": "8.424"
+    },
+    {
+        "id_stock": "728",
+        "id_producto": "729",
+        "existencia": "9",
+        "costo_promedio": "8.19"
+    },
+    {
+        "id_stock": "729",
+        "id_producto": "732",
+        "existencia": "25",
+        "costo_promedio": "6.435"
+    },
+    {
+        "id_stock": "730",
+        "id_producto": "733",
+        "existencia": "1",
+        "costo_promedio": "7.02"
+    },
+    {
+        "id_stock": "732",
+        "id_producto": "735",
+        "existencia": "14",
+        "costo_promedio": "8.19"
+    },
+    {
+        "id_stock": "733",
+        "id_producto": "736",
+        "existencia": "2",
+        "costo_promedio": "8.775"
+    },
+    {
+        "id_stock": "734",
+        "id_producto": "737",
+        "existencia": "1",
+        "costo_promedio": "1.2285"
+    },
+    {
+        "id_stock": "735",
+        "id_producto": "739",
+        "existencia": "193",
+        "costo_promedio": "1.404"
+    },
+    {
+        "id_stock": "736",
+        "id_producto": "738",
+        "existencia": "39",
+        "costo_promedio": "4.563"
+    },
+    {
+        "id_stock": "737",
+        "id_producto": "740",
+        "existencia": "3",
+        "costo_promedio": "3.978"
+    },
+    {
+        "id_stock": "738",
+        "id_producto": "741",
+        "existencia": "8",
+        "costo_promedio": "4.095"
+    },
+    {
+        "id_stock": "739",
+        "id_producto": "742",
+        "existencia": "99",
+        "costo_promedio": "0.0936"
+    },
+    {
+        "id_stock": "742",
+        "id_producto": "745",
+        "existencia": "4",
+        "costo_promedio": "20.592"
+    },
+    {
+        "id_stock": "744",
+        "id_producto": "747",
+        "existencia": "14",
+        "costo_promedio": "7.02"
+    },
+    {
+        "id_stock": "745",
+        "id_producto": "748",
+        "existencia": "3",
+        "costo_promedio": "4.914"
+    },
+    {
+        "id_stock": "747",
+        "id_producto": "750",
+        "existencia": "5",
+        "costo_promedio": "3.51"
+    },
+    {
+        "id_stock": "749",
+        "id_producto": "752",
+        "existencia": "5",
+        "costo_promedio": "0.4446"
+    },
+    {
+        "id_stock": "750",
+        "id_producto": "753",
+        "existencia": "36",
+        "costo_promedio": "0.8775"
+    },
+    {
+        "id_stock": "867",
+        "id_producto": "754",
+        "existencia": "3",
+        "costo_promedio": "10.062"
+    },
+    {
+        "id_stock": "873",
+        "id_producto": "755",
+        "existencia": "91",
+        "costo_promedio": "0.487492"
+    },
+    {
+        "id_stock": "874",
+        "id_producto": "756",
+        "existencia": "17",
+        "costo_promedio": "0.6201"
+    },
+    {
+        "id_stock": "875",
+        "id_producto": "757",
+        "existencia": "504",
+        "costo_promedio": "4.095"
+    },
+    {
+        "id_stock": "876",
+        "id_producto": "758",
+        "existencia": "24",
+        "costo_promedio": "0.6084"
+    },
+    {
+        "id_stock": "877",
+        "id_producto": "759",
+        "existencia": "27",
+        "costo_promedio": "1.3689"
+    },
+    {
+        "id_stock": "878",
+        "id_producto": "760",
+        "existencia": "20",
+        "costo_promedio": "1.1115"
+    },
+    {
+        "id_stock": "879",
+        "id_producto": "761",
+        "existencia": "11",
+        "costo_promedio": "1.3689"
+    },
+    {
+        "id_stock": "880",
+        "id_producto": "765",
+        "existencia": "20",
+        "costo_promedio": "0.702"
+    },
+    {
+        "id_stock": "881",
+        "id_producto": "763",
+        "existencia": "28",
+        "costo_promedio": "1.4625"
+    },
+    {
+        "id_stock": "882",
+        "id_producto": "764",
+        "existencia": "2",
+        "costo_promedio": "1.053"
+    },
+    {
+        "id_stock": "885",
+        "id_producto": "768",
+        "existencia": "5",
+        "costo_promedio": "1.7667"
+    },
+    {
+        "id_stock": "886",
+        "id_producto": "769",
+        "existencia": "49",
+        "costo_promedio": "1.0998"
+    },
+    {
+        "id_stock": "887",
+        "id_producto": "770",
+        "existencia": "3",
+        "costo_promedio": "1.2402"
+    },
+    {
+        "id_stock": "888",
+        "id_producto": "772",
+        "existencia": "114",
+        "costo_promedio": "1.17"
+    },
+    {
+        "id_stock": "889",
+        "id_producto": "773",
+        "existencia": "122",
+        "costo_promedio": "2.4804"
+    },
+    {
+        "id_stock": "890",
+        "id_producto": "774",
+        "existencia": "3",
+        "costo_promedio": "0.6318"
+    },
+    {
+        "id_stock": "893",
+        "id_producto": "777",
+        "existencia": "24",
+        "costo_promedio": "0.6786"
+    },
+    {
+        "id_stock": "894",
+        "id_producto": "778",
+        "existencia": "86.667",
+        "costo_promedio": "0.6786"
+    },
+    {
+        "id_stock": "895",
+        "id_producto": "779",
+        "existencia": "3464",
+        "costo_promedio": "0.3861"
+    },
+    {
+        "id_stock": "896",
+        "id_producto": "780",
+        "existencia": "1",
+        "costo_promedio": "14.04"
+    },
+    {
+        "id_stock": "897",
+        "id_producto": "781",
+        "existencia": "88",
+        "costo_promedio": "0.7254"
+    },
+    {
+        "id_stock": "898",
+        "id_producto": "782",
+        "existencia": "9",
+        "costo_promedio": "0.6435"
+    },
+    {
+        "id_stock": "900",
+        "id_producto": "784",
+        "existencia": "36",
+        "costo_promedio": "7.605"
+    },
+    {
+        "id_stock": "901",
+        "id_producto": "785",
+        "existencia": "1",
+        "costo_promedio": "4.2705"
+    },
+    {
+        "id_stock": "902",
+        "id_producto": "786",
+        "existencia": "10",
+        "costo_promedio": "1.2168"
+    },
+    {
+        "id_stock": "903",
+        "id_producto": "787",
+        "existencia": "298",
+        "costo_promedio": "0.8775"
+    },
+    {
+        "id_stock": "904",
+        "id_producto": "788",
+        "existencia": "987",
+        "costo_promedio": "1.4625"
+    },
+    {
+        "id_stock": "905",
+        "id_producto": "790",
+        "existencia": "30",
+        "costo_promedio": "1.4625"
+    },
+    {
+        "id_stock": "906",
+        "id_producto": "789",
+        "existencia": "33",
+        "costo_promedio": "5.85"
+    },
+    {
+        "id_stock": "907",
+        "id_producto": "791",
+        "existencia": "71",
+        "costo_promedio": "1.1115"
+    },
+    {
+        "id_stock": "908",
+        "id_producto": "793",
+        "existencia": "41",
+        "costo_promedio": "1.4625"
+    },
+    {
+        "id_stock": "910",
+        "id_producto": "792",
+        "existencia": "9",
+        "costo_promedio": "5.265"
+    },
+    {
+        "id_stock": "911",
+        "id_producto": "795",
+        "existencia": "10",
+        "costo_promedio": "2.925"
+    },
+    {
+        "id_stock": "912",
+        "id_producto": "762",
+        "existencia": "41",
+        "costo_promedio": "3.51"
+    },
+    {
+        "id_stock": "913",
+        "id_producto": "796",
+        "existencia": "7",
+        "costo_promedio": "0.2925"
+    },
+    {
+        "id_stock": "914",
+        "id_producto": "797",
+        "existencia": "2",
+        "costo_promedio": "1.4742"
+    },
+    {
+        "id_stock": "915",
+        "id_producto": "798",
+        "existencia": "5",
+        "costo_promedio": "3.2175"
+    },
+    {
+        "id_stock": "916",
+        "id_producto": "799",
+        "existencia": "15.5",
+        "costo_promedio": "1.9071"
+    },
+    {
+        "id_stock": "917",
+        "id_producto": "800",
+        "existencia": "120",
+        "costo_promedio": "0.7605"
+    },
+    {
+        "id_stock": "918",
+        "id_producto": "801",
+        "existencia": "3",
+        "costo_promedio": "16.38"
+    },
+    {
+        "id_stock": "919",
+        "id_producto": "802",
+        "existencia": "5",
+        "costo_promedio": "11.7"
+    },
+    {
+        "id_stock": "920",
+        "id_producto": "803",
+        "existencia": "2",
+        "costo_promedio": "12.87"
+    },
+    {
+        "id_stock": "922",
+        "id_producto": "805",
+        "existencia": "37",
+        "costo_promedio": "15.21"
+    },
+    {
+        "id_stock": "950",
+        "id_producto": "806",
+        "existencia": "18",
+        "costo_promedio": "12.9168"
+    },
+    {
+        "id_stock": "951",
+        "id_producto": "808",
+        "existencia": "445",
+        "costo_promedio": "1.053"
+    },
+    {
+        "id_stock": "952",
+        "id_producto": "809",
+        "existencia": "19",
+        "costo_promedio": "3.042"
+    },
+    {
+        "id_stock": "954",
+        "id_producto": "811",
+        "existencia": "3",
+        "costo_promedio": "0.7605"
+    },
+    {
+        "id_stock": "955",
+        "id_producto": "812",
+        "existencia": "12",
+        "costo_promedio": "4.3875"
+    },
+    {
+        "id_stock": "956",
+        "id_producto": "813",
+        "existencia": "49",
+        "costo_promedio": "0.2691"
+    },
+    {
+        "id_stock": "957",
+        "id_producto": "814",
+        "existencia": "14",
+        "costo_promedio": "1.404"
+    },
+    {
+        "id_stock": "958",
+        "id_producto": "815",
+        "existencia": "36",
+        "costo_promedio": "1.404"
+    },
+    {
+        "id_stock": "959",
+        "id_producto": "816",
+        "existencia": "47",
+        "costo_promedio": "1.404"
+    },
+    {
+        "id_stock": "960",
+        "id_producto": "818",
+        "existencia": "21",
+        "costo_promedio": "1.404"
+    },
+    {
+        "id_stock": "961",
+        "id_producto": "819",
+        "existencia": "28",
+        "costo_promedio": "0.819"
+    },
+    {
+        "id_stock": "962",
+        "id_producto": "820",
+        "existencia": "57",
+        "costo_promedio": "1.17"
+    },
+    {
+        "id_stock": "963",
+        "id_producto": "821",
+        "existencia": "51",
+        "costo_promedio": "1.404"
+    },
+    {
+        "id_stock": "964",
+        "id_producto": "822",
+        "existencia": "13",
+        "costo_promedio": "1.404"
+    },
+    {
+        "id_stock": "965",
+        "id_producto": "823",
+        "existencia": "45",
+        "costo_promedio": "0.702"
+    },
+    {
+        "id_stock": "966",
+        "id_producto": "824",
+        "existencia": "29",
+        "costo_promedio": "0.702"
+    },
+    {
+        "id_stock": "967",
+        "id_producto": "825",
+        "existencia": "48",
+        "costo_promedio": "1.404"
+    },
+    {
+        "id_stock": "968",
+        "id_producto": "826",
+        "existencia": "45",
+        "costo_promedio": "1.4625"
+    },
+    {
+        "id_stock": "969",
+        "id_producto": "827",
+        "existencia": "37",
+        "costo_promedio": "1.521"
+    },
+    {
+        "id_stock": "970",
+        "id_producto": "828",
+        "existencia": "50",
+        "costo_promedio": "1.521"
+    },
+    {
+        "id_stock": "971",
+        "id_producto": "829",
+        "existencia": "58",
+        "costo_promedio": "1.521"
+    },
+    {
+        "id_stock": "972",
+        "id_producto": "830",
+        "existencia": "145",
+        "costo_promedio": "0.819"
+    },
+    {
+        "id_stock": "973",
+        "id_producto": "831",
+        "existencia": "44",
+        "costo_promedio": "1.521"
+    },
+    {
+        "id_stock": "974",
+        "id_producto": "832",
+        "existencia": "58",
+        "costo_promedio": "1.521"
+    },
+    {
+        "id_stock": "975",
+        "id_producto": "833",
+        "existencia": "48",
+        "costo_promedio": "1.521"
+    },
+    {
+        "id_stock": "976",
+        "id_producto": "834",
+        "existencia": "55",
+        "costo_promedio": "1.521"
+    },
+    {
+        "id_stock": "977",
+        "id_producto": "835",
+        "existencia": "55",
+        "costo_promedio": "1.521"
+    },
+    {
+        "id_stock": "978",
+        "id_producto": "836",
+        "existencia": "53",
+        "costo_promedio": "1.521"
+    },
+    {
+        "id_stock": "979",
+        "id_producto": "837",
+        "existencia": "58",
+        "costo_promedio": "1.521"
+    },
+    {
+        "id_stock": "980",
+        "id_producto": "838",
+        "existencia": "73",
+        "costo_promedio": "1.521"
+    },
+    {
+        "id_stock": "981",
+        "id_producto": "839",
+        "existencia": "86",
+        "costo_promedio": "1.1115"
+    },
+    {
+        "id_stock": "982",
+        "id_producto": "840",
+        "existencia": "73",
+        "costo_promedio": "0.702"
+    },
+    {
+        "id_stock": "983",
+        "id_producto": "841",
+        "existencia": "257",
+        "costo_promedio": "0.7956"
+    },
+    {
+        "id_stock": "984",
+        "id_producto": "842",
+        "existencia": "10",
+        "costo_promedio": "3.627"
+    },
+    {
+        "id_stock": "985",
+        "id_producto": "843",
+        "existencia": "79",
+        "costo_promedio": "2.808"
+    },
+    {
+        "id_stock": "986",
+        "id_producto": "844",
+        "existencia": "42",
+        "costo_promedio": "8.775"
+    },
+    {
+        "id_stock": "987",
+        "id_producto": "845",
+        "existencia": "66",
+        "costo_promedio": "0.1287"
+    },
+    {
+        "id_stock": "988",
+        "id_producto": "846",
+        "existencia": "39",
+        "costo_promedio": "1.9188"
+    },
+    {
+        "id_stock": "989",
+        "id_producto": "847",
+        "existencia": "13",
+        "costo_promedio": "1.404"
+    },
+    {
+        "id_stock": "990",
+        "id_producto": "848",
+        "existencia": "21",
+        "costo_promedio": "0.8775"
+    },
+    {
+        "id_stock": "991",
+        "id_producto": "849",
+        "existencia": "159",
+        "costo_promedio": "1.872"
+    },
+    {
+        "id_stock": "992",
+        "id_producto": "850",
+        "existencia": "9.5",
+        "costo_promedio": "5.85"
+    },
+    {
+        "id_stock": "993",
+        "id_producto": "851",
+        "existencia": "547",
+        "costo_promedio": "1.287"
+    },
+    {
+        "id_stock": "994",
+        "id_producto": "852",
+        "existencia": "14",
+        "costo_promedio": "4.68"
+    },
+    {
+        "id_stock": "995",
+        "id_producto": "853",
+        "existencia": "66",
+        "costo_promedio": "0.6318"
+    },
+    {
+        "id_stock": "996",
+        "id_producto": "817",
+        "existencia": "95",
+        "costo_promedio": "0.702"
+    },
+    {
+        "id_stock": "997",
+        "id_producto": "854",
+        "existencia": "289",
+        "costo_promedio": "2.223"
+    },
+    {
+        "id_stock": "998",
+        "id_producto": "855",
+        "existencia": "1",
+        "costo_promedio": "0.5265"
+    },
+    {
+        "id_stock": "999",
+        "id_producto": "856",
+        "existencia": "98",
+        "costo_promedio": "0.4095"
+    },
+    {
+        "id_stock": "1000",
+        "id_producto": "857",
+        "existencia": "49",
+        "costo_promedio": "1.755"
+    },
+    {
+        "id_stock": "1001",
+        "id_producto": "858",
+        "existencia": "24",
+        "costo_promedio": "0.7371"
+    },
+    {
+        "id_stock": "1003",
+        "id_producto": "860",
+        "existencia": "74.5",
+        "costo_promedio": "1.053"
+    },
+    {
+        "id_stock": "1004",
+        "id_producto": "861",
+        "existencia": "1",
+        "costo_promedio": "5.7915"
+    },
+    {
+        "id_stock": "1005",
+        "id_producto": "862",
+        "existencia": "18",
+        "costo_promedio": "1.17"
+    },
+    {
+        "id_stock": "1007",
+        "id_producto": "864",
+        "existencia": "75",
+        "costo_promedio": "1.17"
+    },
+    {
+        "id_stock": "1008",
+        "id_producto": "865",
+        "existencia": "6",
+        "costo_promedio": "1.5912"
+    },
+    {
+        "id_stock": "1009",
+        "id_producto": "866",
+        "existencia": "28",
+        "costo_promedio": "3.1824"
+    },
+    {
+        "id_stock": "1013",
+        "id_producto": "867",
+        "existencia": "17.03",
+        "costo_promedio": "6.552"
+    },
+    {
+        "id_stock": "1017",
+        "id_producto": "869",
+        "existencia": "157",
+        "costo_promedio": "1.287"
+    },
+    {
+        "id_stock": "1018",
+        "id_producto": "870",
+        "existencia": "41",
+        "costo_promedio": "0.936"
+    },
+    {
+        "id_stock": "1019",
+        "id_producto": "871",
+        "existencia": "335",
+        "costo_promedio": "0.6786"
+    },
+    {
+        "id_stock": "1020",
+        "id_producto": "872",
+        "existencia": "3",
+        "costo_promedio": "3.6855"
+    },
+    {
+        "id_stock": "1021",
+        "id_producto": "873",
+        "existencia": "12",
+        "costo_promedio": "10.53"
+    },
+    {
+        "id_stock": "1098",
+        "id_producto": "874",
+        "existencia": "155",
+        "costo_promedio": "1.2636"
+    },
+    {
+        "id_stock": "1099",
+        "id_producto": "875",
+        "existencia": "178",
+        "costo_promedio": "2.6325"
+    },
+    {
+        "id_stock": "1100",
+        "id_producto": "876",
+        "existencia": "1",
+        "costo_promedio": "44.46"
+    },
+    {
+        "id_stock": "1172",
+        "id_producto": "880",
+        "existencia": "1",
+        "costo_promedio": "3.276"
+    },
+    {
+        "id_stock": "1177",
+        "id_producto": "882",
+        "existencia": "3",
+        "costo_promedio": "4.095"
+    },
+    {
+        "id_stock": "1179",
+        "id_producto": "883",
+        "existencia": "1",
+        "costo_promedio": "1.17"
+    },
+    {
+        "id_stock": "1182",
+        "id_producto": "885",
+        "existencia": "3",
+        "costo_promedio": "9.945"
+    },
+    {
+        "id_stock": "1184",
+        "id_producto": "886",
+        "existencia": "1",
+        "costo_promedio": "9.36"
+    },
+    {
+        "id_stock": "1185",
+        "id_producto": "887",
+        "existencia": "2",
+        "costo_promedio": "11.7"
+    },
+    {
+        "id_stock": "1186",
+        "id_producto": "888",
+        "existencia": "192",
+        "costo_promedio": "0.7722"
+    },
+    {
+        "id_stock": "1188",
+        "id_producto": "889",
+        "existencia": "174",
+        "costo_promedio": "0.8658"
+    },
+    {
+        "id_stock": "1204",
+        "id_producto": "879",
+        "existencia": "10",
+        "costo_promedio": "1.521"
+    },
+    {
+        "id_stock": "1206",
+        "id_producto": "877",
+        "existencia": "485",
+        "costo_promedio": "2.1645"
+    },
+    {
+        "id_stock": "1217",
+        "id_producto": "891",
+        "existencia": "15",
+        "costo_promedio": "3.8025"
+    },
+    {
+        "id_stock": "1218",
+        "id_producto": "892",
+        "existencia": "121",
+        "costo_promedio": "0.7605"
+    },
+    {
+        "id_stock": "1219",
+        "id_producto": "893",
+        "existencia": "2",
+        "costo_promedio": "5.265"
+    },
+    {
+        "id_stock": "1220",
+        "id_producto": "894",
+        "existencia": "13",
+        "costo_promedio": "1.5795"
+    },
+    {
+        "id_stock": "1234",
+        "id_producto": "895",
+        "existencia": "931",
+        "costo_promedio": "0.351"
+    },
+    {
+        "id_stock": "1235",
+        "id_producto": "896",
+        "existencia": "16",
+        "costo_promedio": "0.585"
+    },
+    {
+        "id_stock": "1236",
+        "id_producto": "890",
+        "existencia": "5",
+        "costo_promedio": "11.583"
+    },
+    {
+        "id_stock": "1240",
+        "id_producto": "899",
+        "existencia": "71",
+        "costo_promedio": "2.34"
+    },
+    {
+        "id_stock": "1252",
+        "id_producto": "901",
+        "existencia": "35",
+        "costo_promedio": "2.0358"
+    },
+    {
+        "id_stock": "1253",
+        "id_producto": "902",
+        "existencia": "226",
+        "costo_promedio": "0.9711"
+    },
+    {
+        "id_stock": "1254",
+        "id_producto": "903",
+        "existencia": "325",
+        "costo_promedio": "0.8307"
+    },
+    {
+        "id_stock": "1257",
+        "id_producto": "904",
+        "existencia": "12",
+        "costo_promedio": "0.2925"
+    },
+    {
+        "id_stock": "1259",
+        "id_producto": "905",
+        "existencia": "21",
+        "costo_promedio": "5.5575"
+    },
+    {
+        "id_stock": "1263",
+        "id_producto": "906",
+        "existencia": "100",
+        "costo_promedio": "0.1989"
+    },
+    {
+        "id_stock": "1264",
+        "id_producto": "907",
+        "existencia": "21",
+        "costo_promedio": "0.3744"
+    },
+    {
+        "id_stock": "1265",
+        "id_producto": "908",
+        "existencia": "36",
+        "costo_promedio": "7.605"
+    },
+    {
+        "id_stock": "1266",
+        "id_producto": "909",
+        "existencia": "31",
+        "costo_promedio": "7.605"
+    },
+    {
+        "id_stock": "1267",
+        "id_producto": "910",
+        "existencia": "62",
+        "costo_promedio": "7.605"
+    },
+    {
+        "id_stock": "1282",
+        "id_producto": "878",
+        "existencia": "37",
+        "costo_promedio": "1.521"
+    },
+    {
+        "id_stock": "1290",
+        "id_producto": "914",
+        "existencia": "104",
+        "costo_promedio": "1.755"
+    },
+    {
+        "id_stock": "1292",
+        "id_producto": "913",
+        "existencia": "23",
+        "costo_promedio": "0.4095"
+    },
+    {
+        "id_stock": "1301",
+        "id_producto": "915",
+        "existencia": "909",
+        "costo_promedio": "2.5155"
+    },
+    {
+        "id_stock": "1302",
+        "id_producto": "916",
+        "existencia": "164",
+        "costo_promedio": "1.0296"
+    },
+    {
+        "id_stock": "1314",
+        "id_producto": "922",
+        "existencia": "2",
+        "costo_promedio": "5.265"
+    },
+    {
+        "id_stock": "1323",
+        "id_producto": "923",
+        "existencia": "59",
+        "costo_promedio": "1.1115"
+    },
+    {
+        "id_stock": "1324",
+        "id_producto": "924",
+        "existencia": "189",
+        "costo_promedio": "1.6965"
+    },
+    {
+        "id_stock": "1325",
+        "id_producto": "925",
+        "existencia": "926",
+        "costo_promedio": "1.053"
+    },
+    {
+        "id_stock": "1330",
+        "id_producto": "926",
+        "existencia": "219",
+        "costo_promedio": "0.7605"
+    },
+    {
+        "id_stock": "1331",
+        "id_producto": "927",
+        "existencia": "6",
+        "costo_promedio": "0.351"
+    },
+    {
+        "id_stock": "1333",
+        "id_producto": "929",
+        "existencia": "30",
+        "costo_promedio": "16.38"
+    },
+    {
+        "id_stock": "1334",
+        "id_producto": "930",
+        "existencia": "5",
+        "costo_promedio": "8.775"
+    },
+    {
+        "id_stock": "1335",
+        "id_producto": "931",
+        "existencia": "75",
+        "costo_promedio": "13.455"
+    },
+    {
+        "id_stock": "1336",
+        "id_producto": "932",
+        "existencia": "520",
+        "costo_promedio": "0.8775"
+    },
+    {
+        "id_stock": "1337",
+        "id_producto": "933",
+        "existencia": "8",
+        "costo_promedio": "0.4797"
+    },
+    {
+        "id_stock": "1338",
+        "id_producto": "934",
+        "existencia": "33",
+        "costo_promedio": "0.2808"
+    },
+    {
+        "id_stock": "1339",
+        "id_producto": "935",
+        "existencia": "1",
+        "costo_promedio": "1.17"
+    },
+    {
+        "id_stock": "1340",
+        "id_producto": "936",
+        "existencia": "20",
+        "costo_promedio": "0.936"
+    },
+    {
+        "id_stock": "1341",
+        "id_producto": "937",
+        "existencia": "156",
+        "costo_promedio": "0.8775"
+    },
+    {
+        "id_stock": "1342",
+        "id_producto": "938",
+        "existencia": "378",
+        "costo_promedio": "1.1115"
+    },
+    {
+        "id_stock": "1343",
+        "id_producto": "939",
+        "existencia": "10",
+        "costo_promedio": "0.2808"
+    },
+    {
+        "id_stock": "1345",
+        "id_producto": "941",
+        "existencia": "17",
+        "costo_promedio": "2.457"
+    },
+    {
+        "id_stock": "1346",
+        "id_producto": "942",
+        "existencia": "87",
+        "costo_promedio": "2.2815"
+    },
+    {
+        "id_stock": "1348",
+        "id_producto": "944",
+        "existencia": "766",
+        "costo_promedio": "1.638"
+    },
+    {
+        "id_stock": "1365",
+        "id_producto": "945",
+        "existencia": "2",
+        "costo_promedio": "7.02"
+    },
+    {
+        "id_stock": "1366",
+        "id_producto": "946",
+        "existencia": "1",
+        "costo_promedio": "11.5479"
+    },
+    {
+        "id_stock": "1367",
+        "id_producto": "947",
+        "existencia": "16",
+        "costo_promedio": "5.85"
+    },
+    {
+        "id_stock": "1368",
+        "id_producto": "948",
+        "existencia": "25",
+        "costo_promedio": "11.115"
+    },
+    {
+        "id_stock": "1370",
+        "id_producto": "900",
+        "existencia": "4",
+        "costo_promedio": "10.296"
+    },
+    {
+        "id_stock": "1371",
+        "id_producto": "949",
+        "existencia": "84.5",
+        "costo_promedio": "0.9711"
+    },
+    {
+        "id_stock": "1374",
+        "id_producto": "953",
+        "existencia": "5",
+        "costo_promedio": "13.338"
+    },
+    {
+        "id_stock": "1375",
+        "id_producto": "955",
+        "existencia": "119",
+        "costo_promedio": "0.4095"
+    },
+    {
+        "id_stock": "1376",
+        "id_producto": "954",
+        "existencia": "199",
+        "costo_promedio": "0.4095"
+    },
+    {
+        "id_stock": "1377",
+        "id_producto": "957",
+        "existencia": "11",
+        "costo_promedio": "0.936"
+    },
+    {
+        "id_stock": "1379",
+        "id_producto": "959",
+        "existencia": "3",
+        "costo_promedio": "2.808"
+    },
+    {
+        "id_stock": "1380",
+        "id_producto": "958",
+        "existencia": "13",
+        "costo_promedio": "3.276"
+    },
+    {
+        "id_stock": "1381",
+        "id_producto": "960",
+        "existencia": "1",
+        "costo_promedio": "0.5616"
+    },
+    {
+        "id_stock": "1382",
+        "id_producto": "961",
+        "existencia": "39",
+        "costo_promedio": "1.9656"
+    },
+    {
+        "id_stock": "1383",
+        "id_producto": "962",
+        "existencia": "5",
+        "costo_promedio": "2.2464"
+    },
+    {
+        "id_stock": "1384",
+        "id_producto": "963",
+        "existencia": "59",
+        "costo_promedio": "5.616"
+    },
+    {
+        "id_stock": "1385",
+        "id_producto": "964",
+        "existencia": "0.5",
+        "costo_promedio": "6.318"
+    },
+    {
+        "id_stock": "1386",
+        "id_producto": "965",
+        "existencia": "0.2501",
+        "costo_promedio": "8.424"
+    },
+    {
+        "id_stock": "1393",
+        "id_producto": "951",
+        "existencia": "98.78",
+        "costo_promedio": "2.1645"
+    },
+    {
+        "id_stock": "1399",
+        "id_producto": "966",
+        "existencia": "101",
+        "costo_promedio": "1.053"
+    },
+    {
+        "id_stock": "1401",
+        "id_producto": "967",
+        "existencia": "18",
+        "costo_promedio": "0.1404"
+    },
+    {
+        "id_stock": "1403",
+        "id_producto": "968",
+        "existencia": "256",
+        "costo_promedio": "0.6786"
+    },
+    {
+        "id_stock": "1415",
+        "id_producto": "969",
+        "existencia": "88",
+        "costo_promedio": "0.6435"
+    },
+    {
+        "id_stock": "1418",
+        "id_producto": "970",
+        "existencia": "19",
+        "costo_promedio": "0.4095"
+    },
+    {
+        "id_stock": "1419",
+        "id_producto": "971",
+        "existencia": "9",
+        "costo_promedio": "1.4625"
+    },
+    {
+        "id_stock": "1420",
+        "id_producto": "972",
+        "existencia": "2",
+        "costo_promedio": "0.6786"
+    },
+    {
+        "id_stock": "1421",
+        "id_producto": "973",
+        "existencia": "13",
+        "costo_promedio": "0.8775"
+    },
+    {
+        "id_stock": "1422",
+        "id_producto": "974",
+        "existencia": "5",
+        "costo_promedio": "1.053"
+    },
+    {
+        "id_stock": "1423",
+        "id_producto": "975",
+        "existencia": "1",
+        "costo_promedio": "1.1115"
+    },
+    {
+        "id_stock": "1424",
+        "id_producto": "976",
+        "existencia": "4",
+        "costo_promedio": "1.4625"
+    },
+    {
+        "id_stock": "1425",
+        "id_producto": "977",
+        "existencia": "15",
+        "costo_promedio": "1.1115"
+    },
+    {
+        "id_stock": "1427",
+        "id_producto": "979",
+        "existencia": "12",
+        "costo_promedio": "0.936"
+    },
+    {
+        "id_stock": "1428",
+        "id_producto": "980",
+        "existencia": "47",
+        "costo_promedio": "0.819"
+    },
+    {
+        "id_stock": "1429",
+        "id_producto": "981",
+        "existencia": "3",
+        "costo_promedio": "1.755"
+    },
+    {
+        "id_stock": "1430",
+        "id_producto": "982",
+        "existencia": "7",
+        "costo_promedio": "0.6786"
+    },
+    {
+        "id_stock": "1431",
+        "id_producto": "983",
+        "existencia": "131",
+        "costo_promedio": "0.351"
+    },
+    {
+        "id_stock": "1432",
+        "id_producto": "984",
+        "existencia": "5",
+        "costo_promedio": "1.1115"
+    },
+    {
+        "id_stock": "1433",
+        "id_producto": "985",
+        "existencia": "50",
+        "costo_promedio": "1.2285"
+    },
+    {
+        "id_stock": "1434",
+        "id_producto": "986",
+        "existencia": "9",
+        "costo_promedio": "0.5616"
+    },
+    {
+        "id_stock": "1435",
+        "id_producto": "987",
+        "existencia": "14",
+        "costo_promedio": "0.9945"
+    },
+    {
+        "id_stock": "1436",
+        "id_producto": "988",
+        "existencia": "10",
+        "costo_promedio": "6.7275"
+    },
+    {
+        "id_stock": "1437",
+        "id_producto": "989",
+        "existencia": "18",
+        "costo_promedio": "10.7055"
+    },
+    {
+        "id_stock": "1438",
+        "id_producto": "990",
+        "existencia": "17",
+        "costo_promedio": "7.722"
+    },
+    {
+        "id_stock": "1445",
+        "id_producto": "992",
+        "existencia": "12",
+        "costo_promedio": "0.7371"
+    },
+    {
+        "id_stock": "1446",
+        "id_producto": "993",
+        "existencia": "1341",
+        "costo_promedio": "0.6318"
+    },
+    {
+        "id_stock": "1447",
+        "id_producto": "994",
+        "existencia": "9",
+        "costo_promedio": "0.585"
+    },
+    {
+        "id_stock": "1449",
+        "id_producto": "996",
+        "existencia": "1382",
+        "costo_promedio": "0.5616"
+    },
+    {
+        "id_stock": "1462",
+        "id_producto": "1000",
+        "existencia": "175",
+        "costo_promedio": "1.3455"
+    },
+    {
+        "id_stock": "1621",
+        "id_producto": "464",
+        "existencia": "8",
+        "costo_promedio": "7.02"
+    },
+    {
+        "id_stock": "1932",
+        "id_producto": "991",
+        "existencia": "2",
+        "costo_promedio": "3.51"
+    },
+    {
+        "id_stock": "1980",
+        "id_producto": "952",
+        "existencia": "15",
+        "costo_promedio": "4.095"
+    },
+    {
+        "id_stock": "1983",
+        "id_producto": "921",
+        "existencia": "12",
+        "costo_promedio": "6.318"
+    },
+    {
+        "id_stock": "1991",
+        "id_producto": "807",
+        "existencia": "634",
+        "costo_promedio": "1.404"
+    },
+    {
+        "id_stock": "2281",
+        "id_producto": "919",
+        "existencia": "1",
+        "costo_promedio": "10.53"
+    }
+]

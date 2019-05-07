@@ -1,70 +1,46 @@
-const mysql = require('mysql');
-
-const host = 'localhost',
-      user = 'root',
-      password = '',
-      database = 'gestion';
+// SQLite3 
+var sqlite3 = require('sqlite3').verbose();
+var db = new sqlite3.Database('./gestion.sqlite3');
 
 
+// this function is used to get all or a single product
 exports.getProduct = function (id = undefined) {
 
-    const connection = mysql.createConnection({
-        host: host,
-        user: user,
-        password: password,
-        database: database
+    let data = [];
+
+    let sql;
+
+    id == undefined ? sql = 'SELECT * FROM producto' : sql = 'SELECT FROM producto WHERE id_producto=' + id;
+
+    db.serialize(function () {
+        db.each(sql, function (err, row) {
+            data.push(row);
+        });
     });
 
-    let data = [];
-    connection.connect();
-
-    let query;
-    id == undefined ? query = "SELECT p.id_producto, p.descripcion, p.barcode," + 
-    " s.costo_promedio, p.porcentaje_utilidad1, p.imagen FROM producto AS p " + 
-    "JOIN stock AS s ON(p.id_producto=s.id_producto) GROUP BY p.id_producto" + 
-    " ORDER BY p.id_producto" : query = 'SELECT * from producto where id=' + id;
-
-    connection.query(query, function (err, rows, fields) {
-        if (err) throw err
-
-        rows.forEach(element => {
-            //data.push(JSON.stringify(element));
-            //console.log(element)
-            //console.log()
-            data.push({
-                id_producto : element.id_producto,
-                descripcion : element.descripcion,
-                barcode : element.barcode,
-                costo: element.costo_promedio,
-                precio : element.porcentaje_utilidad1,
-                imagen: element.imagen
-            })
-        });
-    })
-
-
-    //connection.end();
-    //console.log(data);
     return data;
 }
 
-exports.agregarProducto = function (barcode, descripcion, porcentaje_utilidad1, imagen) {
-    const connection = mysql.createConnection({
-        host: host,
-        user: user,
-        password: password,
-        database: database
-    });
+exports.addProduct = function (barcode, descripcion, precio, imagen) {
 
-    connection.connect();
+    db.run("INSERT INTO producto (barcode, descripcion" +
+        ", precio, imagen) VALUES ($barcode, $descripcion, $precio" +
+        ", $imagen)", {
+            $barcode: barcode,
+            $descripcion: descripcion,
+            $precio: precio,
+            $imagen: imagen
+        });
+}
 
-    let sql = "INSERT INTO producto (barcode, descripcion, porcentaje_utilidad1, imagen) " +
-        "VALUES ('" + barcode + "', '" + descripcion + "' ," + porcentaje_utilidad1 + ",'" + imagen + "')";
-    console.log(sql);
-    connection.query(sql, function (err, result) {
-        if (err) throw err;
+exports.deleteProduct = function (id) {
 
-        console.log("1 record inserted");
+    db.run("DELETE FROM producto WHERE id_producto=" + id, function (err) {
+        if (err) {
+            return console.error(err.message);
+        }
+        console.log(`Row(s) deleted ${this.changes}`);
+        return `Fila(s) borradas ${this.changes}`;
     });
 
 }
