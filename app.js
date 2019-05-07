@@ -2,7 +2,7 @@ const express = require('express')
 const consultarProducto = require('./gestion/consultarProducto');
 
 const app = express()
-const port = 3000
+const port = process.env.PORT || 5000;
 
 // cargar productos al iniciar el servidor
 let productos = consultarProducto.getProduct();
