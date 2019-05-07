@@ -153,7 +153,7 @@ app.get('/obtener-cliente', (req, res) => {
     clientes.forEach(cliente => {
         // buscar id de elemento en la base de datos
 
-        if (req.query.id != undefined && cliente.id_ == req.query.id) {
+        if (req.query.id != undefined && cliente.id == req.query.id) {
             clienteEncontrado.push(cliente);
         }
 
@@ -166,7 +166,7 @@ app.get('/obtener-cliente', (req, res) => {
     });
 
     if (clienteEncontrado.length == 0 || clienteEncontrado == undefined)
-        clienteEncontrado.push("No se ha encontado ningun producto que coincida con ese criterio.");
+        clienteEncontrado.push("No se ha encontado ningun cliente que coincida con ese criterio.");
 
     res.send(clienteEncontrado);
 });
