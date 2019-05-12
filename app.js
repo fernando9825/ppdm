@@ -19,7 +19,7 @@ let clientes = consultarCliente.getClient();
  * ejemplo:
  * http://localhost:5000/producto 
  */
-app.get('/producto', (req, res) => {
+app.get('/productos', (req, res) => {
     res.send(productos);
 
     //refrescar productos
@@ -68,6 +68,8 @@ app.get('/obtener-producto', (req, res) => {
 
     res.send(productoEncontrado);
 });
+
+
 
 
 /**
@@ -128,7 +130,7 @@ app.get('/eliminar-producto', (req, res) => {
  * ejemplo:
  * http://localhost:5000/cliente 
  */
-app.get('/cliente', (req, res) => {
+app.get('/clientes', (req, res) => {
     res.send(clientes);
 
     //refrescar productos
@@ -214,6 +216,24 @@ app.get('/eliminar-cliente', (req, res) => {
 
     // actualizar lista de clientes
     clientes = consultarCliente.getClient();
+});
+
+
+
+
+
+
+
+
+
+
+
+/**
+ * POST TESTS
+ */
+
+app.post('/productos:id', (req, res) => {
+    res.send('user ' + req.params.id);
 });
 
 app.listen(port, () => console.log(`Servidor a la escucha en el puerto: ${port}`))

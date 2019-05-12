@@ -9468,9 +9468,8 @@ db.serialize(function () {
     // });
 
     clientes.forEach(cliente => {
-        var stmt = db.run("INSERT INTO cliente (id, nombre, direccion" +
-            ", telefono) VALUES ($id, $nombre, $direccion, $telefono)", {
-                $id: cliente.id,
+        var stmt = db.run("INSERT INTO cliente (nombre, direccion" +
+            ", telefono) VALUES ($nombre, $direccion, $telefono)", {
                 $nombre: cliente.nombre,
                 $direccion: cliente.direccion,
                 $telefono: cliente.telefono
