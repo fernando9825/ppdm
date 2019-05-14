@@ -1,6 +1,8 @@
 const express = require('express')
 const consultarProducto = require('./gestion/consultarProducto');
 const consultarCliente = require('./gestion/consultarCliente');
+const consultarPedido = require('./gestion/consultarPedidos');
+
 
 const app = express()
 const port = process.env.PORT || 5000;
@@ -11,6 +13,37 @@ let productos = consultarProducto.getProduct();
 // cargar los clientes al inicar el servidor
 let clientes = consultarCliente.getClient();
 
+// cargar los pedidos al iniciar el servidor
+let pedidos = consultarPedido.getPedido();
+let pedidos_detalle = consultarPedido.getPedidoDetalle();
+
+
+/*###################### PARTE DE LOS PEDIDOS ##################################*/
+
+
+/**
+ * Ejemplo: localhost:5000/pedidos?id_pedido=idgeneradoporapp&producto=producto&cliente=cliente&fecha=fechaporapp&id=2&cantidad=2
+ */
+// mediante el método POST
+app.post('/pedidos', (req, res) => {
+    
+    
+    consultarPedido.addPedido(req.query.id_pedido, req.query.producto, 
+        req.query.cliente, req.query.fecha, req.query.id, req.query.cantidad)    
+
+
+
+    res.send(true);
+
+    // actualizar lista de pedidos
+    pedidos = consultarPedido.getPedido();
+    pedidos_detalle = consultarPedido.getPedidoDetalle();
+})
+
+// enviar pedidos
+app.get('/pedidos', (req, res) => {res.send(pedidos)})
+
+app.get('/pedidos-detalle', (req, res) => {res.send(pedidos_detalle)})
 
 
 /*###################### PARTE DE LOS PRODUCTOS ################################*/

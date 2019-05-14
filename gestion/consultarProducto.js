@@ -10,7 +10,7 @@ exports.getProduct = function (id = undefined) {
 
     let sql;
 
-    id == undefined ? sql = 'SELECT * FROM producto' : sql = 'SELECT FROM producto WHERE id_producto=' + id;
+    id == undefined ? sql = 'SELECT * FROM producto' : sql = 'SELECT * FROM producto WHERE id_producto=' + id;
 
     db.serialize(function () {
         db.each(sql, function (err, row) {

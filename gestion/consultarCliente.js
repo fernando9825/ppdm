@@ -10,7 +10,7 @@ exports.getClient = function (id = undefined) {
 
     let sql;
 
-    id == undefined ? sql = 'SELECT * FROM cliente' : sql = 'SELECT FROM producto WHERE id=' + id;
+    id == undefined ? sql = 'SELECT * FROM cliente' : sql = 'SELECT FROM * producto WHERE id=' + id;
 
     db.serialize(function () {
         db.each(sql, function (err, row) {
