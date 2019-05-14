@@ -5,6 +5,7 @@ const consultarPedido = require('./gestion/consultarPedidos');
 
 
 const app = express()
+
 const port = process.env.PORT || 5000;
 
 // cargar productos al iniciar el servidor
@@ -15,7 +16,6 @@ let clientes = consultarCliente.getClient();
 
 // cargar los pedidos al iniciar el servidor
 let pedidos = consultarPedido.getPedido();
-let pedidos_detalle = consultarPedido.getPedidoDetalle();
 
 
 /*###################### PARTE DE LOS PEDIDOS ##################################*/
@@ -27,23 +27,29 @@ let pedidos_detalle = consultarPedido.getPedidoDetalle();
 // mediante el método POST
 app.post('/pedidos', (req, res) => {
     
-    
-    consultarPedido.addPedido(req.query.id_pedido, req.query.producto, 
-        req.query.cliente, req.query.fecha, req.query.id, req.query.cantidad)    
+    let id_pedido = req.query.id_pedido;
+    let cliente = req.query.cliente;
+    let producto = req.query.producto;
+    let precio = req.query.precio;
+    let cantidad = req.query.cantidad;
+    let total = req.query.total;
+    let fecha = req.query.fecha;
 
+
+
+    consultarPedido.addPedido(id_pedido, producto, cliente, 
+        fecha, cantidad, precio, total)    
 
 
     res.send(true);
 
     // actualizar lista de pedidos
     pedidos = consultarPedido.getPedido();
-    pedidos_detalle = consultarPedido.getPedidoDetalle();
 })
 
 // enviar pedidos
 app.get('/pedidos', (req, res) => {res.send(pedidos)})
 
-app.get('/pedidos-detalle', (req, res) => {res.send(pedidos_detalle)})
 
 
 /*###################### PARTE DE LOS PRODUCTOS ################################*/
@@ -52,12 +58,7 @@ app.get('/pedidos-detalle', (req, res) => {res.send(pedidos_detalle)})
  * ejemplo:
  * http://localhost:5000/producto 
  */
-app.get('/productos', (req, res) => {
-    res.send(productos);
-
-    //refrescar productos
-    //productos = consultarProducto.getProduct();
-});
+app.get('/productos', (req, res) => { res.send(productos) });
 
 /**
  * Para realizar la busqueda por id de un solo elemento:
@@ -163,12 +164,7 @@ app.get('/eliminar-producto', (req, res) => {
  * ejemplo:
  * http://localhost:5000/cliente 
  */
-app.get('/clientes', (req, res) => {
-    res.send(clientes);
-
-    //refrescar productos
-    //productos = consultarProducto.getProduct();
-});
+app.get('/clientes', (req, res) => { res.send(clientes) });
 
 /**
  * Para realizar la busqueda por id de un solo elemento:
@@ -251,22 +247,5 @@ app.get('/eliminar-cliente', (req, res) => {
     clientes = consultarCliente.getClient();
 });
 
-
-
-
-
-
-
-
-
-
-
-/**
- * POST TESTS
- */
-
-app.post('/productos:id', (req, res) => {
-    res.send('user ' + req.params.id);
-});
 
 app.listen(port, () => console.log(`Servidor a la escucha en el puerto: ${port}`))

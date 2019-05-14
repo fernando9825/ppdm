@@ -21,7 +21,7 @@ exports.getPedido = function (id = undefined) {
     return data;
 }
 
-exports.getPedidoDetalle = function (id = undefined) {
+/*exports.getPedidoDetalle = function (id = undefined) {
 
     let data = [];
 
@@ -36,38 +36,30 @@ exports.getPedidoDetalle = function (id = undefined) {
     });
 
     return data;
-}
+}*/
 
-exports.addPedido = function (id_pedido, producto, cliente, fecha, id, cantidad) {
+exports.addPedido = function (id_pedido, producto, cliente, fecha, cantidad, precio, total) {
 
-    let pedido = {
+    let pedido = {                   
         id_pedido: id_pedido, 
         producto: producto,
         cliente: cliente,
         fecha: fecha,
-
-        // parte de pedido detalle
-        id: id,
-        // comparte el producto
-        cantidad: cantidad
+        cantidad: cantidad,
+        precio: precio,
+        total: total
     }
 
-    db.run("INSERT INTO pedidos (id_pedido, producto" +
-        ", cliente, fecha) VALUES ($id_pedido, $producto, $cliente" +
-        ", $fecha); ", {
+    db.run("INSERT INTO pedidos (id_pedido, cliente, producto, precio, cantidad, total, fecha)" + 
+        "VALUES ($id_pedido, $cliente, $producto, $precio, $cantidad, $total, $fecha); ", {
             $id_pedido: pedido.id_pedido,
-            $producto: pedido.producto,
             $cliente: pedido.cliente,
+            $producto: pedido.producto,
+            $precio: pedido.precio,
+            $cantidad: pedido.cantidad,
+            $total: pedido.total,
             $fecha: pedido.fecha
     });
 
-    db.run("INSERT INTO pedidos_detalle " + 
-    "(id, id_pedido, producto, cantidad) " + 
-    "VALUES (null, $id_pedido, $producto, $cantidad); ",
-     {
-            $id_pedido: pedido.id_pedido,
-            $producto: pedido.producto,
-            $cantidad: pedido.cantidad
-    });
 }
 
